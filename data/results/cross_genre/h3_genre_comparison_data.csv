@@ -1,0 +1,16 @@
+genre,checkpoint,stage,mean_abs_d
+ACL Introductions,mistral_sft,sft,0.3220090459648711
+ACL Introductions,mistral_dpo,dpo,0.3478290257308301
+ACL Introductions,llama_sft,sft,0.2427158231078607
+ACL Introductions,llama_dpo,dpo,0.3809437782941487
+ACL Introductions,olmo2_sft,sft,0.3841850727976243
+ACL Introductions,olmo2_dpo,dpo,0.5441203400116937
+News Headlines,mistral_base,base,0.0681864870075218
+News Headlines,mistral_sft,sft,0.0910069550921521
+News Headlines,mistral_dpo,dpo,0.0927244233893525
+News Headlines,llama_base,base,0.053059441674328
+News Headlines,llama_sft,sft,0.062630961171202
+News Headlines,llama_dpo,dpo,0.0709911338672072
+News Headlines,olmo2_base,base,0.0440145685515527
+News Headlines,olmo2_sft,sft,0.0594212463459135
+News Headlines,olmo2_dpo,dpo,0.0903186854160083

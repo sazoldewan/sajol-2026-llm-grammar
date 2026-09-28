@@ -1,0 +1,19 @@
+# Environment used for the HPC generation jobs (generate_headlines.py,
+# generate_acl_base.py, generate_acl_sft_dpo.py), run via SLURM on the
+# original cluster (module load python/3.12-base, venv "thesis_env").
+#
+# VERIFIED: pulled directly from the actual thesis_env venv on the HPC
+# cluster via `pip freeze` (2026), not inferred or copied from a local
+# machine. This is the real generation environment. See docs/LIMITATIONS.md
+# #2 for what is still unverified (model revisions are separate — see #1).
+#
+# Python 3.12.0 (HPC: module load python/3.12-base)
+
+torch==2.12.0
+transformers==5.11.0
+accelerate==1.14.0     # not imported directly by the generation scripts, but
+                        # required by transformers at runtime whenever
+                        # device_map="auto" is used (as it is here); present
+                        # in the verified thesis_env pip freeze output
+datasets==5.0.1
+huggingface_hub==1.19.0

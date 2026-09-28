@@ -1,0 +1,1001 @@
+prompt_id,publication,date,year,url,word_count
+HL_0001,Reuters,2019-06-27 00:00:00,2019,https://www.reuters.com/article/france-politics-sarkozy/frances-sarkozy-reveals-his-passions-but-insists-no-come-back-on-cards-idUSL8N23Y5AS,373
+HL_0002,Reuters,2019-06-23 00:00:00,2019,https://www.reuters.com/article/us-venezuela-politics/venezuela-detains-six-military-police-officials-family-members-activists-idUSKCN1TO0OA,335
+HL_0003,Vice,2017-06-19 17:56:00,2017,https://www.vice.com/en_us/article/7xpjmx/girl-scouts-are-training-the-next-generation-of-female-hackers,304
+HL_0004,Reuters,2018-12-28 00:00:00,2018,https://www.reuters.com/article/us-wells-fargo-settlement/wells-fargo-to-pay-575-million-in-settlement-with-u-s-states-idUSKCN1OR19Q,387
+HL_0005,Vice,2016-12-18 16:40:00,2016,https://www.vice.com/en_us/article/kbdjvw/nebraska-is-probably-regretting-letting-go-of-football-championship-subdivision-bound-bo-pelini-right-now,476
+HL_0006,TMZ,2019-06-11 00:00:00,2019,https://www.tmz.com/2019/06/11/kylie-jenner-jordyn-woods-say-hello-together-party-nightclub-bootsy-bellows/,312
+HL_0007,Reuters,2019-06-27 00:00:00,2019,https://www.reuters.com/article/us-sinclair-ma-probe/fcc-probes-whether-sinclair-misled-agency-during-failed-tribune-deal-idUSKCN1TS300,456
+HL_0008,Reuters,2019-06-24 00:00:00,2019,https://www.reuters.com/article/us-iea-energy/iea-concerned-about-middle-east-tensions-stands-ready-to-act-idUSKCN1TP1MY,338
+HL_0009,Reuters,2019-02-01 00:00:00,2019,https://www.reuters.com/article/us-usa-abuse-texas/catholic-leaders-in-texas-name-around-300-priests-accused-of-abuse-idUSKCN1PQ3LX,316
+HL_0010,Reuters,2017-04-07 00:00:00,2017,https://www.reuters.com/article/us-usa-cyber-surveillance/u-s-lawmakers-ask-for-disclosure-of-number-of-americans-under-surveillance-idUSKBN1792G6,411
+HL_0011,Vice,2017-12-18 16:04:00,2017,https://www.vice.com/en_us/article/yw5g5y/the-best-christmas-music-knows-this-is-a-sad-time-of-year,392
+HL_0012,Business Insider,2018-04-18 19:52:56,2018,https://www.businessinsider.com/fortnite-meteors-what-it-means-2018-4,471
+HL_0013,Vox,2016-04-29 08:30:34,2016,https://www.vox.com/2016/4/29/11586536/digital-spring-cleaning-unclutter-organize-clean-up-technology,345
+HL_0014,Hyperallergic,2016-05-31 00:00:00,2016,https://hyperallergic.com/301793/explore-digital-storytelling-at-sva-with-the-mfa-visual-narratives-upcoming-exhibition/,330
+HL_0015,Reuters,2019-01-18 00:00:00,2019,https://www.reuters.com/article/us-usa-abortion/trump-tells-anti-abortion-marchers-he-will-support-them-idUSKCN1PC215,427
+HL_0016,Vox,2016-03-16 03:30:52,2016,https://www.vox.com/2016/3/15/11243398/bernie-sanders-election-results-2016-winning,423
+HL_0017,Reuters,2019-03-24 00:00:00,2019,https://www.reuters.com/article/us-global-markets/u-s-treasury-yields-hit-lowest-since-late-2017-global-stocks-fall-idUSKCN1R50Z4,463
+HL_0018,Reuters,2019-07-03 00:00:00,2019,https://www.reuters.com/article/us-northkorea-southkorea-defectors/south-korea-sacks-army-commander-over-north-korea-defector-boat-idUSKCN1TY168,359
+HL_0019,Reuters,2019-03-27 00:00:00,2019,https://www.reuters.com/article/us-usa-economy-currentaccount/u-s-current-account-deficit-hits-10-year-high-firms-bring-back-more-foreign-profits-idUSKCN1R81R5,384
+HL_0020,TMZ,2018-09-28 00:00:00,2018,https://www.tmz.com/2018/09/28/brett-kavanaugh-senate-judiciary-committee-votes-recommendation-supreme-court/,303
+HL_0021,Vice,2017-04-11 15:30:00,2017,https://www.vice.com/en_us/article/4x9ggw/united-airlines-ceo-said-ejected-passenger-was-being-belligerent-and-disruptive,303
+HL_0022,Reuters,2019-06-26 00:00:00,2019,https://www.reuters.com/article/ivorycoast-cocoa-childlabour/cocoa-growing-ivory-coast-draws-up-new-plan-to-stop-child-labour-idUSL8N23X3W9,418
+HL_0023,Reuters,2019-06-07 00:00:00,2019,https://www.reuters.com/article/us-russia-forum-putin/putin-stands-by-china-criticizes-u-s-in-trade-huawei-disputes-idUSKCN1T819W,472
+HL_0024,Vice,2017-06-21 14:20:00,2017,https://www.vice.com/en_us/article/ev4w5j/google-maps-earth-canada-indigenous-lands-territories,473
+HL_0025,Reuters,2019-06-11 00:00:00,2019,https://www.reuters.com/article/us-health-mental-conflict/mental-illness-affects-a-fifth-of-people-living-in-war-zones-idUSKCN1TC2U4,405
+HL_0026,Reuters,2019-06-25 00:00:00,2019,https://www.reuters.com/article/huawei-tech-ups-fedex/update-1-ups-will-not-join-fedex-lawsuit-against-us-government-idUSL4N23W4DZ,419
+HL_0027,Reuters,2018-08-27 00:00:00,2018,https://www.reuters.com/article/us-usa-trade-farmers/u-s-government-to-pay-4-7-billion-in-tariff-related-aid-to-farmers-idUSKCN1LC23X,422
+HL_0028,Vice News,2018-01-10 00:00:00,2018,https://news.vice.com/en_us/article/ne4qq7/trump-randomly-agrees-to-a-clean-daca-bill,482
+HL_0029,Reuters,2018-03-18 00:00:00,2018,https://www.reuters.com/article/us-britain-russia-putin/putin-says-nonsense-to-think-russia-would-poison-spy-in-britain-idUSKBN1GU0Z8,363
+HL_0030,Reuters,2019-06-25 00:00:00,2019,https://www.reuters.com/article/us-usa-immigration-wayfair/wayfair-employee-walkout-called-over-alleged-furniture-sales-to-us-migrant-camp-idUSKCN1TQ33C,415
+HL_0031,Reuters,2018-05-15 00:00:00,2018,https://www.reuters.com/article/us-britain-eu-thomsonreuters-ireland/thomson-reuters-to-move-forex-derivatives-to-dublin-due-to-brexit-idUSKCN1IG19L,488
+HL_0032,Vice,2018-07-12 17:24:00,2018,https://www.vice.com/en_us/article/7xq934/canadian-telecoms-make-the-most-money-on-mobile-data-in-the-world,478
+HL_0033,Vox,2016-03-30 20:50:03,2016,https://www.vox.com/2016/3/30/11333606/clinton-sanders-debate,345
+HL_0034,Reuters,2016-05-26 00:00:00,2016,https://www.reuters.com/article/us-usa-lgbt/mississippi-governor-to-join-suit-against-obama-transgender-policy-idUSKCN0YH2E3,369
+HL_0035,Business Insider,2016-08-12 21:13:49,2016,https://www.businessinsider.com/isis-human-shields-2016-8,305
+HL_0036,Reuters,2018-04-23 00:00:00,2018,https://www.reuters.com/article/us-usa-tennessee-shooting-patron/man-who-disarmed-nashville-shooter-says-he-just-wanted-to-live-idUSKBN1HU05R,448
+HL_0037,Business Insider,2019-01-16 12:48:00,2019,https://www.businessinsider.com/hailey-baldwin-paid-150000-dollars-for-one-instagram-post-2019-1,451
+HL_0038,Vice,2016-05-23 22:00:00,2016,https://www.vice.com/en_us/article/8qeeab/once-again-everything-you-knew-about-high-fat-diets-is-wrong,384
+HL_0039,Vox,2016-03-04 21:20:03,2016,https://www.vox.com/2016/3/4/11162618/scott-kelly-height,478
+HL_0040,Reuters,2019-04-05 00:00:00,2019,https://www.reuters.com/article/us-usa-court-guns/supreme-court-rejects-gun-rights-advocates-over-bump-stocks-idUSKCN1RH212,301
+HL_0041,Hyperallergic,2019-03-05 00:00:00,2019,https://hyperallergic.com/487964/german-museum-plans-to-open-michael-jackson-exhibition-despite-leaving-neverland-controversy/,413
+HL_0042,Reuters,2018-03-25 00:00:00,2018,https://www.reuters.com/article/us-afghanistan-russia/russia-denies-aiding-afghan-taliban-in-wake-of-u-s-generals-comments-idUSKBN1H1064,356
+HL_0043,Vox,2016-11-30 19:44:48,2016,https://www.vox.com/world/2016/11/30/13797178/donald-trump-call-nawaz-sharif,361
+HL_0044,Vice News,2018-04-27 00:00:00,2018,https://news.vice.com/en_us/article/pax5x8/sexual-misconduct-allegations-tom-brokaw-linda-vester,433
+HL_0045,Reuters,2019-06-28 00:00:00,2019,https://www.reuters.com/article/us-usa-economy-spending/us-consumer-spending-rises-in-may-inflation-muted-idUSKCN1TT1QX,441
+HL_0046,Vox,2016-07-22 03:34:25,2016,https://www.vox.com/2016/7/21/12254616/trump-acceptance-speech-lgbtq-rnc,348
+HL_0047,Reuters,2018-05-15 00:00:00,2018,https://www.reuters.com/article/us-usa-immigration-daca/u-s-judges-weigh-fate-of-program-protecting-young-immigrants-idUSKCN1IG3H8,432
+HL_0048,Reuters,2018-10-17 00:00:00,2018,https://www.reuters.com/article/us-usa-stocks/wall-st-falls-as-investors-eye-a-united-hawkish-fed-idUSKCN1MR1QK,500
+HL_0049,Vice News,2018-05-08 00:00:00,2018,https://news.vice.com/en_us/article/a3awdk/kim-denuclearization-secret-meeting-xi-china,498
+HL_0050,Vox,2016-03-21 16:00:07,2016,https://www.vox.com/2016/3/21/11276938/donald-trump-aipac-protest-walk-out-rabbis,439
+HL_0051,Vice,2017-03-21 21:42:00,2017,https://www.vice.com/en_us/article/pgn7db/dwight-howard-used-to-eat-so-much-goddamned-candy,422
+HL_0052,TMZ,2017-11-27 00:00:00,2017,https://www.tmz.com/2017/11/27/ray-allen-accuser-judge-restraining-order/,343
+HL_0053,Vice,2016-02-17 17:00:00,2016,https://www.vice.com/en_us/article/xygdv7/twitter-adds-gif-search,300
+HL_0054,Vox,2016-10-11 23:22:46,2016,https://www.vox.com/2016/10/11/13250450/twitter-flight-developer-conference-2016,396
+HL_0055,Vox,2018-11-06 15:30:05,2018,https://www.vox.com/policy-and-politics/2018/11/6/18067756/midterm-election-russia-hacking-interference-meddling-china-iran,455
+HL_0056,Vice News,2016-02-08 00:00:00,2016,https://news.vice.com/en_us/article/ywjq7m/leopard-injures-six-in-school-invasion-in-india,452
+HL_0057,Reuters,2019-06-06 00:00:00,2019,https://www.reuters.com/article/us-soccer-goldcup/derby-countys-holmes-in-23-man-united-states-gold-cup-squad-idUSKCN1T72DZ,357
+HL_0058,Hyperallergic,2018-10-02 00:00:00,2018,https://hyperallergic.com/463473/damien-hirst-abandons-a-seaside-town-for-a-52-million-studio/,432
+HL_0059,Business Insider,2017-10-31 16:23:00,2017,https://www.businessinsider.com/mylan-pricing-collusion-civil-investigation-expanded-2017-10,437
+HL_0060,Reuters,2016-05-25 00:00:00,2016,https://www.reuters.com/article/us-puertorico-debt-congress/lawmakers-see-path-ahead-for-puerto-rico-rescue-plan-idUSKCN0YF30C,390
+HL_0061,Vice,2018-11-28 15:30:00,2018,https://www.vice.com/en_us/article/7xy4xe/brett-kavanaugh-basketball-coach-christine-blasey-ford,486
+HL_0062,Reuters,2019-06-26 00:00:00,2019,https://www.reuters.com/article/usa-socialmedia/update-1-white-house-plans-new-social-media-summit-as-congress-raises-questions-idUSL2N23X14U,491
+HL_0063,Vox,2017-02-02 11:00:01,2017,https://www.vox.com/2017/2/2/14479772/super-bowl-51-2017-nfl-sunday-stream-watch-online,449
+HL_0064,Vox,2016-02-10 20:51:58,2016,https://www.vox.com/2016/2/10/11587768/facebooks-mark-zuckerberg-appalled-by-marc-andreessens-appalling,346
+HL_0065,Business Insider,2016-12-17 08:11:00,2016,https://www.businessinsider.com/afp-cut-it-out-obama-told-putin-on-cyber-attacks-2016-12,406
+HL_0066,Reuters,2019-06-10 00:00:00,2019,https://www.reuters.com/article/vatican-gender/vatican-condemns-gender-theory-as-bid-to-destroy-nature-idUSL8N23H3MQ,477
+HL_0067,Reuters,2017-06-08 00:00:00,2017,https://www.reuters.com/article/us-usa-trade-steel/wilbur-ross-sees-genuine-national-security-concern-on-steel-idUSKBN18Z26U,333
+HL_0068,Vice News,2018-01-02 00:00:00,2018,https://news.vice.com/en_us/article/43qabd/its-2018-and-trump-is-still-tweeting-about-hillary-clintons-email,412
+HL_0069,Vice,2016-01-21 20:19:00,2016,https://www.vice.com/en_us/article/wnmbqq/jordan-morris-signs-with-the-seattle-sounders-the-us-soccer-world-implodes,316
+HL_0070,Vice,2016-09-30 11:00:00,2016,https://www.vice.com/en_us/article/53dk7q/this-cybersecurity-firm-maps-hackers-lives-by-the-clues-they-leave-online,469
+HL_0071,Reuters,2019-06-27 00:00:00,2019,https://www.reuters.com/article/china-stocks-hongkong-close/hong-kong-shares-end-higher-on-sino-us-trade-truce-hopes-idUSZZN2NM400,361
+HL_0072,Reuters,2019-06-19 00:00:00,2019,https://www.reuters.com/article/tesco-outlook/update-1-britains-tesco-says-no-timetable-for-finest-store-launch-idUSL8N23Q2SK,439
+HL_0073,Vice,2018-03-01 20:28:00,2018,https://www.vice.com/en_us/article/7x7jb9/in-search-for-any-excuse-but-guns-trump-to-meet-with-video-game-industry,363
+HL_0074,Reuters,2019-06-17 00:00:00,2019,https://www.reuters.com/article/hongkong-regulator/hong-kong-regulator-probing-book-building-for-equities-and-bonds-idUSL4N23O2AW,303
+HL_0075,Vox,2019-01-23 15:00:00,2019,https://www.vox.com/2019/1/23/18194228/trump-uninsured-rate-obamacare-medicaid,400
+HL_0076,Business Insider,2016-10-06 15:06:00,2016,https://www.businessinsider.com/bill-gates-innovations-2016-10,460
+HL_0077,Business Insider,2018-09-14 06:21:51,2018,https://www.businessinsider.com/foreign-born-population-in-us-is-larger-and-more-educated-than-ever-2018-9,327
+HL_0078,Vox,2017-03-30 21:26:29,2017,https://www.vox.com/2017/3/30/15121624/trump-freedom-caucus-tweet,444
+HL_0079,Reuters,2018-05-08 00:00:00,2018,https://www.reuters.com/article/us-usa-trade-china/trump-chinas-xi-discuss-trade-ahead-of-talks-next-week-idUSKBN1I91FI,462
+HL_0080,Vox,2016-05-19 17:10:02,2016,https://www.vox.com/2016/5/19/11713668/growth-and-sprawl,327
+HL_0081,Vice,2016-06-29 20:00:00,2016,https://www.vice.com/en_us/article/yvezdv/this-tiny-endangered-frog-has-halted-condo-development-in-quebec,361
+HL_0082,Reuters,2018-03-01 00:00:00,2018,https://www.reuters.com/article/us-el-al-arlns-saudi-exclusive/exclusive-israels-el-al-seeks-international-help-to-access-saudi-airspace-idUSKCN1GD4SZ,422
+HL_0083,Vice,2016-09-14 20:05:00,2016,https://www.vice.com/en_us/article/4x8qpg/fat-jew-major-lazer-cover-band-major-behavior-video,352
+HL_0084,Reuters,2018-09-06 00:00:00,2018,https://www.reuters.com/article/us-insys-opioids/maryland-charges-insys-with-engaging-in-deceptive-opioid-scheme-idUSKCN1LM2HI,405
+HL_0085,Vox,2018-04-12 15:08:39,2018,https://www.vox.com/2018/3/7/17086788/wework-acquisition-list-conductor-meetup-flatiron,484
+HL_0086,Vice,2016-02-02 18:41:00,2016,https://www.vice.com/en_us/article/d7yp7m/heres-why-microsoft-is-automatically-downloading-windows-10-onto-pcs,354
+HL_0087,Reuters,2019-06-11 00:00:00,2019,https://www.reuters.com/article/lithium-electric-lme/update-3-albemarle-declines-to-participate-in-lme-lithium-contract-idUSL2N23I0NQ,473
+HL_0088,Reuters,2019-03-30 00:00:00,2019,https://www.reuters.com/article/us-usa-election-biden/ex-vice-president-biden-doesnt-recall-inappropriate-kiss-alleged-by-activist-spokesman-idUSKCN1RB0QE,480
+HL_0089,Reuters,2018-11-20 00:00:00,2018,https://www.reuters.com/article/us-china-society-points/beijing-pioneering-citizens-points-system-critics-brand-orwellian-idUSKCN1NP0FT,451
+HL_0090,Reuters,2019-07-09 00:00:00,2019,https://www.reuters.com/article/china-copper-refining/update-1-chinas-top-two-smelters-sign-copper-concentrate-deals-with-antofagasta-idUSL4N24A0VC,360
+HL_0091,Reuters,2016-04-07 00:00:00,2016,https://www.reuters.com/article/us-usa-election-republicans/ted-cruz-hit-with-new-york-values-trump-gets-giuliani-backing-idUSKCN0X42J7,361
+HL_0092,Vice,2016-09-25 12:00:00,2016,https://www.vice.com/en_us/article/78ey3d/neon-plasticine-jungle-paintings,464
+HL_0093,Reuters,2019-04-21 00:00:00,2019,https://www.reuters.com/article/us-sri-lanka-blasts-timeline/timeline-sri-lankan-bomb-attacks-on-hotels-churches-20-minutes-of-carnage-idUSKCN1RX0NS,390
+HL_0094,TMZ,2016-03-31 00:00:00,2016,https://www.tmz.com/2016/03/31/jon-jones-showdown-in-court-in-orange-jail-uniform/,345
+HL_0095,Reuters,2017-12-25 00:00:00,2017,https://www.reuters.com/article/us-iran-nuclear-court/iran-confirms-upholding-death-sentence-for-academic-over-spying-idUSKBN1EJ0LZ,364
+HL_0096,Reuters,2019-06-11 00:00:00,2019,https://www.reuters.com/article/us-kenya-electricity/power-from-kenyas-planned-lamu-plant-could-cost-10-times-more-than-estimated-study-idUSKCN1TC1MP,465
+HL_0097,Reuters,2019-06-27 00:00:00,2019,https://www.reuters.com/article/facebook-deepfake/facebook-ceo-says-delay-in-flagging-fake-pelosi-video-was-execution-mistake-idUSL4N23X4QF,365
+HL_0098,Reuters,2019-06-28 00:00:00,2019,https://www.reuters.com/article/bulgaria-russia-citizenship/bulgaria-acts-to-void-citizenship-of-3-russians-and-kazakh-over-irregularities-idUSL8N23Z2RL,300
+HL_0099,Vice,2016-04-21 18:55:00,2016,https://www.vice.com/en_us/article/mvxm3x/naked-restaurant-opening-in-london-cant-wait,383
+HL_0100,Vox,2018-08-29 12:01:57,2018,https://www.vox.com/policy-and-politics/2018/8/28/17793198/florida-primary-results-andrew-gillum-governor,478
+HL_0101,Vice,2017-03-29 20:50:00,2017,https://www.vice.com/en_us/article/7xzbg9/americans-still-dont-think-fathers-deserve-paternity-leave,393
+HL_0102,Vice,2016-10-17 00:14:00,2016,https://www.vice.com/en_us/article/pgn97z/the-pittsburgh-steelers-machine-has-a-cog-missing,443
+HL_0103,Vice,2016-06-30 04:00:00,2016,https://www.vice.com/en_us/article/5gqzvn/asking-for-a-friend-what-actually-happens-if-you-never-wash-your-sheets,476
+HL_0104,Reuters,2018-09-03 00:00:00,2018,https://www.reuters.com/article/us-usa-trump-labor/on-labor-day-trump-hits-back-at-largest-union-leader-idUSKCN1LJ1H1,386
+HL_0105,Vox,2016-12-19 00:32:22,2016,https://www.vox.com/2016/12/18/14001048/robotic-hand-cornell-delicately-human-soft-robots,351
+HL_0106,Reuters,2019-06-20 00:00:00,2019,https://www.reuters.com/article/us-golf-women-pgachamp-kim/green-grabs-first-round-lead-at-womens-pga-championship-idUSKCN1TL2TQ,418
+HL_0107,Vox,2016-03-08 17:10:24,2016,https://www.vox.com/2016/3/8/11586790/samsungs-media-struggles-continue-its-milk-virtual-reality-boss-has,303
+HL_0108,Reuters,2018-06-01 00:00:00,2018,https://www.reuters.com/article/us-italy-politics-eurozone-commission/eu-confident-italys-new-government-will-cooperate-with-partners-idUSKCN1IX4IK,310
+HL_0109,Vox,2016-03-18 14:00:17,2016,https://www.vox.com/2016/3/18/11587068/payments-startup-stripe-to-help-cuban-internet-startups-set-up-shop,433
+HL_0110,Reuters,2018-03-04 00:00:00,2018,https://www.reuters.com/article/us-usa-guns-florida/florida-senate-rejects-ban-on-assault-weapons-votes-to-arm-teachers-idUSKBN1GG0QT,336
+HL_0111,Vox,2017-10-26 15:20:01,2017,https://www.vox.com/culture/2017/10/26/16552678/julio-torres-jimmy-fallon-halloween-costume-ideas,330
+HL_0112,Reuters,2018-08-08 00:00:00,2018,https://www.reuters.com/article/us-usa-ofr-cuts/trump-administration-cuts-staff-at-financial-markets-watchdog-source-idUSKBN1KT23O,477
+HL_0113,TMZ,2019-02-03 00:00:00,2019,https://www.tmz.com/2019/02/03/love-and-hip-hop-star-yandy-pepper-sprayed-protest-mdc-brooklyn-prison-conditions/,388
+HL_0114,Vox,2017-08-28 18:45:01,2017,https://www.vox.com/policy-and-politics/2017/8/28/16215666/brexit-strategist-republicans-2018-midterm-election-strategy,384
+HL_0115,Reuters,2019-03-18 00:00:00,2019,https://www.reuters.com/article/us-att-warner-media-tsujihara/warner-bros-ceo-kevin-tsujihara-resigns-as-att-probes-mistakes-idUSKCN1QZ26Q,439
+HL_0116,Vox,2016-11-01 15:00:03,2016,https://www.vox.com/world/2016/11/1/13481594/donald-trump-explained-foreign-policy,397
+HL_0117,Reuters,2019-06-25 00:00:00,2019,https://www.reuters.com/article/credit-suisse-gp-allfunds/update-2-fund-supermarket-allfunds-bulks-up-with-credit-suisse-deal-idUSL8N23W0IX,403
+HL_0118,Vox,2016-11-18 17:11:34,2016,https://www.vox.com/2016/11/18/13677620/draftkings-fanduel-merger-jason-robins-nigel-eccles,396
+HL_0119,Hyperallergic,2016-12-03 00:00:00,2016,https://hyperallergic.com/342566/vantablack-harvard-art-museums/,392
+HL_0120,Reuters,2018-04-18 00:00:00,2018,https://www.reuters.com/article/us-usa-epa-congress/epas-pruitt-under-spending-probe-senators-urge-his-ouster-idUSKBN1HP2UN,481
+HL_0121,Vox,2018-05-03 17:20:02,2018,https://www.vox.com/2018/5/3/17314664/2018-midterm-polls-policy-priority-voters,377
+HL_0122,Vice,2017-05-04 20:10:00,2017,https://www.vice.com/en_us/article/qvdkvq/after-passing-cruel-and-deadly-healthcare-bill-the-gop-celebrates-with-beer,393
+HL_0123,Vice News,2018-09-06 00:00:00,2018,https://news.vice.com/en_us/article/vbj5a9/trumps-inauguration-photos-were-doctored-to-make-the-crowd-look-bigger-report-says,412
+HL_0124,Reuters,2017-11-06 00:00:00,2017,https://www.reuters.com/article/us-usa-banks-risk/head-of-u-s-government-financial-agency-to-resign-idUSKBN1D624T,435
+HL_0125,Reuters,2019-02-16 00:00:00,2019,https://www.reuters.com/article/us-usa-trade-china-media/china-u-s-trade-talks-making-a-final-sprint-state-media-idUSKCN1Q5042,384
+HL_0126,Reuters,2016-06-20 00:00:00,2016,https://www.reuters.com/article/us-usa-election-biden/in-separate-speeches-obama-biden-carter-target-trump-policies-idUSKCN0Z62LO,469
+HL_0127,Business Insider,2017-03-11 12:23:43,2017,https://www.businessinsider.com/turkeys-president-erdogan-the-dutch-government-are-nazi-remnants-2017-3,364
+HL_0128,Business Insider,2016-10-25 18:00:18,2016,https://www.businessinsider.com/directv-now-35-per-month-with-100-channels-2016-10,465
+HL_0129,Reuters,2019-06-17 00:00:00,2019,https://www.reuters.com/article/global-oil/update-8-oil-prices-fall-1-as-economic-worries-outweigh-tanker-tensions-idUSL4N23O0Q9,478
+HL_0130,Vox,2018-10-23 20:03:31,2018,https://www.vox.com/2018/10/23/18015228/facebook-top-political-ad-buyers-trump-beto-elections,449
+HL_0131,Vox,2016-12-15 18:20:00,2016,https://www.vox.com/2016/12/15/13967842/obamacare-tax-cut-wealthy,368
+HL_0132,Vox,2018-06-26 15:06:58,2018,https://www.vox.com/policy-and-politics/2018/6/26/17505768/supreme-court-california-abortion-decision,384
+HL_0133,Reuters,2018-10-19 00:00:00,2018,https://www.reuters.com/article/us-usa-trade-wto/clash-over-trump-tariffs-heats-up-with-barrage-of-wto-litigation-idUSKCN1MT1L4,334
+HL_0134,Business Insider,2018-01-16 07:57:18,2018,https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-january-16-2018-1,432
+HL_0135,Vox,2016-06-25 18:30:02,2016,https://www.vox.com/2016/6/25/12027294/media-startups-without-a-mission-will-crash-and-burn-brian-lam-says,475
+HL_0136,Reuters,2018-04-04 00:00:00,2018,https://www.reuters.com/article/us-usa-trade-china-latin-america/brazil-soy-exporters-set-to-win-big-from-u-s-china-trade-spat-idUSKCN1HB2XK,479
+HL_0137,Business Insider,2017-09-21 15:18:21,2017,https://www.businessinsider.com/netflix-escobar-family-in-trademark-fight-over-narcos-2017-9,396
+HL_0138,Reuters,2017-11-05 00:00:00,2017,https://www.reuters.com/article/us-usa-politics-democrats/democratic-leader-vows-fair-nomination-process-in-2020-after-uproar-idUSKBN1D500C,487
+HL_0139,Reuters,2019-06-12 00:00:00,2019,https://www.reuters.com/article/us-indonesia-environment/indonesia-plans-permanent-moratorium-on-new-forest-clearance-minister-idUSKCN1TD17R,305
+HL_0140,Reuters,2017-11-10 00:00:00,2017,https://www.reuters.com/article/us-usa-trump-russia-socialmedia/google-supports-u-s-efforts-to-disclose-buyers-of-online-political-ads-idUSKBN1DA099,399
+HL_0141,Vice News,2018-12-28 00:00:00,2018,https://news.vice.com/en_us/article/yw795y/trump-administration-suggests-broke-workers-pay-rent-with-manual-labor-during-the-shutdown,435
+HL_0142,Reuters,2019-06-11 00:00:00,2019,https://www.reuters.com/article/us-television-central-park-five/central-park-5-prosecutor-says-netflix-series-defames-her-with-false-information-idUSKCN1TC2RQ,415
+HL_0143,Vox,2017-07-05 17:50:02,2017,https://www.vox.com/identities/2017/7/5/15923024/auschwitz-museum-louisiana-congressman-clay-higgins,423
+HL_0144,Reuters,2019-06-25 00:00:00,2019,https://www.reuters.com/article/us-saudi-aramco/saudi-aramco-can-meet-customer-demand-despite-gulf-tension-ceo-idUSKCN1TQ0ST,428
+HL_0145,Vox,2017-07-25 07:00:01,2017,https://www.vox.com/2017/7/25/16020944/bill-gates-investment-money-trucking-startup-convoy,344
+HL_0146,Vox,2017-02-10 16:40:02,2017,https://www.vox.com/videos/2017/2/10/14575572/ibtihaj-muhammad-was-the-first-us-olympian-to-wear-a-hijab,414
+HL_0147,Reuters,2019-06-20 00:00:00,2019,https://www.reuters.com/article/russia-markets/update-1-russian-rouble-hits-10-month-high-after-dovish-fed-statement-idUSL8N23R4PT,365
+HL_0148,Vox,2017-08-17 21:08:45,2017,https://www.vox.com/2017/8/17/16163510/sheryl-sandberg-facebook-stock-sell-donation-100-million-nonprofit-leanin-option-b-philanthropy,349
+HL_0149,Vice,2016-08-22 15:29:00,2016,https://www.vice.com/en_us/article/aeb85b/adam-claytons-conspicuous-bollocks-the-premier-league-review,377
+HL_0150,Reuters,2018-05-15 00:00:00,2018,https://www.reuters.com/article/us-home-depot-results/home-depot-posts-rare-sales-miss-as-delayed-spring-hits-demand-idUSKCN1IG1EZ,449
+HL_0151,Reuters,2019-07-04 00:00:00,2019,https://www.reuters.com/article/angola-swf-swiss/asset-manager-quantum-says-swiss-prosecutors-close-angola-related-case-idUSL8N2452RB,344
+HL_0152,Reuters,2016-01-10 00:00:00,2016,https://www.reuters.com/article/us-usa-election-cruz/citizen-cruz-trump-hammers-away-u-s-senate-leader-mum-on-eligibility-idUSKCN0UO0TD20160110,465
+HL_0153,Vice,2017-01-23 16:12:00,2017,https://www.vice.com/en_us/article/vvvdnj/on-being-blocked-by-donald-trump-on-twitter-and-disbelief,335
+HL_0154,Reuters,2018-01-31 00:00:00,2018,https://www.reuters.com/article/us-new-jersey-menendez/u-s-prosecutors-drop-corruption-case-against-sen-menendez-idUSKBN1FK2IN,448
+HL_0155,Business Insider,2016-07-29 12:58:00,2016,https://www.businessinsider.com/r-chilean-police-seize-12-million-worth-of-cocaine-in-drug-bust-2016-7,469
+HL_0156,Reuters,2019-06-24 00:00:00,2019,https://www.reuters.com/article/global-oil/update-10-oil-mixed-on-crude-demand-fears-and-us-iran-tensions-idUSL4N23V0UR,409
+HL_0157,Vox,2018-06-04 20:50:02,2018,https://www.vox.com/2018/6/4/17426546/sarah-sanders-white-house-press-briefing-trump-pardon,350
+HL_0158,Vice,2017-11-03 19:05:00,2017,https://www.vice.com/en_us/article/mb39px/lets-figure-out-what-the-hell-is-going-on-in-drams-check-ya-fabrics,344
+HL_0159,Vice,2017-02-24 19:38:00,2017,https://www.vice.com/en_us/article/8qewvv/heroin-was-responsible-for-one-in-four-overdose-deaths-in-2015-says-cdc-vgtrn,357
+HL_0160,Business Insider,2017-01-31 21:45:36,2017,https://www.businessinsider.com/joe-lieberman-trump-muslim-immigration-ban-2017-1,378
+HL_0161,Vice,2017-07-04 12:15:00,2017,https://www.vice.com/en_us/article/xwzzp4/american-flag-truck-nutz-artist-june-glasson,451
+HL_0162,Reuters,2019-06-11 00:00:00,2019,https://www.reuters.com/article/us-soccer-worldcup-usa-tha-report/morgan-scores-five-as-u-s-beat-thailand-with-record-13-0-win-idUSKCN1TC2OI,477
+HL_0163,Reuters,2019-06-20 00:00:00,2019,https://www.reuters.com/article/us-usa-election-booker/us-democratic-hopeful-booker-proposes-clemency-for-thousands-of-drug-offenders-idUSKCN1TL155,484
+HL_0164,Reuters,2019-01-03 00:00:00,2019,https://www.reuters.com/article/us-saudi-khashoggi-court/saudi-prosecutor-seeks-death-penalties-in-khashoggi-case-idUSKCN1OX0OR,497
+HL_0165,Vox,2019-03-19 16:57:51,2019,https://www.vox.com/energy-and-environment/2019/3/18/18271101/nebraska-flooding-photos,448
+HL_0166,Business Insider,2018-11-03 22:26:01,2018,https://www.businessinsider.com/early-voting-states-2018-midterm-elections-2018-11,301
+HL_0167,Vox,2017-02-27 03:39:20,2017,https://www.vox.com/2017/2/26/14747318/oscars-2017-best-foreign-film-asghar-farhadi-speech,408
+HL_0168,Reuters,2019-06-20 00:00:00,2019,https://www.reuters.com/article/us-sudan-politics/hundreds-demonstrate-for-civilian-rule-in-sudans-state-capitals-idUSKCN1TL1YQ,401
+HL_0169,Reuters,2018-08-28 00:00:00,2018,https://www.reuters.com/article/us-iran-nuclear-usa-sanctions/u-s-iran-misusing-world-court-with-suit-aimed-at-lifting-sanctions-idUSKCN1LD14J,422
+HL_0170,Reuters,2019-02-15 00:00:00,2019,https://www.reuters.com/article/us-basketball-nba-sacramento-gaming/californias-sacramento-kings-to-launch-precursor-to-in-arena-sports-betting-idUSKCN1Q419Y,375
+HL_0171,Vice,2019-01-11 18:02:00,2019,https://www.vice.com/en_us/article/pa5jqb/the-government-shutdown-has-halted-wildlife-conservation-and-research,497
+HL_0172,Vox,2016-10-17 16:40:03,2016,https://www.vox.com/policy-and-politics/2016/10/17/13305448/trump-voter-fraud,422
+HL_0173,Reuters,2019-06-13 00:00:00,2019,https://www.reuters.com/article/usa-trade-eu-beef/eu-seals-deal-to-boost-us-beef-imports-sources-idUSL8N23K5HI,399
+HL_0174,Reuters,2019-06-14 00:00:00,2019,https://www.reuters.com/article/us-chile-church-abuse/chilean-bishop-resigns-after-comments-about-last-supper-idUSKCN1TF2GD,348
+HL_0175,Vox,2018-09-26 15:25:01,2018,https://www.vox.com/policy-and-politics/2018/9/26/17905372/brett-kavanaugh-calendar-georgetown-prep-evidence,372
+HL_0176,Vox,2016-07-30 18:38:37,2016,https://www.vox.com/2016/7/30/12332470/harry-potter-spoilers-at-midnight,339
+HL_0177,Reuters,2019-03-13 00:00:00,2019,https://www.reuters.com/article/us-ethiopia-airplane-canada/canada-grounds-boeing-737-max-8-and-9-jets-citing-safety-concerns-idUSKBN1QU28J,319
+HL_0178,Hyperallergic,2017-09-04 00:00:00,2017,https://hyperallergic.com/398717/arto-lindsay-explores-the-brazilian-avant-garde-at-the-whitney-museum/,307
+HL_0179,Reuters,2017-11-16 00:00:00,2017,https://www.reuters.com/article/us-usa-internet/fcc-plans-to-vote-to-overturn-u-s-net-neutrality-rules-in-december-sources-idUSKBN1DG00H,423
+HL_0180,Vox,2016-11-07 15:40:03,2016,https://www.vox.com/policy-and-politics/2016/11/7/13546830/pantsuit-nation-hillary-clinton-election-secret-private-facebook-group,492
+HL_0181,Hyperallergic,2017-09-18 00:00:00,2017,https://hyperallergic.com/401034/usc-roski-activism-americas-otis-college-of-art-design/,313
+HL_0182,Reuters,2019-06-05 00:00:00,2019,https://www.reuters.com/article/us-russia-china-xi-putin-zoo/chinas-panda-diplomacy-puts-a-smile-on-best-friend-putins-face-idUSKCN1T62HW,319
+HL_0183,Vice,2016-10-29 16:52:00,2016,https://www.vice.com/en_us/article/mgkd5q/ceviche-de-atun-with-ruby-red-leche-de-tigre,419
+HL_0184,Vice,2017-06-16 16:09:00,2017,https://www.vice.com/en_us/article/mbj4av/io-interactive-goes-indie-and-keeps-important-hitman-ip,397
+HL_0185,Vice,2016-06-02 09:07:00,2016,https://www.vice.com/en_us/article/rjx7xk/premiere-happy-accidents-running,323
+HL_0186,Reuters,2019-06-25 00:00:00,2019,https://www.reuters.com/article/eurozone-bonds/euro-zone-yields-test-lows-as-focus-turns-to-under-fire-fed-idUSL8N23W10I,410
+HL_0187,Reuters,2019-01-28 00:00:00,2019,https://www.reuters.com/article/us-football-nfl-superbowl/patriots-rams-arrive-in-atlanta-for-super-bowl-idUSKCN1PM0AF,332
+HL_0188,Reuters,2019-06-09 00:00:00,2019,https://www.reuters.com/article/us-soccer-worldcup-eng-sco-report/soccer-parris-and-white-strike-to-give-england-victory-over-scotland-idUSKCN1TA0PX,401
+HL_0189,Hyperallergic,2019-04-24 00:00:00,2019,https://hyperallergic.com/496726/exhibiting-black-art-in-1970s-los-angeles-soul-of-a-nation/,331
+HL_0190,Reuters,2019-03-09 00:00:00,2019,https://www.reuters.com/article/us-france-protests/turnout-falls-to-lowest-yet-in-french-yellow-vest-protests-idUSKBN1QQ0CN,377
+HL_0191,Hyperallergic,2016-10-18 00:00:00,2016,https://hyperallergic.com/330202/speak-vanishing-marra-my-grandmothers-lingo/,344
+HL_0192,Vice,2016-10-31 17:40:00,2016,https://www.vice.com/en_us/article/qkaeb5/tor-lundvall-nature-laughs-as-time-slips-by-stream,336
+HL_0193,Reuters,2019-06-24 00:00:00,2019,https://www.reuters.com/article/thailand-accident-cave/a-year-later-thailands-rescued-cave-boys-honour-diver-who-died-idUSL4N23V1FC,466
+HL_0194,Reuters,2019-04-04 00:00:00,2019,https://www.reuters.com/article/us-usa-election-buttigieg/democrat-buttigieg-says-he-no-longer-uses-phrase-all-lives-matter-idUSKCN1RG2NH,364
+HL_0195,Reuters,2018-03-20 00:00:00,2018,https://www.reuters.com/article/us-facebook-cambridge-analytica-trump/cambridge-analytica-played-key-trump-campaign-role-ceo-says-uk-tv-idUSKBN1GW2UV,389
+HL_0196,Vice,2017-02-21 18:32:00,2017,https://www.vice.com/en_us/article/pgxaqm/gay-marriage-is-linked-to-fewer-lgbtq-suicide-attempts-according-to-new-study,386
+HL_0197,Reuters,2019-06-17 00:00:00,2019,https://www.reuters.com/article/kpmg-usa/update-3-kpmg-fined-50-mln-for-using-stolen-data-exam-fraud-us-sec-idUSL2N23O0J1,352
+HL_0198,Reuters,2019-06-25 00:00:00,2019,https://www.reuters.com/article/global-precious/precious-gold-at-6-year-high-as-financial-political-tensions-converge-idUSL4N23W2D2,445
+HL_0199,Vice News,2019-02-21 00:00:00,2019,https://news.vice.com/en_us/article/d3mxbj/denmarks-teens-have-a-drinking-problem-vr-could-be-the-cure,318
+HL_0200,Business Insider,2016-12-15 20:45:00,2016,https://www.businessinsider.com/nba-new-contract-extensions-rule-2016-12,484
+HL_0201,Vox,2017-01-09 15:25:53,2017,https://www.vox.com/2017/1/6/14194364/ces-2017-gadgets-hairbrush-recode-podcast,478
+HL_0202,Vice,2017-01-23 16:00:00,2017,https://www.vice.com/en_us/article/d7kvx7/this-study-hopes-to-determine-whether-we-can-brew-beer-on-the-moon,422
+HL_0203,Reuters,2019-04-09 00:00:00,2019,https://www.reuters.com/article/us-britain-eu-ireland/eu-open-to-brexit-extension-but-pm-may-needs-clear-plan-idUSKCN1RL0JZ,422
+HL_0204,Business Insider,2018-11-02 20:40:07,2018,https://www.businessinsider.com/us-central-command-apologizes-removes-manual-with-phrase-negro-blood-2018-11,402
+HL_0205,Reuters,2018-02-10 00:00:00,2018,https://www.reuters.com/article/us-saudi-women/long-robes-not-necessary-attire-for-saudi-women-senior-cleric-idUSKBN1FU0HN,445
+HL_0206,Vice,2016-12-20 15:00:00,2016,https://www.vice.com/en_us/article/pgkwem/more-pregnant-moms-are-smoking-weed-and-were-not-sure-what-that-means,491
+HL_0207,Vice,2016-11-23 15:30:00,2016,https://www.vice.com/en_us/article/4x8emb/saucelord-rich-thanksgiving-mix,303
+HL_0208,Vice News,2018-03-27 00:00:00,2018,https://news.vice.com/en_us/article/evqxya/trumps-transgender-military-ban-is-stressing-out-deployed-soldiers,464
+HL_0209,Vice,2017-12-18 16:39:00,2017,https://www.vice.com/en_us/article/wjp875/free-game-this-little-planet,333
+HL_0210,Vox,2016-04-06 14:00:19,2016,https://www.vox.com/2016/4/6/11585892/mark-zuckerberg-speechwriter-leaving-for-spacex-elon-musk,332
+HL_0211,Reuters,2019-06-25 00:00:00,2019,https://www.reuters.com/article/britain-grocers/update-2-britains-sainsburys-underperforms-rivals-again-in-latest-data-kantar-idUSL8N23W1C0,405
+HL_0212,Reuters,2019-06-08 00:00:00,2019,https://www.reuters.com/article/us-usa-trade-mexico-declaration/us-says-to-expand-program-sending-asylum-seekers-to-mexico-idUSKCN1T9025,323
+HL_0213,Vice News,2019-07-03 00:00:00,2019,https://news.vice.com/en_us/article/gy49eb/inside-nycs-pride-march-and-the-movements-pushing-back,379
+HL_0214,Reuters,2019-06-11 00:00:00,2019,https://www.reuters.com/article/baseball-mlb-tb-oak/rays-top-as-as-mortons-unbeaten-streak-hits-21-idUSMTZXEF6BWWIMF8,408
+HL_0215,Vice,2017-07-27 16:06:00,2017,https://www.vice.com/en_us/article/evdebz/google-revealed-an-israeli-spyware-company-that-has-quietly-sold-its-wares-for-years,496
+HL_0216,Vox,2017-01-28 20:30:01,2017,https://www.vox.com/policy-and-politics/2017/1/28/14425504/trump-refugee-travel-ban-business-countries,412
+HL_0217,Vice News,2018-06-14 00:00:00,2018,https://news.vice.com/en_us/article/59q4ya/north-korea-aired-footage-of-donald-trump-saluting-a-north-korean-military-officer,454
+HL_0218,Reuters,2016-02-11 00:00:00,2016,https://www.reuters.com/article/us-usa-election-bush/george-w-bush-to-make-first-appearance-for-brother-jeb-idUSKCN0VK2BO,483
+HL_0219,Vox,2019-01-14 17:10:05,2019,https://www.vox.com/2019/1/14/18182006/fox-friends-ocasio-cortez-marginal-tax-rates,458
+HL_0220,Vice News,2016-08-03 00:00:00,2016,https://news.vice.com/en_us/article/zm79zy/bitcoin-value-drops-hackers-steal-65-million-bitfinex,467
+HL_0221,Business Insider,2016-08-02 16:06:35,2016,https://www.businessinsider.com/obama-republicans-endorse-donald-trump-2016-8,383
+HL_0222,Reuters,2018-07-10 00:00:00,2018,https://www.reuters.com/article/us-thailand-accident-cave-celebration/hooyah-tears-flow-horns-honk-after-thai-cave-boys-rescued-idUSKBN1K01U6,375
+HL_0223,Reuters,2017-10-25 00:00:00,2017,https://www.reuters.com/article/us-usa-trump-republican/senator-flake-expects-more-republicans-to-denounce-trump-idUSKBN1CU2B1,437
+HL_0224,Vice,2017-02-02 16:00:00,2017,https://www.vice.com/en_us/article/mgkev3/how-big-alcohol-lobbies-fight-marketing-regulation,357
+HL_0225,Reuters,2018-06-14 00:00:00,2018,https://www.reuters.com/article/us-time-warner-m-a-at-t/att-closes-85-billion-deal-for-time-warner-idUSKBN1JA36U,465
+HL_0226,Reuters,2019-03-20 00:00:00,2019,https://www.reuters.com/article/us-usa-pompeo-kuwait/kuwait-says-u-s-mideast-peace-plan-should-weigh-regional-considerations-idUSKCN1R10YO,411
+HL_0227,Reuters,2019-07-05 00:00:00,2019,https://www.reuters.com/article/monaco-villa-underground/troglodyte-eco-villa-carved-out-of-monaco-rock-face-idUSL8N2463F7,420
+HL_0228,Reuters,2019-07-04 00:00:00,2019,https://www.reuters.com/article/uk-usa-immigration-court/trump-administration-loses-bid-to-lift-bar-on-funds-for-border-wall-idUSKCN1TZ023,342
+HL_0229,Reuters,2019-06-19 00:00:00,2019,https://www.reuters.com/article/britain-eu-labour/update-2-uk-labours-corbyn-backs-second-referendum-on-any-brexit-deal-idUSL8N23Q4YG,463
+HL_0230,Reuters,2018-08-04 00:00:00,2018,https://www.reuters.com/article/us-usa-wildfires/massive-california-wildfire-becomes-fifth-largest-in-state-history-idUSKBN1KP0KA,418
+HL_0231,Reuters,2019-06-30 00:00:00,2019,https://www.reuters.com/article/us-bank-leumi-moves-ceo/israels-bank-leumi-ceo-to-resign-new-chairman-named-idUSKCN1TV06V,403
+HL_0232,Reuters,2018-06-30 00:00:00,2018,https://www.reuters.com/article/us-soccer-worldcup-ury-por-tabarez/uruguays-dedication-and-commitment-key-to-victory-tabarez-idUSKBN1JQ10X,393
+HL_0233,Vox,2016-08-16 22:08:13,2016,https://www.vox.com/2016/8/16/12504008/univision-is-buying-gawker-media-for-135-million,389
+HL_0234,Reuters,2018-11-23 00:00:00,2018,https://www.reuters.com/article/us-usa-trade-wto-china/china-says-wto-faces-profound-crisis-urges-reform-idUSKCN1NS0PY,435
+HL_0235,Vox,2017-02-28 15:00:02,2017,https://www.vox.com/technology/2017/2/28/14751504/abdul-sattar-edhi-pakistani-doctor-google-doodle,403
+HL_0236,Reuters,2017-10-26 00:00:00,2017,https://www.reuters.com/article/us-usa-trump-vote/congress-watchdog-to-investigate-trump-voter-fraud-panel-idUSKBN1CV3FO,311
+HL_0237,Hyperallergic,2018-01-17 00:00:00,2018,https://hyperallergic.com/421889/why-googles-art-selfie-app-doesnt-work-in-texas-and-illinois/,411
+HL_0238,Reuters,2019-06-25 00:00:00,2019,https://www.reuters.com/article/us-usa-japan-defense-reaction/trump-reassures-tokyo-he-will-stick-with-security-pact-japan-government-idUSKCN1TQ0PP,425
+HL_0239,Reuters,2019-06-24 00:00:00,2019,https://www.reuters.com/article/us-global-hunger-food-interview/mandelas-widow-warns-leaders-failing-pledge-to-end-world-hunger-idUSKCN1TP167,428
+HL_0240,Vox,2016-03-10 13:24:07,2016,https://www.vox.com/2016/3/10/11192634/wilkinsburg-mass-shooting,453
+HL_0241,Reuters,2018-01-15 00:00:00,2018,https://www.reuters.com/article/us-usa-immigration-trump/trump-blames-senator-durbin-for-blowing-immigration-deal-idUSKBN1F42LG,438
+HL_0242,Vice,2016-01-13 19:00:00,2016,https://www.vice.com/en_us/article/4xk9m9/facebook-rolls-out-a-few-more-event-attendance-options,496
+HL_0243,Reuters,2019-06-14 00:00:00,2019,https://www.reuters.com/article/global-forex/forex-dollar-set-for-biggest-rise-in-three-weeks-as-fed-eyed-idUSL4N23L2SX,363
+HL_0244,Vice,2017-02-26 13:00:00,2017,https://www.vice.com/en_us/article/gvkzmy/vintage-italian-product-design-is-immortalized-as-fly-sneakers,498
+HL_0245,Vice,2018-03-07 17:10:00,2018,https://www.vice.com/en_us/article/kzpj9m/black-panther-fan-broke-retainer-watching-michael-b-jordan-vgtrn,394
+HL_0246,TMZ,2019-01-11 00:00:00,2019,https://www.tmz.com/2019/01/11/90-day-fiance-larissa-colt-bloody-fight-porn-cops-called/,431
+HL_0247,Vice News,2017-10-30 00:00:00,2017,https://news.vice.com/en_us/article/qvzw3w/manafort-and-gates-plead-not-guilty-to-all-of-muellers-charges,328
+HL_0248,Vice,2017-02-07 22:00:00,2017,https://www.vice.com/en_us/article/ypedpg/diners-leave-america-first-note-say-they-wont-return-because-restaurant-owner-is-mexican,440
+HL_0249,Vox,2017-05-03 16:25:18,2017,https://www.vox.com/2017/5/3/15531478/facebook-hiring-3000-people-violent-inappropriate-video-content-post,334
+HL_0250,Business Insider,2017-10-09 11:15:13,2017,https://www.businessinsider.com/rainmaking-loft-is-shutting-down-in-london-because-of-wework-2017-10,424
+HL_0251,Reuters,2019-03-17 00:00:00,2019,https://www.reuters.com/article/us-thailand-election/thais-flock-to-early-voting-in-first-election-since-2014-coup-idUSKCN1QY09O,374
+HL_0252,Business Insider,2018-11-14 15:58:55,2018,https://www.businessinsider.com/amazon-hq2-jeff-bezos-shamed-by-tech-leaders-lack-transparency-2018-11,495
+HL_0253,Vice,2017-03-22 19:09:00,2017,https://www.vice.com/en_us/article/d7ejw7/the-right-wing-freedom-caucus-says-its-going-to-kill-trumpcare-vgtrn,317
+HL_0254,Vice News,2018-06-27 00:00:00,2018,https://news.vice.com/en_us/article/a3abjz/listen-to-a-distraught-guatemalan-child-call-his-mother-from-a-us-immigration-shelter,311
+HL_0255,Business Insider,2017-03-25 10:00:00,2017,https://www.businessinsider.com/possible-battle-between-amazon-and-alibaba-controlled-firm-in-thailand-2017-3,341
+HL_0256,Reuters,2018-04-10 00:00:00,2018,https://www.reuters.com/article/us-rusal-sanctions-euros-exclusive/exclusive-rusal-triggers-iran-style-defense-after-u-s-sanctions-source-idUSKBN1HH33S,447
+HL_0257,Hyperallergic,2017-04-28 00:00:00,2017,https://hyperallergic.com/371899/karl-blossfeldt-masterworks-photography/,431
+HL_0258,Business Insider,2016-06-22 00:25:00,2016,https://www.businessinsider.com/donald-trump-has-less-campaign-cash-than-ben-carson-and-ted-cruz-2016-6,477
+HL_0259,Reuters,2017-11-30 00:00:00,2017,https://www.reuters.com/article/us-texas-politics/texas-congressman-will-not-seek-re-election-in-wake-of-nude-photo-idUSKBN1DU2H8,368
+HL_0260,Vox,2018-06-26 18:00:02,2018,https://www.vox.com/2018/6/26/17505876/facebook-cryptocurrency-ads-bitcoin-ico-ban-reversed,307
+HL_0261,Vox,2016-05-05 14:52:26,2016,https://www.vox.com/2016/5/5/11634252/periscope-broadcasts-kill-24-hour-limit,345
+HL_0262,Vice News,2019-04-13 00:00:00,2019,https://news.vice.com/en_us/article/gy4pyq/how-to-ban-a-gun-in-28-days,487
+HL_0263,Vice,2017-10-25 15:30:00,2017,https://www.vice.com/en_us/article/mb3ezy/iphone-apps-camera-permission-pictures-videos-without-you-noticing,430
+HL_0264,Reuters,2019-06-20 00:00:00,2019,https://www.reuters.com/article/us-usa-crime-pacnet/us-charges-four-ex-executives-at-canadian-payments-firm-pacnet-with-fraud-idUSKCN1TL2UU,328
+HL_0265,Reuters,2018-06-20 00:00:00,2018,https://www.reuters.com/article/us-south-carolina-shooting-roof/u-s-judge-dismisses-charleston-shooting-lawsuits-criticizes-fbi-idUSKBN1JG01O,345
+HL_0266,Reuters,2018-08-22 00:00:00,2018,https://www.reuters.com/article/us-usa-stocks-bullrun/sp-500-bull-market-now-arguably-the-oldest-ever-idUSKCN1L718W,398
+HL_0267,Vice,2016-05-30 12:00:00,2016,https://www.vice.com/en_us/article/vv7754/someone-made-a-full-scale-version-of-half-life-2s-city-scanner-drones,327
+HL_0268,Vice,2017-01-20 16:52:00,2017,https://www.vice.com/en_us/article/nzzbxq/al-gores-an-inconvenient-sequel-is-the-scariest-movie-of-the-year,395
+HL_0269,Hyperallergic,2016-11-29 00:00:00,2016,https://hyperallergic.com/341233/critics-say-proposed-helsinki-guggenheim-may-cost-taxpayers-over-100-million-euros/,472
+HL_0270,Reuters,2018-06-25 00:00:00,2018,https://www.reuters.com/article/us-usa-trade-china-investment/u-s-plans-limits-on-chinese-investment-in-u-s-technology-firms-idUSKBN1JL03L,406
+HL_0271,Vox,2016-02-08 16:21:20,2016,https://www.vox.com/2016/2/8/11587672/more-people-streamed-the-super-bowl-than-ever-before,414
+HL_0272,Vice News,2017-07-27 00:00:00,2017,https://news.vice.com/en_us/article/gydkm3/facebook-profits-are-way-up-as-it-grabs-all-the-advertising-money,459
+HL_0273,Business Insider,2016-07-19 20:44:00,2016,https://www.businessinsider.com/warmest-year-ever-recorded-global-warming-2016-7,340
+HL_0274,Reuters,2019-04-18 00:00:00,2019,https://www.reuters.com/article/us-pinterest-ipo/pinterest-zoom-shares-surge-in-market-debuts-after-ipos-idUSKCN1RU1WE,498
+HL_0275,Reuters,2019-07-03 00:00:00,2019,https://www.reuters.com/article/sembcorp-marine-brazil-corruption/update-3-brazil-searches-sembcorp-marine-shipyard-in-graft-probe-shares-tumble-idUSL4N2440AJ,471
+HL_0276,TMZ,2019-03-06 00:00:00,2019,https://www.tmz.com/2019/03/05/cameron-maybin-arrested-dui-giants/,328
+HL_0277,Vice News,2018-03-27 00:00:00,2018,https://news.vice.com/en_us/article/mbxg7p/killing-of-paris-holocaust-survivor-is-being-investigated-as-a-hate-crime,492
+HL_0278,Vox,2017-04-21 01:46:19,2017,https://www.vox.com/2017/4/20/15379326/uber-investigation-sexual-harassment-eric-holder-arianna-memo,332
+HL_0279,Vice,2019-01-15 16:15:00,2019,https://www.vice.com/en_us/article/3k9xdb/its-tuesday-january-15-and-trump-really-served-hamberders-to-ncaa-champs,387
+HL_0280,Business Insider,2018-09-07 03:41:08,2018,https://www.businessinsider.com/trump-impeached-demand-supporters-montana-rally-2018-9,317
+HL_0281,Vice,2017-10-18 12:00:00,2017,https://www.vice.com/en_us/article/evpjwj/naked-sushi-brunch-cancelled-amid-allegations-of-sexism,370
+HL_0282,Reuters,2018-09-29 00:00:00,2018,https://www.reuters.com/article/us-maldives-election/maldives-election-body-endorses-opposition-leader-solihs-victory-amid-threats-idUSKCN1M909S,325
+HL_0283,Vice,2018-07-13 13:57:00,2018,https://www.vice.com/en_us/article/8xbaz3/pete-king-comments-on-jim-jordan-ignoring-sex-abuse-allegations,461
+HL_0284,Reuters,2018-02-23 00:00:00,2018,https://www.reuters.com/article/us-usa-crime-shkreli/shkreli-loses-bid-to-toss-stock-manipulation-conviction-idUSKCN1G71XO,411
+HL_0285,Vox,2016-06-28 16:50:03,2016,https://www.vox.com/2016/6/28/12051584/pat-summitt-womens-sports-changed-forever,333
+HL_0286,Reuters,2019-07-03 00:00:00,2019,https://www.reuters.com/article/baseball-mlb-sd-sf/longoria-hits-two-homers-as-giants-pound-padres-idUSMTZXEF731X3MJV,395
+HL_0287,Vice,2018-07-05 17:16:00,2018,https://www.vice.com/en_us/article/wjken4/leaked-emails-cops-hiding-graykey-grayshift-phone-hacking-emails,457
+HL_0288,Vox,2016-06-14 15:00:05,2016,https://www.vox.com/2016/6/14/11926124/facebook-ads-track-store-visits-retail-sales,485
+HL_0289,Reuters,2018-09-09 00:00:00,2018,https://www.reuters.com/article/us-trade-nafta-dairy/u-s-agriculture-chief-says-nafta-deal-must-end-canadas-milk-protein-scheme-idUSKCN1LP0JQ,461
+HL_0290,Reuters,2019-06-15 00:00:00,2019,https://www.reuters.com/article/us-football-nfl-notebook/nfl-notebook-texans-abandon-bid-for-pats-caserio-idUSKCN1TG00V,303
+HL_0291,Vice,2016-08-02 19:55:00,2016,https://www.vice.com/en_us/article/wnmyj4/nba-teams-simulation-predicts-2016-17-warriors-will-win-83-games-undo-reality,407
+HL_0292,Reuters,2017-11-05 00:00:00,2017,https://www.reuters.com/article/us-usa-trump-russia-manafort/prosecutors-manafort-needs-to-detail-finances-further-in-bail-talks-idUSKBN1D5156,449
+HL_0293,Vice,2016-06-06 17:30:00,2016,https://www.vice.com/en_us/article/9anjxp/new-emojis-unicode-9-shade,348
+HL_0294,Reuters,2019-06-07 00:00:00,2019,https://www.reuters.com/article/usa-trade-snapshot/snapshot-us-mexico-resume-talks-to-avert-tariffs-as-deadline-approaches-idUSL2N23E0QZ,376
+HL_0295,Vox,2017-06-19 12:00:05,2017,https://www.vox.com/2017/6/19/15827726/stitch-fix-new-cfo-paul-yee-ipo,352
+HL_0296,Vice,2016-05-08 04:00:00,2016,https://www.vice.com/en_us/article/exknw4/we-asked-our-moms-how-we-were-conceived,352
+HL_0297,Reuters,2018-09-11 00:00:00,2018,https://www.reuters.com/article/us-philippines-duterte/philippines-duterte-alleges-coup-plot-based-on-tip-from-a-foreign-power-idUSKCN1LR17S,320
+HL_0298,Reuters,2018-04-12 00:00:00,2018,https://www.reuters.com/article/us-mideast-crisis-syria-usa/mattis-says-i-believe-there-was-a-chemical-attack-in-syria-idUSKBN1HJ2ES,377
+HL_0299,Vox,2019-02-03 17:52:46,2019,https://www.vox.com/2019/2/3/18209320/virginia-gov-ralph-northam-resignation,395
+HL_0300,Vice,2018-12-25 15:00:00,2018,https://www.vice.com/en_us/article/bjekm5/our-favorite-games-of-2018-sea-of-thieves,344
+HL_0301,Vox,2017-03-01 23:30:02,2017,https://www.vox.com/policy-and-politics/2017/3/1/14784194/gop-obamacare-secret-meeting,383
+HL_0302,Vox,2016-08-20 20:49:55,2016,https://www.vox.com/2016/8/20/12548390/hack-harassment-twitter-intel-app,330
+HL_0303,Vox,2018-02-13 20:09:36,2018,https://www.vox.com/2018/2/13/17008618/janice-min-edit-los-angeles-times-hollywood-reporter-journalism-tronc-news,311
+HL_0304,Reuters,2017-10-01 00:00:00,2017,https://www.reuters.com/article/us-mideast-crisis-syria-town/syrian-observatory-islamic-state-captures-town-from-government-idUSKCN1C611D,313
+HL_0305,Reuters,2019-06-26 00:00:00,2019,https://www.reuters.com/article/us-usa-court-cases/supreme-court-to-issue-census-electoral-map-rulings-on-thursday-idUSKCN1TR2EZ,340
+HL_0306,Reuters,2019-01-15 00:00:00,2019,https://www.reuters.com/article/us-britain-eu-vote-tusk/eu-leaders-express-dismay-after-mays-brexit-defeat-idUSKCN1P92LP,476
+HL_0307,Vox,2019-03-14 12:18:11,2019,https://www.vox.com/science-and-health/2018/3/14/17113706/pi-day-2019,440
+HL_0308,Vice News,2018-01-25 00:00:00,2018,https://news.vice.com/en_us/article/d34bbk/robot-barges-are-taking-over-european-canals-without-fossil-fuels,408
+HL_0309,Reuters,2018-10-20 00:00:00,2018,https://www.reuters.com/article/us-saudi-khashoggi-twitter/saudi-arabia-deployed-twitter-army-against-critics-ny-times-idUSKCN1MU0VB,393
+HL_0310,Reuters,2019-06-12 00:00:00,2019,https://www.reuters.com/article/us-catchgroup-m-a-wesfarmers/australias-wesfarmers-buying-online-retailer-catch-in-e-commerce-push-idUSKCN1TD01J,440
+HL_0311,Reuters,2019-04-23 00:00:00,2019,https://www.reuters.com/article/us-sri-lanka-blasts-warning-exclusive/exclusive-sri-lanka-was-warned-of-threat-hours-before-suicide-attacks-sources-idUSKCN1RZ1EC,368
+HL_0312,Vox,2016-07-20 00:26:24,2016,https://www.vox.com/2016/7/19/12231776/google-energy-deepmind-ai-data-centers,372
+HL_0313,TMZ,2019-06-18 00:00:00,2019,https://www.tmz.com/2019/06/18/cuba-gooding-jr-denies-touching-breast-accuser-snow-dogs-fan/,402
+HL_0314,Vox,2016-01-29 08:30:31,2016,https://www.vox.com/2016/1/29/11589186/why-is-my-wireless-data-plan-so-confusing,343
+HL_0315,Vice,2017-10-09 16:05:00,2017,https://www.vice.com/en_us/article/vb7k44/the-new-star-wars-trailer-will-drop-in-the-middle-of-a-football-game-vgtrn,330
+HL_0316,Reuters,2017-12-15 00:00:00,2017,https://www.reuters.com/article/us-usa-trump-russia-emails/house-committee-questions-head-of-trump-campaign-data-firm-sources-idUSKBN1E903N,428
+HL_0317,Reuters,2019-06-14 00:00:00,2019,https://www.reuters.com/article/us-usa-trump-congress-mcgahn/trump-ex-lawyer-mcgahn-may-have-been-confused-in-russia-probe-idUSKCN1TF1MG,425
+HL_0318,Business Insider,2019-05-24 12:52:00,2019,https://www.businessinsider.com/panera-bread-employees-deals-best-worst-2019-5,474
+HL_0319,Business Insider,2017-02-17 17:30:00,2017,https://www.businessinsider.com/advice-for-staying-productive-when-you-work-and-travel-2017-2,441
+HL_0320,Reuters,2018-08-29 00:00:00,2018,https://www.reuters.com/article/us-myanmar-rohingya-nobelpeaceprize/aung-san-suu-kyi-wont-be-stripped-of-nobel-peace-prize-committee-idUSKCN1LE1X7,306
+HL_0321,Business Insider,2018-04-29 07:07:00,2018,https://www.businessinsider.com/how-china-is-watching-its-citizens-in-a-modern-surveillance-state-2018-4,306
+HL_0322,Vice,2016-12-09 18:47:00,2016,https://www.vice.com/en_us/article/53dqak/former-students-set-high-school-robotics-lab-on-fire,399
+HL_0323,Vice,2018-09-14 21:35:00,2018,https://www.vice.com/en_us/article/wjy55w/fake-nike-coupons-people-of-color-racists-4chan-colin-kaepernick-vgtrn,339
+HL_0324,Reuters,2019-05-14 00:00:00,2019,https://www.reuters.com/article/us-russia-usa-lavrov-pompeo/russia-tells-pompeo-enough-mistrust-lets-reboot-our-ties-idUSKCN1SK1E1,354
+HL_0325,Reuters,2019-06-06 00:00:00,2019,https://www.reuters.com/article/us-natgas-williams-pipeline/williams-expects-to-overcome-environmental-concerns-on-northeast-supply-natgas-pipe-idUSKCN1T727Y,411
+HL_0326,Reuters,2019-05-14 00:00:00,2019,https://www.reuters.com/article/us-usa-congress-holocaust/democratic-leaders-back-muslim-lawmaker-after-holocaust-comments-idUSKCN1SJ2H8,460
+HL_0327,Reuters,2019-06-22 00:00:00,2019,https://www.reuters.com/article/baseball-mlb-stl-laa/cards-dump-angels-in-pujols-return-to-st-louis-idUSMTZXEF6MHERT8K,339
+HL_0328,Reuters,2018-09-02 00:00:00,2018,https://www.reuters.com/article/us-new-mexico-crime/teen-from-new-mexico-compound-says-he-was-trained-for-jihad-fbi-idUSKCN1LI003,412
+HL_0329,Reuters,2019-06-07 00:00:00,2019,https://www.reuters.com/article/us-space-exploration-nasa/got-50-million-for-a-vacation-nasa-to-open-space-station-to-private-citizens-idUSKCN1T81U6,325
+HL_0330,Vox,2017-09-23 18:45:48,2017,https://www.vox.com/policy-and-politics/2017/9/23/16354140/trump-alabama-rally-luther-strange-nfl,382
+HL_0331,Vox,2018-06-29 17:35:28,2018,https://www.vox.com/policy-and-politics/2018/6/26/17503376/oklahoma-primary-live-results,435
+HL_0332,Reuters,2018-12-25 00:00:00,2018,https://www.reuters.com/article/us-usa-lottery/no-winner-for-christmas-mega-millions-jackpot-grows-to-348-million-idUSKCN1OO0TA,312
+HL_0333,Vox,2017-02-03 20:57:56,2017,https://www.vox.com/policy-and-politics/2017/1/27/14370594/donald-trump-policies-accomplishments-achievements,370
+HL_0334,Vice News,2016-01-30 00:00:00,2016,https://news.vice.com/en_us/article/xw34qj/turkey-warns-of-unfortunate-developments-after-russian-jet-allegedly-violates-airspace,487
+HL_0335,Vice,2017-05-10 13:25:00,2017,https://www.vice.com/en_us/article/mgm7gp/hoarding-all-the-good-stuff-for-a-video-games-rainy-day,375
+HL_0336,Vox,2018-05-23 01:48:22,2018,https://www.vox.com/policy-and-politics/2018/5/22/17380046/arkansas-primary-election-2018-results-republican-governor,354
+HL_0337,Reuters,2017-03-30 00:00:00,2017,https://www.reuters.com/article/us-usa-congress-debt/u-s-debt-to-reach-150-percent-of-gdp-in-30-years-cbo-idUSKBN171212,391
+HL_0338,Reuters,2017-02-17 00:00:00,2017,https://www.reuters.com/article/us-north-dakota-pipeline/governor-army-corps-block-deadline-extension-for-dakota-pipeline-protesters-idUSKBN15W07K,389
+HL_0339,Vice,2017-08-12 16:09:00,2017,https://www.vice.com/en_us/article/gyygb7/elon-musks-openai-bot-defeats-top-dota-2-player-at-the-international,479
+HL_0340,Reuters,2018-09-17 00:00:00,2018,https://www.reuters.com/article/us-novartis-ethics/novartis-links-bonuses-to-ethics-in-bid-to-rebuild-reputation-idUSKCN1LX23B,489
+HL_0341,Vice,2018-07-27 18:29:00,2018,https://www.vice.com/en_us/article/xwka4j/there-is-now-fortnite-porn-fortnut-trailer-vgtrn,353
+HL_0342,Reuters,2017-11-16 00:00:00,2017,https://www.reuters.com/article/us-usa-media-regulation/u-s-regulator-votes-to-loosen-media-ownership-rules-idUSKBN1DG2R9,478
+HL_0343,Vox,2017-10-30 16:00:07,2017,https://www.vox.com/2017/10/30/16570912/youtube-tv-amazon-google-apple-tv-streaming-tv,407
+HL_0344,Vice,2016-05-31 20:20:00,2016,https://www.vice.com/en_us/article/4xqmnb/stitchable-circuits-wearable-tech-madison-maxey,447
+HL_0345,Vice,2018-12-12 20:14:00,2018,https://www.vice.com/en_us/article/yw7ev5/killer-mike-netflix-show-trailer-trigger-warning-vgtrn,315
+HL_0346,Business Insider,2018-10-06 18:19:13,2018,https://www.businessinsider.com/melania-trump-criticized-pith-helmet-africa-2018-10,407
+HL_0347,Reuters,2019-06-29 00:00:00,2019,https://www.reuters.com/article/us-israel-palestinians-plan-arrests/palestinian-authority-arrests-businessman-who-attended-bahrain-conference-haaretz-idUSKCN1TU0L7,393
+HL_0348,Reuters,2019-06-13 00:00:00,2019,https://www.reuters.com/article/us-soccer-worldcup-fra-nor/dilemma-for-france-as-potential-us-clash-looms-idUSKCN1TE18F,315
+HL_0349,Reuters,2016-11-08 00:00:00,2016,https://www.reuters.com/article/us-usa-election-forum/infrastructure-would-be-popular-bipartisan-step-for-clinton-hennessey-idUSKBN1332R8,381
+HL_0350,Vice News,2018-01-04 00:00:00,2018,https://news.vice.com/en_us/article/a3n74g/trumps-war-with-bannon-just-turned-into-a-legal-fight,413
+HL_0351,Vox,2017-02-06 23:10:01,2017,https://www.vox.com/world/2017/2/6/14524536/donald-trump-dishonest-press-covering-up-terrorist-attacks-centcom,491
+HL_0352,Vice,2017-04-24 20:15:00,2017,https://www.vice.com/en_us/article/vb4vqm/people-who-smoke-weed-every-day-have-more-suicidal-thoughts-study-says,369
+HL_0353,Vox,2016-10-18 15:20:19,2016,https://www.vox.com/2016/10/18/13309794/hillary-clinton-speeches-obama-former-speechwriter-jon-favreau-podcasts-recode-media,437
+HL_0354,Vice,2018-11-16 20:30:00,2018,https://www.vice.com/en_us/article/439xg3/eric-reddit-will-eat-anything,315
+HL_0355,Reuters,2019-06-06 00:00:00,2019,https://www.reuters.com/article/airbnb-japan/update-1-airbnb-touts-japan-recovery-bolstered-by-hotel-listings-idUSL4N23D15S,345
+HL_0356,TMZ,2017-10-19 00:00:00,2017,https://www.tmz.com/2017/10/19/sean-penn-attempt-block-netflix-doc-el-chapo/,341
+HL_0357,Vice,2016-01-12 02:32:00,2016,https://www.vice.com/en_us/article/nzx9km/alabama-and-clemson-firing-on-all-cylinders-in-exciting-first-quarter,327
+HL_0358,Reuters,2018-09-18 00:00:00,2018,https://www.reuters.com/article/us-usa-trade-china-minerals/u-s-gives-rare-earths-reprieve-in-revised-200-billion-china-tariff-list-idUSKCN1LY0QK,463
+HL_0359,Vox,2018-12-12 15:10:06,2018,https://www.vox.com/policy-and-politics/2018/12/12/18137552/north-carolina-election-fraud-9th-district-dallas-woodhouse,454
+HL_0360,Vox,2017-04-14 13:47:44,2017,https://www.vox.com/science-and-health/2017/4/13/15288648/nasa-announcement-ocean-worlds-live-stream,458
+HL_0361,Vox,2017-08-03 18:10:01,2017,https://www.vox.com/2017/8/3/16090436/mueller-trump-bill-senate,368
+HL_0362,Reuters,2018-04-14 00:00:00,2018,https://www.reuters.com/article/us-mideast-crisis-syria-russia/russia-likely-to-call-u-n-meeting-over-syria-attack-russian-lawmaker-idUSKBN1HL075,351
+HL_0363,Vox,2016-03-15 15:00:20,2016,https://www.vox.com/2016/3/15/11586978/apple-wants-to-remind-you-and-publishers-that-apple-news-is-a-thing,357
+HL_0364,Vice,2016-06-29 15:20:00,2016,https://www.vice.com/en_us/article/bmy4x5/smart-drug-trip-gone-wrong-music-video,372
+HL_0365,Vox,2016-03-02 00:44:19,2016,https://www.vox.com/2016/3/1/11143790/melissa-harris-perry-tweets-msnbc,432
+HL_0366,Hyperallergic,2016-11-08 00:00:00,2016,https://hyperallergic.com/336532/celebrate-voting-rights-at-these-suffragists-graves-in-new-york-city/,482
+HL_0367,Vox,2017-04-26 20:13:42,2017,https://www.vox.com/2017/4/26/15437330/silicon-valley-tech-donald-trump-agree-tax-repatriation-reform,494
+HL_0368,Vox,2016-10-28 13:00:07,2016,https://www.vox.com/2016/10/28/13447156/facebook-snapchat-messaging-camera,304
+HL_0369,Vox,2016-02-12 02:02:00,2016,https://www.vox.com/2016/2/11/10964714/democratic-debate-2016-watch-online-streaming-time-tv-schedule,399
+HL_0370,Reuters,2019-06-25 00:00:00,2019,https://www.reuters.com/article/southern-water-regulator/update-1-britains-southern-water-to-pay-126-mln-stg-for-operational-failures-idUSL4N23W1JK,366
+HL_0371,Vox,2016-10-05 14:50:02,2016,https://www.vox.com/culture/2016/10/5/13172956/watch-lin-manuel-miranda-black-thought-roots-hamilton-rap-battle,426
+HL_0372,Vice,2017-05-19 15:46:00,2017,https://www.vice.com/en_us/article/jpy49k/keith-richards-rita-ora-dustin-yellin-sculptures-save-the-sea,482
+HL_0373,Reuters,2017-07-17 00:00:00,2017,https://www.reuters.com/article/us-usa-trade-manufacturing/trump-vows-to-protect-made-in-america-products-idUSKBN1A2293,438
+HL_0374,Vice News,2017-12-13 00:00:00,2017,https://news.vice.com/en_us/article/gydd5q/omarosa-famously-fired-by-trump-on-tv-has-resigned-from-the-white-house,326
+HL_0375,Vox,2018-07-26 14:30:02,2018,https://www.vox.com/culture/2018/7/26/17616484/hannah-gadsby-nanette-not-quitting-comedy-jimmy-fallon,362
+HL_0376,Vice,2017-03-09 17:55:00,2017,https://www.vice.com/en_us/article/bjgnj4/what-seven-leading-health-care-orgs-had-to-say-about-trumps-health-care-plan,359
+HL_0377,Reuters,2017-10-26 00:00:00,2017,https://www.reuters.com/article/us-people-bush/george-h-w-bush-apologizes-after-actress-accuses-him-of-groping-idUSKBN1CV06R,423
+HL_0378,Vox,2018-04-16 20:20:18,2018,https://www.vox.com/2018/4/16/17243676/nflx-netflix-reed-hastings-q1-earnings-stock-subscribers,387
+HL_0379,Vice,2016-12-05 01:50:00,2016,https://www.vice.com/en_us/article/vvwkyd/the-oakland-raiders-are-the-scariest-team-in-football-right-now,372
+HL_0380,Vice News,2016-10-27 00:00:00,2016,https://news.vice.com/en_us/article/vby4ay/gun-violence-study-conjures-up-painful-past-for-its-subjects,391
+HL_0381,Reuters,2019-06-27 00:00:00,2019,https://www.reuters.com/article/g20-japan-climatechange/rpt-g20-members-at-odds-over-climate-change-for-summit-meeting-sources-idUSL4N23Y1XI,442
+HL_0382,Vice,2017-06-19 18:07:00,2017,https://www.vice.com/en_us/article/a3w5m8/people-are-dying-every-single-day-the-refugee-painting-syrias-pain,457
+HL_0383,Vox,2017-02-15 02:34:01,2017,https://www.vox.com/2017/2/14/14619932/national-geographic-channel-ceo-courteney-monroe-code-media-genius-einstein,314
+HL_0384,Reuters,2019-05-16 00:00:00,2019,https://www.reuters.com/article/us-usa-immigration-pelosi/u-s-speaker-pelosi-opens-door-to-more-funds-for-border-migrant-crisis-idUSKCN1SM2L1,442
+HL_0385,Reuters,2019-06-06 00:00:00,2019,https://www.reuters.com/article/public-power-renewables-hybrid/europes-second-hybrid-renewable-power-park-opens-on-off-grid-greek-island-idUSL5N22T17A,342
+HL_0386,Vox,2019-06-10 12:40:00,2019,https://www.vox.com/recode/2019/6/10/18658703/andy-jassy-aws-code-conference-2019,457
+HL_0387,Business Insider,2019-03-25 14:53:26,2019,https://www.businessinsider.com/british-airways-london-germany-flight-accidentally-lands-scotland-2019-3,364
+HL_0388,Reuters,2018-02-14 00:00:00,2018,https://www.reuters.com/article/us-usa-senate-crime-justice/u-s-attorney-general-opposes-plan-to-reform-prison-sentencing-idUSKCN1FY2YH,330
+HL_0389,Hyperallergic,2018-02-16 00:00:00,2018,https://hyperallergic.com/427699/artist-says-kendrick-lamars-black-panther-music-video-uses-her-paintings-without-permission/,353
+HL_0390,Vice,2016-05-25 00:00:00,2016,https://www.vice.com/en_us/article/ppvemv/pregnancy-as-resistance-in-palestine-v23n3,366
+HL_0391,TMZ,2018-11-10 00:00:00,2018,https://www.tmz.com/2018/11/10/lamelo-ball-ineligible-mcdonalds-all-american-game/,346
+HL_0392,Reuters,2019-06-19 00:00:00,2019,https://www.reuters.com/article/us-pgs-asa-debt/seismic-surveyor-pgs-calls-off-debt-refinancing-shares-plunge-idUSKCN1TK0WE,365
+HL_0393,Vice,2016-04-14 13:30:00,2016,https://www.vice.com/en_us/article/ezpz7a/remote-control-mexico-us-border-burners,393
+HL_0394,Reuters,2018-12-22 00:00:00,2018,https://www.reuters.com/article/us-colorado-fbi/dancing-fbi-agent-pleads-guilty-to-accidentally-shooting-denver-bar-patron-idUSKCN1OL00P,366
+HL_0395,Vice,2018-05-01 20:25:00,2018,https://www.vice.com/en_us/article/qvxy5x/arrested-development-mitch-hurwitz-netflix-recut-season-four-vgtrn,381
+HL_0396,Vox,2018-11-07 19:14:22,2018,https://www.vox.com/policy-and-politics/2018/11/7/18055506/midterm-election-results-alaska-governor-mike-dunleavy-winner,412
+HL_0397,Vice News,2019-03-14 00:00:00,2019,https://news.vice.com/en_us/article/59xaak/the-southern-poverty-law-center-just-fired-its-co-founder,485
+HL_0398,Reuters,2019-06-02 00:00:00,2019,https://www.reuters.com/article/us-israel-palestinians-jerusalem-day/ultra-nationalist-jews-visit-stokes-palestinian-anger-at-jerusalem-holy-site-idUSKCN1T30G8,461
+HL_0399,Reuters,2019-06-06 00:00:00,2019,https://www.reuters.com/article/australia-stocks-midday/banks-lead-australian-shares-higher-on-policy-stimulus-nz-rises-idUSL4N23D0IT,453
+HL_0400,Vox,2016-03-21 15:16:39,2016,https://www.vox.com/2016/3/21/11587146/apples-tim-cook-uses-product-launch-stage-to-preview-fbi-court-fight,389
+HL_0401,Vox,2016-07-02 16:07:00,2016,https://www.vox.com/2016/7/2/12087532/donald-trump-anti-semitic-clinton-attack,421
+HL_0402,Reuters,2018-09-21 00:00:00,2018,https://www.reuters.com/article/us-turkey-security-usa/former-nasa-scientist-to-appeal-terrorism-charges-at-top-turkish-court-lawyer-idUSKCN1M11RA,354
+HL_0403,Reuters,2018-09-09 00:00:00,2018,https://www.reuters.com/article/us-nuclear-iran-khamenei/khamenei-urges-irans-military-to-scare-off-enemy-idUSKCN1LP07Q,396
+HL_0404,Reuters,2019-06-14 00:00:00,2019,https://www.reuters.com/article/us-algeria-protests/celebrating-arrests-but-still-pushing-for-change-protesters-rally-in-algeria-idUSKCN1TF25M,398
+HL_0405,Reuters,2019-06-18 00:00:00,2019,https://www.reuters.com/article/jp-morgan-fund/update-1-jpmorgan-to-convert-highbridge-multi-strategy-fund-into-credit-fund-idUSL2N23P0HH,340
+HL_0406,Vice,2016-03-13 19:14:00,2016,https://www.vice.com/en_us/article/qkwaad/herman-bas-bright-young-things,330
+HL_0407,Vice News,2018-11-03 00:00:00,2018,https://news.vice.com/en_us/article/vbk9a8/the-concealed-carry-fashion-show-is-for-people-who-want-to-hide-their-guns,395
+HL_0408,Vice,2016-02-29 20:28:00,2016,https://www.vice.com/en_us/article/vv7dqb/humans-trust-robots-in-an-emergency-georgia-tech-research-institute,343
+HL_0409,Reuters,2019-06-20 00:00:00,2019,https://www.reuters.com/article/caltex-australia-outlook/update-3-australias-caltex-shares-dive-as-bleak-economic-conditions-hit-profit-idUSL4N23Q4LU,423
+HL_0410,Reuters,2018-06-07 00:00:00,2018,https://www.reuters.com/article/us-usa-trade-china-zte-senate/u-s-lawmakers-scramble-for-way-to-block-trump-deal-with-chinas-zte-idUSKCN1J32HQ,335
+HL_0411,Vice,2016-04-09 17:45:00,2016,https://www.vice.com/en_us/article/kbdymx/lebron-gives-the-warriors-his-blessing-for-seventy-three-wins-thinks-its-pretty-cool,434
+HL_0412,Reuters,2019-06-18 00:00:00,2019,https://www.reuters.com/article/dairy-auction-results/update-1-global-dairy-prices-fall-for-third-auction-in-a-row-idUSL4N23P49Y,336
+HL_0413,Vice,2016-05-05 14:50:00,2016,https://www.vice.com/en_us/article/3d5wa3/art-leadher-casts-the-female-gaze-on-contemporary-art,338
+HL_0414,Hyperallergic,2016-07-13 00:00:00,2016,https://hyperallergic.com/300931/copper-tomb-sculptures-show-rare-forms-of-mesopotamian-portraiture/,435
+HL_0415,Business Insider,2016-01-18 21:00:03,2016,https://www.businessinsider.com/your-10-second-guide-to-todays-china-gdp-report-2016-1,349
+HL_0416,Vice News,2017-11-08 00:00:00,2017,https://news.vice.com/en_us/article/zmyqnj/weinsteins-accusers-made-a-google-doc-full-of-allegations-against-him,480
+HL_0417,Reuters,2017-12-18 00:00:00,2017,https://www.reuters.com/article/us-usa-protests-charlottesville/charlottesville-police-chief-retires-after-report-faults-department-idUSKBN1EC2OJ,326
+HL_0418,Reuters,2018-05-16 00:00:00,2018,https://www.reuters.com/article/us-usa-trump-russia-concord/lawyer-for-russian-company-says-muellers-office-slow-to-hand-over-evidence-idUSKCN1IH2VP,441
+HL_0419,Reuters,2019-06-13 00:00:00,2019,https://www.reuters.com/article/canada-stocks/canada-stocks-tsx-rises-as-energy-shares-gain-on-oil-spike-idUSL4N23K3H7,335
+HL_0420,Reuters,2018-06-10 00:00:00,2018,https://www.reuters.com/article/us-usa-trade-china-zte/white-houses-navarro-says-three-strikes-youre-out-for-zte-idUSKBN1J60OB,409
+HL_0421,Vox,2019-02-28 07:10:38,2019,https://www.vox.com/2019/2/28/18244267/trump-north-korea-kim-deal-fail,413
+HL_0422,Vice,2018-01-26 16:30:00,2018,https://www.vice.com/en_us/article/wjpmnx/jerry-quickley-colonist-premiere-american-fool,414
+HL_0423,Reuters,2018-06-27 00:00:00,2018,https://www.reuters.com/article/us-usa-court-kennedy-schumer/schumer-urges-senate-to-reject-supreme-court-nominee-who-opposes-roe-v-wade-idUSKBN1JN2X0,324
+HL_0424,Reuters,2019-06-13 00:00:00,2019,https://www.reuters.com/article/safrica-markets/update-1-rand-edges-down-as-ramaphosa-inflation-data-in-focus-idUSL8N23K5OF,311
+HL_0425,Reuters,2019-06-28 00:00:00,2019,https://www.reuters.com/article/nlmk-stocks/russian-steel-tycoon-lisin-sells-26-stake-in-nlmk-idUSL8N23Z54X,339
+HL_0426,Vice,2016-04-24 18:00:00,2016,https://www.vice.com/en_us/article/kbkx5e/craft-brewers-are-trolling-germanys-500-year-old-beer-purity-law,355
+HL_0427,Vox,2017-01-31 23:55:01,2017,https://www.vox.com/2017/1/31/14460734/watch-paper-airplane-drones-darpa-medicine,359
+HL_0428,Reuters,2019-04-08 00:00:00,2019,https://www.reuters.com/article/us-usa-internet/u-s-house-to-vote-on-net-neutrality-bill-on-tuesday-idUSKCN1RK2CD,452
+HL_0429,Reuters,2019-07-04 00:00:00,2019,https://www.reuters.com/article/japan-stocks-close/japan-stocks-end-higher-supported-by-us-rate-cut-hopes-idUSL4N2451FA,361
+HL_0430,Vice,2018-07-26 23:29:00,2018,https://www.vice.com/en_us/article/kzy38v/theres-a-new-show-where-jeff-goldblum-investigates-everyday-object,311
+HL_0431,Vice,2018-03-19 16:05:00,2018,https://www.vice.com/en_us/article/zmge4w/drake-walk-it-talk-it-video-lemon-verse-comparison,478
+HL_0432,Hyperallergic,2017-08-30 00:00:00,2017,https://hyperallergic.com/397838/reconciling-the-body-with-technology-through-cyborgs-virtual-worlds-and-altered-states/,324
+HL_0433,Reuters,2019-06-25 00:00:00,2019,https://www.reuters.com/article/japan-stocks-midday/japanese-shares-dip-but-losses-limited-ahead-of-g20-idUSL4N23W0MG,303
+HL_0434,Vice News,2019-03-18 00:00:00,2019,https://news.vice.com/en_us/article/pan8kk/heres-what-the-european-union-did-to-stop-migrants-from-coming,325
+HL_0435,Vox,2016-05-23 19:30:02,2016,https://www.vox.com/2016/5/23/11746028/jon-stewart-leibowitz-comeback-donald-trump-man-baby,348
+HL_0436,Reuters,2019-06-20 00:00:00,2019,https://www.reuters.com/article/us-china-interpol/former-interpol-chief-admits-guilt-in-chinese-court-hearing-idUSKCN1TL0DQ,379
+HL_0437,Vice,2016-07-11 14:18:00,2016,https://www.vice.com/en_us/article/qkw9w7/cats-korean-landscapes-monday-insta-illustrator,424
+HL_0438,Vice News,2019-06-06 00:00:00,2019,https://news.vice.com/en_us/article/j5wb9g/why-seth-moulton-revealed-his-ptsd-fuck-it-its-the-right-thing-to-do,391
+HL_0439,Hyperallergic,2016-12-22 00:00:00,2016,https://hyperallergic.com/346820/tom-phillips-humument-final-edition/,485
+HL_0440,Reuters,2019-02-01 00:00:00,2019,https://www.reuters.com/article/us-cyber-heist-bangladesh/bangladesh-sues-philippine-bank-over-cyberheist-at-new-york-fed-idUSKCN1PQ3BG,455
+HL_0441,Reuters,2019-06-10 00:00:00,2019,https://www.reuters.com/article/us-india-economy-poll/indias-inflation-seen-at-seven-month-high-in-may-still-below-rbi-target-idUSKCN1TB0G5,446
+HL_0442,Reuters,2018-10-24 00:00:00,2018,https://www.reuters.com/article/us-china-iran-oil-exclusive/exclusive-sinopec-cnpc-to-skip-iran-oil-bookings-for-november-as-u-s-sanctions-near-idUSKCN1MY1C9,417
+HL_0443,Vox,2018-04-19 14:51:26,2018,https://www.vox.com/2018/4/18/17252310/puerto-rico-blackout-power-electricity-hurricane-maria,466
+HL_0444,Business Insider,2017-08-29 15:47:57,2017,https://www.businessinsider.com/north-korea-missile-launch-china-us-relations-2017-8,454
+HL_0445,Reuters,2017-11-23 00:00:00,2017,https://www.reuters.com/article/us-amazon-italy-strike/workers-at-amazons-main-italian-hub-german-warehouses-strike-on-black-friday-idUSKBN1DN1DS,324
+HL_0446,Vox,2017-10-05 00:32:06,2017,https://www.vox.com/2017/10/4/16426244/google-stamp-amp-paying-news-publishers-snapchat-discover-instagram-stories,450
+HL_0447,Reuters,2019-06-11 00:00:00,2019,https://www.reuters.com/article/us-ryanair-malta/ryanair-grows-group-of-airlines-with-maltese-subsidiary-idUSKCN1TC1HS,352
+HL_0448,Vox,2017-04-20 16:46:53,2017,https://www.vox.com/2017/4/20/15372868/fcc-rules-verizon-government-att-companies,385
+HL_0449,Reuters,2019-06-17 00:00:00,2019,https://www.reuters.com/article/kenya-banking/kenyan-parliament-will-block-repeal-of-rate-cap-lawmaker-says-idUSL8N23O24Q,338
+HL_0450,Reuters,2018-11-07 00:00:00,2018,https://www.reuters.com/article/us-usa-election-firsts-factbox/factbox-women-shatter-many-barriers-in-congress-states-in-u-s-elections-idUSKCN1NC2HM,474
+HL_0451,Vox,2017-03-07 19:50:02,2017,https://www.vox.com/culture/2017/3/7/14843596/fleet-foxes-new-single-third-of-may-odaigahara,347
+HL_0452,Vox,2018-06-06 13:41:53,2018,https://www.vox.com/policy-and-politics/2018/6/6/17433576/judge-aaron-persky-recall-brock-turner-results,481
+HL_0453,Vox,2019-06-11 03:30:52,2019,https://www.vox.com/recode/2019/6/10/18660224/amazon-facial-recognition-rekognition-federal-regulation-andy-jassy-aws,463
+HL_0454,Vox,2017-03-28 21:40:02,2017,https://www.vox.com/science-and-health/2017/3/28/15097628/sean-spicer-climate-change-hoax-trump,407
+HL_0455,Reuters,2017-10-12 00:00:00,2017,https://www.reuters.com/article/us-gm-production/gm-to-scale-back-production-at-detroit-sedan-plant-idUSKBN1CH1WF,432
+HL_0456,Vox,2018-06-11 17:30:02,2018,https://www.vox.com/2018/6/11/17448614/trump-merkel-g7-photo,428
+HL_0457,Business Insider,2017-08-04 13:43:00,2017,https://www.businessinsider.com/alcohol-could-help-relieve-pain-as-effectively-as-paracetamol-2017-8,332
+HL_0458,Vice,2019-02-21 17:45:00,2019,https://www.vice.com/en_us/article/59xwp8/tucker-carlson-defends-telling-guest-to-go-fuck-himself-apology-rutger-bregman-fox-news-video-vgtrn,335
+HL_0459,Reuters,2018-01-17 00:00:00,2018,https://www.reuters.com/article/us-iran-usa-detainee/elderly-american-iranian-jailed-in-iran-hospitalised-with-heart-problems-lawyer-idUSKBN1F62FN,390
+HL_0460,Vice,2018-02-28 21:58:00,2018,https://www.vice.com/en_us/article/pamwmz/jersey-shore-family-vacation-getting-second-season-vgtrn,340
+HL_0461,Vox,2016-06-23 19:36:41,2016,https://www.vox.com/2016/6/23/12015778/uk-brexit-eu-referendum-results,312
+HL_0462,Reuters,2018-01-29 00:00:00,2018,https://www.reuters.com/article/us-philippines-drugs/philippine-police-return-to-war-on-drugs-cannot-promise-to-avoid-bloodshed-idUSKBN1FI0WP,469
+HL_0463,Reuters,2019-01-29 00:00:00,2019,https://www.reuters.com/article/us-china-media-rights/foreign-media-reporting-conditions-in-china-worsen-group-says-idUSKCN1PN0B6,305
+HL_0464,Vice,2018-01-25 17:00:00,2018,https://www.vice.com/en_us/article/paq58m/nyc-dive-bar-says-it-will-kick-out-anyone-who-uses-the-word-literally,453
+HL_0465,Vice,2018-09-05 22:11:00,2018,https://www.vice.com/en_us/article/ywka55/students-asked-to-stop-feeding-obese-dog-taiwan-school-vgtrn,397
+HL_0466,TMZ,2018-03-09 00:00:00,2018,https://www.tmz.com/2018/03/09/heather-locklear-boyfriend-choked-kill-gun-search-warrant-drunk/,482
+HL_0467,Reuters,2019-06-17 00:00:00,2019,https://www.reuters.com/article/us-usa-trade-mexico-lopezobrador/mexico-could-beat-us-in-trade-war-but-would-be-a-pyrrhic-victory-president-idUSKCN1TI2OM,327
+HL_0468,Vice News,2018-10-17 00:00:00,2018,https://news.vice.com/en_us/article/9k7j38/9-year-old-boy-wont-forgive-cornerstore-caroline-for-falsely-accusing-him-of-sexual-assault,362
+HL_0469,Reuters,2018-10-19 00:00:00,2018,https://www.reuters.com/article/us-usa-trump-water/trump-backs-water-projects-in-u-s-west-as-election-nears-idUSKCN1MT2XR,428
+HL_0470,Reuters,2018-10-30 00:00:00,2018,https://www.reuters.com/article/us-usa-trump-russia-mueller/special-counsel-muellers-team-asks-fbi-to-probe-false-claims-against-him-idUSKCN1N42SC,377
+HL_0471,Business Insider,2018-08-14 14:43:40,2018,https://www.businessinsider.com/these-stunning-underwater-images-will-change-how-you-see-the-ocean-2018-8,460
+HL_0472,Reuters,2019-07-05 00:00:00,2019,https://www.reuters.com/article/global-metals/metals-copper-set-for-1st-weekly-fall-in-4-on-weak-demand-outlook-idUSL4N2460KG,440
+HL_0473,Vox,2016-07-13 14:10:03,2016,https://www.vox.com/2016/7/13/12171602/nasa-juno-photo,363
+HL_0474,Vox,2018-07-17 16:50:01,2018,https://www.vox.com/world/2018/7/17/17577476/trump-putin-meeting-intelligence-win,389
+HL_0475,Vice,2018-03-19 22:09:00,2018,https://www.vice.com/en_us/article/bjp85m/white-castle-bathroom-meth-lab,457
+HL_0476,Business Insider,2016-02-14 07:50:32,2016,https://www.businessinsider.com/r-civilian-casualties-in-afghanistan-hit-record-high-un-2016-2,419
+HL_0477,Hyperallergic,2017-01-23 00:00:00,2017,https://hyperallergic.com/353088/architects-advocate-climate-change-action-open-letter-to-trump/,329
+HL_0478,Reuters,2019-07-02 00:00:00,2019,https://www.reuters.com/article/crypto-currencies-britain-regulator/rpt-facebooks-libra-cryptocurrency-needs-deep-thought-and-detail-uk-regulator-idUSL8N2434LV,372
+HL_0479,Vox,2017-02-09 01:00:01,2017,https://www.vox.com/2017/2/8/14555544/sen-jeff-sessions-confirmed,360
+HL_0480,Vice News,2019-04-07 00:00:00,2019,https://news.vice.com/en_us/article/43zzjj/meet-the-comedian-about-to-become-ukraines-next-president,496
+HL_0481,Reuters,2019-06-28 00:00:00,2019,https://www.reuters.com/article/us-pope-china/vatican-says-china-intimidating-catholics-loyal-to-pope-idUSKCN1TT1MY,409
+HL_0482,Business Insider,2016-11-18 01:14:37,2016,https://www.businessinsider.com/salesforce-marc-benioff-mike-pence-move-on-2016-11,323
+HL_0483,Reuters,2019-02-16 00:00:00,2019,https://www.reuters.com/article/us-illinois-shooting-victims/college-intern-on-first-day-among-illinois-factory-shooting-victims-idUSKCN1Q50P3,453
+HL_0484,Hyperallergic,2016-06-07 00:00:00,2016,https://hyperallergic.com/303952/french-museum-faces-cultural-catastrophe-after-storage-vault-floods/,494
+HL_0485,Vice,2018-01-18 17:00:00,2018,https://www.vice.com/en_us/article/d34ejj/baltimore-pizza-spot-points-out-that-italy-was-once-considered-a-shithole-too,428
+HL_0486,Vice,2018-04-04 16:00:00,2018,https://www.vice.com/en_us/article/wj7gnq/mexican-jello-babies,343
+HL_0487,Vice,2017-10-02 16:42:00,2017,https://www.vice.com/en_us/article/vb7xax/hear-six-new-morrissey-songs-one-of-which-mentions-brexit-obviously,303
+HL_0488,Vice,2016-10-30 17:00:00,2016,https://www.vice.com/en_us/article/d7k3xx/is-this-the-most-boring-thing-ever-purchased-on-the-dark-web,386
+HL_0489,Reuters,2019-06-19 00:00:00,2019,https://www.reuters.com/article/rugby-world-nations/update-1-rugby-world-rugby-scraps-plans-for-nations-championship-idUSL8N23Q5NE,353
+HL_0490,Vox,2017-09-13 15:44:41,2017,https://www.vox.com/2017/9/13/16301742/uber-alphabet-waymo-self-driving-lawsuit-document-due-diligence,463
+HL_0491,Business Insider,2016-06-28 15:01:25,2016,https://www.businessinsider.com/justin-trudeau-on-the-cover-of-a-marvel-comic-book-2016-6,371
+HL_0492,Reuters,2018-02-20 00:00:00,2018,https://www.reuters.com/article/us-southkorea-usa-trade/south-korea-launches-wto-trade-challenge-against-u-s-duties-idUSKCN1G426R,340
+HL_0493,Reuters,2019-06-25 00:00:00,2019,https://www.reuters.com/article/us-credit-suisse-gp-allfunds/fund-supermarket-allfunds-bulks-up-with-credit-suisse-deal-idUSKCN1TQ0GV,403
+HL_0494,Vox,2017-04-13 16:50:02,2017,https://www.vox.com/policy-and-politics/2017/4/13/15286272/sheila-abdus-salaam-death-first-black-woman-judge-new-york,456
+HL_0495,Reuters,2019-06-14 00:00:00,2019,https://www.reuters.com/article/us-russia-airplane-report/lightning-struck-russian-plane-before-it-crashed-investigation-idUSKCN1TF1NE,445
+HL_0496,Hyperallergic,2019-01-17 00:00:00,2019,https://hyperallergic.com/479894/1947-penny-sells-for-over-200000-and-ica-boston-acquires-kusama-infinity-room/,444
+HL_0497,Vox,2017-06-25 17:49:44,2017,https://www.vox.com/2017/6/25/15870518/mark-zuckerberg-president-rumors-nathan-hubbard-twitter-tweetstorm-politics,441
+HL_0498,Reuters,2018-02-23 00:00:00,2018,https://www.reuters.com/article/us-usa-israel-palestinians/palestinians-angry-at-reports-of-early-u-s-embassy-move-to-jerusalem-idUSKCN1G72B3,488
+HL_0499,Vice,2016-07-18 14:30:00,2016,https://www.vice.com/en_us/article/wnp9zz/exhibition-challenges-the-notion-of-the-brazilian-outcast,458
+HL_0500,Vice,2016-07-19 15:50:00,2016,https://www.vice.com/en_us/article/4xzp83/nba-summer-league-flags-fly-forever-the-chicago-bulls-are-champions,439
+HL_0501,Vox,2017-08-10 14:10:01,2017,https://www.vox.com/culture/2017/8/10/16124900/leslie-jones-seth-meyers-game-of-thrones-varys-conleth-hill,468
+HL_0502,Vice,2019-01-04 22:20:00,2019,https://www.vice.com/en_us/article/8xppv4/virginia-rep-jennifer-wexton-trans-pride-flag-capitol-hill,362
+HL_0503,Vox,2017-01-31 17:34:39,2017,https://www.vox.com/2017/1/31/14453792/daimler-uber-self-driving-cars,305
+HL_0504,Reuters,2018-12-20 00:00:00,2018,https://www.reuters.com/article/us-boeing-embraer-injunction/brazil-judge-again-blocks-boeing-embraer-tie-up-as-deal-nears-close-idUSKCN1OJ1L0,388
+HL_0505,Reuters,2017-12-04 00:00:00,2017,https://www.reuters.com/article/uk-uber-transport/uber-joins-forces-with-global-public-transport-association-idUSKBN1DY0DS,380
+HL_0506,Reuters,2019-05-01 00:00:00,2019,https://www.reuters.com/article/us-thailand-king/thai-king-surprises-with-royal-wedding-ahead-of-coronation-idUSKCN1S73TQ,300
+HL_0507,Reuters,2018-08-17 00:00:00,2018,https://www.reuters.com/article/us-usa-immigration-sessions/u-s-attorney-general-issues-order-to-speed-up-immigrant-deportations-idUSKBN1L2021,448
+HL_0508,Reuters,2018-06-03 00:00:00,2018,https://www.reuters.com/article/us-monsanto-m-a-bayer-share-issue/bayer-launches-7-billion-cash-call-to-fund-monsanto-deal-idUSKCN1IZ0QE,309
+HL_0509,Vox,2017-08-08 17:20:02,2017,https://www.vox.com/culture/2017/8/8/16110988/norman-lear-kennedy-center-ceremony-trump,367
+HL_0510,TMZ,2019-03-07 00:00:00,2019,https://www.tmz.com/2019/03/07/r-kelly-claim-relationship-kids-family-false-child-support-arrest/,310
+HL_0511,Vice News,2019-06-28 00:00:00,2019,https://news.vice.com/en_us/article/597aax/what-brexit-means-to-the-uk-after-3-years-of-utter-chaos,332
+HL_0512,Business Insider,2017-04-25 18:33:17,2017,https://www.businessinsider.com/why-juicero-press-is-so-expensive-2017-4,454
+HL_0513,Business Insider,2016-07-22 19:31:00,2016,https://www.businessinsider.com/this-is-what-sponsored-pokestops-look-like-in-pokemon-go-2016-7,346
+HL_0514,Vice,2016-06-23 15:50:00,2016,https://www.vice.com/en_us/article/ez5wga/discarded-fuel-tank-remade-into-kinetic-shark-sculpture,396
+HL_0515,Vox,2017-05-10 01:40:01,2017,https://www.vox.com/2017/5/9/15602922/james-comey-fired-prank,391
+HL_0516,Vice News,2018-07-16 00:00:00,2018,https://news.vice.com/en_us/article/9kmyg7/trump-tweets-his-helsinki-surrender-before-putin-even-lands,494
+HL_0517,Reuters,2019-07-04 00:00:00,2019,https://www.reuters.com/article/us-usa-trade-vietnam/vietnam-asks-firms-to-use-local-materials-as-us-threatens-tariffs-idUSKCN1TZ0T9,305
+HL_0518,Reuters,2019-06-25 00:00:00,2019,https://www.reuters.com/article/casino-monoprix/update-2-respected-monoprix-boss-schultz-quits-french-retailer-casino-idUSL8N23W1JQ,404
+HL_0519,Reuters,2017-10-05 00:00:00,2017,https://www.reuters.com/article/us-spain-politics-catalonia-markets/spanish-markets-gain-as-investor-nerves-ease-over-catalonia-idUSKBN1CA1XJ,333
+HL_0520,Reuters,2018-10-01 00:00:00,2018,https://www.reuters.com/article/us-britain-eu-funds/french-watchdog-calms-uk-asset-manager-fears-over-brexit-idUSKCN1MB2DC,361
+HL_0521,Reuters,2019-01-07 00:00:00,2019,https://www.reuters.com/article/us-awards-golden-globes-audience/golden-globe-tv-audience-slightly-lower-but-bucks-awards-show-trend-idUSKCN1P11VJ,380
+HL_0522,Vice,2017-01-28 20:17:00,2017,https://www.vice.com/en_us/article/xyvyza/a-year-of-lil-wayne-a-tribute-to-lil-waynes-love-of-evisu-jeans,303
+HL_0523,Reuters,2019-01-25 00:00:00,2019,https://www.reuters.com/article/us-taiwan-china-us/u-s-warships-pass-through-taiwan-strait-amid-china-tensions-idUSKCN1PJ07T,427
+HL_0524,Vice,2016-02-04 16:30:00,2016,https://www.vice.com/en_us/article/yp5km5/fashion-blogger-aleali-may-for-adidas-trailblazers,422
+HL_0525,Business Insider,2016-10-02 01:56:56,2016,https://www.businessinsider.com/donald-trump-tax-returns-nyt-no-2016-10,392
+HL_0526,Vice News,2018-03-23 00:00:00,2018,https://news.vice.com/en_us/article/mbxvav/elon-musk-deleted-his-spacex-and-tesla-facebook-accounts,387
+HL_0527,Reuters,2018-02-12 00:00:00,2018,https://www.reuters.com/article/us-usa-budget-factbox/factbox-trumps-proposed-cuts-to-domestic-spending-food-aid-idUSKBN1FW2E6,416
+HL_0528,Business Insider,2018-12-03 23:45:44,2018,https://www.businessinsider.com/marine-corps-using-armored-vehicles-to-defend-navy-ships-from-threats-2018-12,446
+HL_0529,Reuters,2019-07-02 00:00:00,2019,https://www.reuters.com/article/asia-swinefever-farming/millions-of-small-pig-farmers-in-asia-threatened-by-swine-fever-outbreak-idUSL4N2432QF,414
+HL_0530,Vice,2017-03-07 19:05:00,2017,https://www.vice.com/en_us/article/nzmg9d/chrome-sparks-wake-stream,369
+HL_0531,Reuters,2017-10-17 00:00:00,2017,https://www.reuters.com/article/uk-mideast-crisis-syria-usa/ninety-percent-of-raqqa-retaken-from-islamic-state-u-s-military-idUSKBN1CM25Z,317
+HL_0532,Reuters,2019-06-06 00:00:00,2019,https://www.reuters.com/article/china-banking/update-1-postal-savings-bank-of-china-bullish-on-equity-investments-idUSL4N23D2O3,310
+HL_0533,Reuters,2019-07-04 00:00:00,2019,https://www.reuters.com/article/transat-at-ma-group-mach/real-estate-developer-group-mach-drops-bid-for-canadian-tour-operator-transat-idUSL4N2452KZ,348
+HL_0534,Reuters,2019-07-02 00:00:00,2019,https://www.reuters.com/article/spain-bbva-spying/probe-into-alleged-bbva-spying-case-expands-to-former-ceo-sources-idUSL8N24344L,346
+HL_0535,Reuters,2019-06-18 00:00:00,2019,https://www.reuters.com/article/eu-finance-green/update-1-eu-issues-green-investment-guide-to-help-combat-climate-change-idUSL8N23P506,476
+HL_0536,Business Insider,2019-03-14 21:14:05,2019,https://www.businessinsider.com/hallmark-fires-lori-loughlin-after-college-bribery-scandal-2019-3,306
+HL_0537,Reuters,2018-03-10 00:00:00,2018,https://www.reuters.com/article/us-northkorea-missiles-media/north-korean-state-media-quiet-on-kim-jong-uns-overtures-to-trump-idUSKCN1GM02R,373
+HL_0538,Vox,2018-04-04 22:00:02,2018,https://www.vox.com/2018/4/4/17199954/fox-news-scott-pruitt-ed-henry-interview-scandal,477
+HL_0539,Reuters,2017-11-10 00:00:00,2017,https://www.reuters.com/article/us-eu-iran-nuclear/eu-and-iran-defend-nuclear-deal-under-fire-from-trump-idUSKBN1DA0JV,408
+HL_0540,Vice,2019-05-14 20:14:00,2019,https://www.vice.com/en_us/article/8xz883/hunting-is-killing-off-40-of-large-mammals-even-in-pristine-forests,431
+HL_0541,Business Insider,2017-09-26 12:41:19,2017,https://www.businessinsider.com/the-grand-tour-jeremy-clarksons-show-moves-to-new-cotswolds-base-2017-9,386
+HL_0542,Reuters,2019-06-08 00:00:00,2019,https://www.reuters.com/article/venezuela-migration-colombia-jolie/rpt-angelina-jolie-urges-international-support-for-venezuelan-children-idUSL2N23F08G,417
+HL_0543,Reuters,2019-06-12 00:00:00,2019,https://www.reuters.com/article/uk-britain-eu-leader-stewart/boris-johnson-is-making-promises-he-cannot-keep-says-leadership-rival-stewart-idUSKCN1TD2PK,317
+HL_0544,Business Insider,2016-09-19 21:59:24,2016,https://www.businessinsider.com/nypd-pushes-emergency-alert-to-iphones-and-android-2016-9,404
+HL_0545,Reuters,2018-12-27 00:00:00,2018,https://www.reuters.com/article/us-usa-shutdown-workers/u-s-government-advises-workers-on-staving-off-creditors-amid-shutdown-idUSKCN1OQ1A3,392
+HL_0546,Vice,2016-07-07 00:00:00,2016,https://www.vice.com/en_us/article/nzk9wq/a-pizza-baker-was-mistakenly-shot-in-the-recent-terror-attack-in-bangladesh,425
+HL_0547,Reuters,2019-04-30 00:00:00,2019,https://www.reuters.com/article/us-usa-shipping-trump/trump-to-meet-with-republican-senators-on-u-s-shipping-rules-idUSKCN1S62I1,408
+HL_0548,TMZ,2019-06-12 00:00:00,2019,https://www.tmz.com/2019/06/12/barbara-corcoran-brother-dead-dominican-republic-hotel-heart-attack-mysterious/,435
+HL_0549,Reuters,2018-02-15 00:00:00,2018,https://www.reuters.com/article/us-usa-guns-study/florida-gets-failing-grade-for-its-gun-laws-study-idUSKCN1FZ2HK,408
+HL_0550,Reuters,2019-06-24 00:00:00,2019,https://www.reuters.com/article/france-weather/france-prepares-to-swelter-in-record-high-june-temperatures-idUSL8N23V2K7,446
+HL_0551,Vice,2017-01-29 22:00:00,2017,https://www.vice.com/en_us/article/5353bd/nasa-paint-rocket,403
+HL_0552,Vox,2017-09-30 16:07:45,2017,https://www.vox.com/policy-and-politics/2017/9/30/16389688/trump-puerto-rico-congress-funds,319
+HL_0553,Reuters,2017-12-06 00:00:00,2017,https://www.reuters.com/article/us-usa-trump-israel-iran/u-s-plan-to-move-israel-embassy-sign-of-failure-irans-leader-says-idUSKBN1E00VI,357
+HL_0554,Vox,2017-10-22 17:30:02,2017,https://www.vox.com/2017/10/22/16516470/bill-oreilly-settlement,323
+HL_0555,Business Insider,2016-01-15 21:19:28,2016,https://www.businessinsider.com/why-new-leather-seats-could-be-a-very-good-sign-from-alfa-romeo-2016-1,328
+HL_0556,Vice,2016-04-19 14:00:00,2016,https://www.vice.com/en_us/article/ezk74m/the-dalai-lama-just-publicly-dissed-japanese-cuisine,429
+HL_0557,Vox,2018-06-21 11:34:27,2018,https://www.vox.com/energy-and-environment/2018/2/22/17036114/pollution-fines-trump-pruitt-epa,496
+HL_0558,Business Insider,2017-09-18 16:35:27,2017,https://www.businessinsider.com/jets-players-rip-marshawn-lynchs-demoralizing-dance-during-big-loss-2017-9,350
+HL_0559,Reuters,2018-09-04 00:00:00,2018,https://www.reuters.com/article/us-people-spacey/no-l-a-sex-charges-for-spacey-seagal-anthony-anderson-idUSKCN1LK2H7,359
+HL_0560,Reuters,2019-01-10 00:00:00,2019,https://www.reuters.com/article/us-usa-trade-china-trump/trump-says-u-s-is-having-tremendous-success-with-china-on-trade-idUSKCN1P41UZ,355
+HL_0561,Vice,2017-01-23 21:50:00,2017,https://www.vice.com/en_us/article/wnpwzx/rob-israel-golden-shower-baby-trump-illustration,451
+HL_0562,Vice News,2016-11-04 00:00:00,2016,https://news.vice.com/en_us/article/a3nwqj/north-carolina-early-voting,434
+HL_0563,Vice,2016-02-26 21:00:00,2016,https://www.vice.com/en_us/article/ezk7kn/restaurants-cant-force-their-servers-to-share-their-tips-anymore,319
+HL_0564,Reuters,2019-06-21 00:00:00,2019,https://www.reuters.com/article/japan-stocks-midday/nikkei-edges-lower-investors-turn-focus-to-next-weeks-trump-xi-meeting-idUSL4N23S0NH,353
+HL_0565,Vice,2016-12-03 15:00:00,2016,https://www.vice.com/en_us/article/vv7q7d/get-hype-for-christmas-with-this-geocities-advent-calendar,419
+HL_0566,Reuters,2019-06-27 00:00:00,2019,https://www.reuters.com/article/usa-global-abortion/african-abortions-rose-under-us-policy-to-stop-them-study-says-idUSL2N23X0V3,468
+HL_0567,Reuters,2019-07-04 00:00:00,2019,https://www.reuters.com/article/baseball-mlb-nym-nyy/german-helps-yanks-top-mets-in-subway-series-finale-idUSMTZXEF743JJXP5,327
+HL_0568,Vice,2019-02-01 16:19:00,2019,https://www.vice.com/en_us/article/gyaqnb/hacker-joel-ortiz-sim-swapping-10-years-in-prison,433
+HL_0569,Vice,2017-08-02 16:32:00,2017,https://www.vice.com/en_us/article/zmxbg9/before-he-became-our-president-trump-was-going-to-play-one-in-sharknado-vgtrn,334
+HL_0570,Reuters,2017-10-05 00:00:00,2017,https://www.reuters.com/article/us-usa-lgbt/u-s-anti-bias-law-does-not-protect-transgender-workers-justice-dept-idUSKBN1CA1Z9,384
+HL_0571,Vice,2019-03-21 20:59:00,2019,https://www.vice.com/en_us/article/7xn34x/watch-a-streamers-emotional-reaction-to-beating-all-soulsborne-games-without-getting-hit,358
+HL_0572,Reuters,2018-02-28 00:00:00,2018,https://www.reuters.com/article/us-usa-crime-shkreli/pharma-bro-shkreli-seeks-12-to-18-month-sentence-below-guidelines-idUSKCN1GC258,447
+HL_0573,Reuters,2019-06-17 00:00:00,2019,https://www.reuters.com/article/us-australia-wheat/australia-lowers-wheat-export-forecast-by-18-as-drought-hits-supply-idUSKCN1TI1R9,356
+HL_0574,Reuters,2018-08-14 00:00:00,2018,https://www.reuters.com/article/us-britain-eu-hunt/risk-of-no-deal-brexit-rising-everyone-needs-to-prepare-british-foreign-minister-idUSKBN1KZ1D0,306
+HL_0575,Vox,2019-02-25 02:27:25,2019,https://www.vox.com/2019/2/24/18239151/serena-williams-nike-ad-dream-crazier-oscars,357
+HL_0576,Business Insider,2019-01-10 21:41:41,2019,https://www.businessinsider.com/tim-tebow-and-former-miss-universe-demi-leigh-nel-peters-are-engaged-2019-1,407
+HL_0577,Vox,2019-01-10 20:50:22,2019,https://www.vox.com/2019/1/10/18177081/amazon-advertising-dollars-facebook-privacy-cowen-survey,430
+HL_0578,TMZ,2016-08-30 00:00:00,2016,https://www.tmz.com/2016/08/30/chris-brown-gun-suspect-assault/,374
+HL_0579,Business Insider,2018-11-29 15:11:25,2018,https://www.businessinsider.com/the-house-that-jack-built-uncensored-screening-violates-mpaa-rules-2018-11,440
+HL_0580,Vice News,2017-10-03 00:00:00,2017,https://news.vice.com/en_us/article/kzgp9m/scotus-cases-you-should-be-paying-close-attention-to,323
+HL_0581,Hyperallergic,2017-06-29 00:00:00,2017,https://hyperallergic.com/386827/adobe-releases-digital-brushes-modeled-on-edvard-munchs/,433
+HL_0582,Reuters,2018-06-08 00:00:00,2018,https://www.reuters.com/article/us-britain-eu-banks/decrying-witch-hunt-against-brexit-backers-banks-shuns-uk-lawmakers-idUSKCN1J4206,404
+HL_0583,TMZ,2018-12-18 00:00:00,2018,https://www.tmz.com/2018/12/18/josh-henderson-burglary-case-cleared-rejected-innocent-surveillance-video/,310
+HL_0584,Vox,2016-06-22 15:46:30,2016,https://www.vox.com/2016/6/22/12000962/donald-trump-speech-hillary-clinton,372
+HL_0585,Reuters,2019-02-01 00:00:00,2019,https://www.reuters.com/article/us-usa-court-obamacare/u-s-judge-throws-out-maryland-bid-to-protect-obamacare-law-idUSKCN1PQ5JH,416
+HL_0586,Reuters,2019-06-19 00:00:00,2019,https://www.reuters.com/article/us-usa-trade-hearing/u-s-trade-representative-says-he-can-resolve-democrats-concerns-on-north-america-pact-quickly-idUSKCN1TK1W6,398
+HL_0587,Vox,2019-05-09 15:00:00,2019,https://www.vox.com/recode/2019/5/9/18538155/netflix-acquisition-storybots-kids-video-jibjab,433
+HL_0588,Vice,2017-05-11 20:32:00,2017,https://www.vice.com/en_us/article/53n5dd/trumps-oddly-specific-white-house-eating-habits-have-been-revealed,391
+HL_0589,Vice,2017-05-28 11:45:00,2017,https://www.vice.com/en_us/article/43gz8n/these-handcrafted-collages-are-hopelessly-lost-in-thought,395
+HL_0590,Reuters,2019-07-03 00:00:00,2019,https://www.reuters.com/article/olympics-2020-venues/olympics-tokyo-olympic-stadium-90-finished-to-open-in-december-idUSL8N24428W,385
+HL_0591,Vice,2017-06-08 16:46:00,2017,https://www.vice.com/en_us/article/d3zydw/weed-pizza-is-real-and-you-can-get-it-at-this-dispensary,315
+HL_0592,Vox,2018-01-24 16:17:20,2018,https://www.vox.com/2018/1/24/16924398/burger-king-net-neutrality-open-internet-fcc-brand-marketing,443
+HL_0593,Vice News,2019-05-30 00:00:00,2019,https://news.vice.com/en_us/article/ywy55x/the-nras-newest-board-member-wants-to-end-the-game-of-thrones-infighting,316
+HL_0594,Hyperallergic,2017-08-02 00:00:00,2017,https://hyperallergic.com/393686/national-geographic-travel-photographer-of-year-2017/,434
+HL_0595,Reuters,2019-06-13 00:00:00,2019,https://www.reuters.com/article/britain-sterling-volumes/update-2-pound-trading-volumes-shrink-as-brexit-delay-sends-investors-to-sidelines-idUSL8N23K2GG,480
+HL_0596,Reuters,2016-12-28 00:00:00,2016,https://www.reuters.com/article/us-usa-trump-graham-sanctions/u-s-senator-says-russia-can-expect-sanctions-after-cyber-attacks-idUSKBN14H11Q,471
+HL_0597,Vice,2017-03-28 19:00:00,2017,https://www.vice.com/en_us/article/8qjvkv/security-companies-testing-office-fridge-security-cameras,343
+HL_0598,Reuters,2019-06-24 00:00:00,2019,https://www.reuters.com/article/olympics-2026/update-3-olympics-milan-and-cortina-dampezzo-to-host-2026-winter-games-idUSL8N23V597,483
+HL_0599,Vice,2017-01-29 22:32:00,2017,https://www.vice.com/en_us/article/9adabe/a-year-of-lil-wayne-we-dont-and-some-really-good-rapping,445
+HL_0600,Vice,2016-07-14 17:47:00,2016,https://www.vice.com/en_us/article/5gqbp3/viral-blm-photo-baton-rouge,481
+HL_0601,Reuters,2019-07-08 00:00:00,2019,https://www.reuters.com/article/china-stocks-hongkong-close/hong-kong-shares-slump-as-investors-trim-us-easing-bets-idUSL4N2491ZZ,401
+HL_0602,Vox,2018-03-29 21:40:04,2018,https://www.vox.com/today-explained/2018/3/29/17176906/cleveland-indians-opening-day-ohio-mlb-today-explained-podcast,363
+HL_0603,Vox,2019-01-28 13:55:00,2019,https://www.vox.com/2019/1/28/18198036/hims-valuation-billion-erectile-dysfunction-mens-health-funding,359
+HL_0604,Reuters,2019-06-21 00:00:00,2019,https://www.reuters.com/article/us-usa-fed-clarida/clarida-outlook-is-for-continued-us-expansion-but-fed-prepared-to-act-idUSKCN1TM1CY,362
+HL_0605,Vox,2017-05-26 13:30:40,2017,https://www.vox.com/science-and-health/2017/5/25/15690396/fact-goldwater-rule-article-psychiatrist,371
+HL_0606,Reuters,2019-06-17 00:00:00,2019,https://www.reuters.com/article/us-china-rareearths/us-military-firms-likely-to-face-china-rare-earth-restrictions-global-times-idUSKCN1TI07S,347
+HL_0607,Vice News,2016-07-17 00:00:00,2016,https://news.vice.com/en_us/article/7xaa3q/baltimore-cops-arrest-65-anti-brutality-protesters-for-blocking-freeway,421
+HL_0608,Business Insider,2016-12-02 03:04:00,2016,https://www.businessinsider.com/arizona-department-of-economic-security-weapons-2016-12,460
+HL_0609,Reuters,2017-10-25 00:00:00,2017,https://www.reuters.com/article/us-usa-immigration-ryan/u-s-republican-ryan-says-wants-dreamer-action-timing-uncertain-reuters-interview-idUSKBN1CU2CQ,434
+HL_0610,Reuters,2019-06-26 00:00:00,2019,https://www.reuters.com/article/us-india-usa-pompeo-pakistan/pompeo-says-remains-hopeful-pakistan-will-crack-down-on-islamist-militants-idUSKCN1TR2R2,319
+HL_0611,Reuters,2019-02-08 00:00:00,2019,https://www.reuters.com/article/us-india-election-facebook/facebook-toughens-political-ad-policies-in-india-ahead-of-election-idUSKCN1PX0C6,358
+HL_0612,Reuters,2019-07-01 00:00:00,2019,https://www.reuters.com/article/us-baseball-mlb-tor-kc-recap/galvis-slugs-two-hrs-as-blue-jays-rout-royals-idUSKCN1TW3SI,370
+HL_0613,Vox,2017-07-23 13:00:02,2017,https://www.vox.com/2017/7/23/16004156/alphabet-googl-q2-2017-earnings-preview-eu-fine,323
+HL_0614,Vice,2016-03-12 19:00:00,2016,https://www.vice.com/en_us/article/nz45dq/raising-robotic-natives-future-design,434
+HL_0615,Reuters,2018-06-25 00:00:00,2018,https://www.reuters.com/article/us-usa-immigration-military/pentagon-eyes-temporary-camps-for-immigrants-at-two-bases-idUSKBN1JL015,368
+HL_0616,Reuters,2019-06-13 00:00:00,2019,https://www.reuters.com/article/us-yemen-security/yemens-houthis-in-tit-for-tat-launch-fresh-attacks-against-saudi-abha-airport-idUSKCN1TE0RB,407
+HL_0617,Vox,2016-12-06 20:20:01,2016,https://www.vox.com/2016/12/6/13854106/the-weeds-trump-cabinet,402
+HL_0618,Reuters,2019-07-01 00:00:00,2019,https://www.reuters.com/article/us-tennis-wimbledon-gauff-venus/gauff-ready-to-prove-that-win-over-venus-is-not-a-one-off-idUSKCN1TW3Y2,475
+HL_0619,Vice,2017-01-13 18:32:00,2017,https://www.vice.com/en_us/article/xyyqp7/memoriam-resurrects-bolt-throwers-death-metal-supremacy-in-a-crushing-new-song,359
+HL_0620,Reuters,2019-05-16 00:00:00,2019,https://www.reuters.com/article/us-california-rail/u-s-cancels-929-million-in-california-high-speed-rail-funds-after-appeal-rejected-idUSKCN1SM2F9,439
+HL_0621,Reuters,2019-01-24 00:00:00,2019,https://www.reuters.com/article/us-huawei-smartphone-chips/chinas-huawei-eyes-smartphone-supremacy-this-year-after-record-2018-sales-idUSKCN1PI08M,480
+HL_0622,Vox,2017-08-27 17:00:03,2017,https://www.vox.com/2017/8/27/16211308/president-trumps-response-to-hurricane-harvey-devastation-wow,326
+HL_0623,Vice,2016-07-18 14:05:00,2016,https://www.vice.com/en_us/article/78na3b/wada-report-confirms-government-aided-doping-program-in-russia,481
+HL_0624,Vice,2016-01-11 23:59:00,2016,https://www.vice.com/en_us/article/aeby4a/the-three-keys-to-the-college-football-playoff-national-championship,455
+HL_0625,Reuters,2018-04-02 00:00:00,2018,https://www.reuters.com/article/us-usa-stocks/wall-street-tumbles-on-tech-sector-trade-war-worries-idUSKCN1H90XP,458
+HL_0626,Reuters,2019-06-17 00:00:00,2019,https://www.reuters.com/article/us-kpmg-usa/kpmg-fined-50-million-for-using-stolen-data-exam-fraud-us-sec-idUSKCN1TI1PO,352
+HL_0627,Reuters,2019-07-04 00:00:00,2019,https://www.reuters.com/article/us-auction-egypt-tutankhamen/tutankhamen-head-set-for-london-auction-despite-egyptian-protests-idUSKCN1TZ1HE,410
+HL_0628,Reuters,2019-06-13 00:00:00,2019,https://www.reuters.com/article/us-china-pollution/china-ministry-summons-mayors-of-six-cities-for-failing-to-meet-smog-targets-idUSKCN1TE0DJ,346
+HL_0629,Reuters,2019-06-16 00:00:00,2019,https://www.reuters.com/article/bndes-moves/head-of-brazil-development-bndes-resigns-amid-tension-with-bolsonaro-idUSL2N23N03P,356
+HL_0630,Vox,2016-01-08 18:20:54,2016,https://www.vox.com/2016/1/8/11588620/hbo-isnt-netflix-which-is-why-it-should-stay-with-time-warner,436
+HL_0631,Reuters,2019-06-21 00:00:00,2019,https://www.reuters.com/article/us-facebook-crypto-france/france-creates-g7-cryptocurrency-task-force-as-facebooks-libra-unsettles-governments-idUSKCN1TM0SO,351
+HL_0632,Reuters,2019-06-28 00:00:00,2019,https://www.reuters.com/article/zimbabwe-maize/zimbabwe-moves-to-keep-a-lid-on-maize-prices-after-drought-idUSL8N23Z4CT,328
+HL_0633,Reuters,2019-01-07 00:00:00,2019,https://www.reuters.com/article/us-usa-trump-russia-concord/u-s-judge-defense-lawyers-conduct-in-russia-probe-unprofessional-idUSKCN1P11TC,301
+HL_0634,Hyperallergic,2017-08-09 00:00:00,2017,https://hyperallergic.com/395048/trumpy-the-rat-will-debut-next-week-when-the-president-returns-to-nyc/,360
+HL_0635,Vox,2019-07-03 21:10:00,2019,https://www.vox.com/identities/2019/7/3/20681511/marshae-jones-alabama-miscarriage-shooting-charges-dismissed,494
+HL_0636,Vice,2016-10-17 18:10:00,2016,https://www.vice.com/en_us/article/aebpmp/teams-combat-nfls-stupid-gifvideo-policy-with-crappy-puppet-aided-recreations,335
+HL_0637,Reuters,2018-09-05 00:00:00,2018,https://www.reuters.com/article/us-usa-mccain/jon-kyl-sworn-in-as-senator-replacing-mccain-idUSKCN1LL2LR,353
+HL_0638,TMZ,2018-12-12 00:00:00,2018,https://www.tmz.com/2018/12/12/michael-cohen-sentenced-3-years-prison-donald-trump-lawyer/,378
+HL_0639,Vox,2018-08-22 02:22:23,2018,https://www.vox.com/2018/8/14/17681948/live-results-connecticut-primary-election-2018,498
+HL_0640,Reuters,2019-06-26 00:00:00,2019,https://www.reuters.com/article/northam-platinum-kukama-project/northam-platinum-expects-kukama-shaft-to-be-operational-in-fy-2020-idUSL8N23X1F1,313
+HL_0641,Reuters,2016-11-13 00:00:00,2016,https://www.reuters.com/article/us-usa-election-facebook/zuckerberg-again-rejects-claims-of-facebook-impact-on-u-s-election-idUSKBN1380TH,449
+HL_0642,Reuters,2019-06-18 00:00:00,2019,https://www.reuters.com/article/us-alibaba-china/alibaba-puts-cfo-in-charge-of-investment-in-major-management-reshuffle-idUSKCN1TJ0AH,399
+HL_0643,Vox,2016-10-05 14:28:00,2016,https://www.vox.com/2016/10/5/13171850/2016-nobel-prize-chemistry,498
+HL_0644,Reuters,2018-09-13 00:00:00,2018,https://www.reuters.com/article/us-usa-election-income/many-battleground-u-s-house-districts-see-strong-2017-income-growth-idUSKCN1LT0FI,448
+HL_0645,Reuters,2019-06-20 00:00:00,2019,https://www.reuters.com/article/emerging-markets/emerging-markets-trade-talks-hopes-for-rate-cuts-boost-stocks-idUSL8N23R1YX,474
+HL_0646,Reuters,2019-07-05 00:00:00,2019,https://www.reuters.com/article/us-global-oil/oil-prices-rise-on-iran-tensions-opec-output-cuts-idUSKCN1U0033,446
+HL_0647,Reuters,2019-05-13 00:00:00,2019,https://www.reuters.com/article/us-philippines-election/duterte-set-to-strengthen-rule-as-loyalists-lead-philippine-senate-vote-idUSKCN1SJ09P,475
+HL_0648,Vox,2018-03-26 22:12:19,2018,https://www.vox.com/2018/3/26/17165532/amazon-tv-news-survey-fire,391
+HL_0649,Hyperallergic,2017-01-11 00:00:00,2017,https://hyperallergic.com/350812/austin-becomes-newest-us-city-to-introduce-artist-in-residence-program/,404
+HL_0650,Vice,2017-07-17 18:56:00,2017,https://www.vice.com/en_us/article/xwz7pk/california-judicial-council-accused-of-donning-blackface-for-prison-themed-party,436
+HL_0651,Vice,2017-07-31 18:00:00,2017,https://www.vice.com/en_us/article/43dkwn/munchies-the-podcast-an-afternoon-at-ina-gartens-house,339
+HL_0652,Reuters,2018-06-08 00:00:00,2018,https://www.reuters.com/article/us-austria-politics-islam/austria-to-shut-down-mosques-expel-foreign-funded-imams-idUSKCN1J40X1,411
+HL_0653,Vice News,2018-08-02 00:00:00,2018,https://news.vice.com/en_us/article/bjbynv/paul-manafort-has-terrible-taste-in-dollar15000-ostrich-jackets,499
+HL_0654,Reuters,2019-06-22 00:00:00,2019,https://www.reuters.com/article/us-myanmar-rakhine/myanmar-orders-internet-shutdown-in-conflict-torn-rakhine-state-telco-operator-idUSKCN1TN0AX,378
+HL_0655,Reuters,2018-08-08 00:00:00,2018,https://www.reuters.com/article/us-cyber-conference-samsung-elec/samsung-galaxy-s7-smartphones-vulnerable-to-hacking-researchers-idUSKBN1KT0NL,432
+HL_0656,Vox,2017-02-22 15:09:49,2017,https://www.vox.com/2017/2/22/14692590/snapchat-snap-ipo-evan-spiegel-jeremy-liew-lightspeed-venture-partners-recode-podcast,421
+HL_0657,Hyperallergic,2016-02-17 00:00:00,2016,https://hyperallergic.com/276209/nasa-releases-retro-posters-for-the-future-of-space-exploration/,369
+HL_0658,Reuters,2018-08-14 00:00:00,2018,https://www.reuters.com/article/us-cuba-internet/cubans-cheer-as-internet-goes-nationwide-for-a-day-idUSKBN1KZ2CB,412
+HL_0659,Vox,2018-12-02 15:34:37,2018,https://www.vox.com/culture/2018/12/2/18122091/snl-cold-open-trump-jealous-putin-mbs-budding-bromance,499
+HL_0660,Vice News,2018-01-18 00:00:00,2018,https://news.vice.com/en_us/article/j5vnxy/the-other-scandals-that-could-take-down-missouris-gop-governor,418
+HL_0661,Vice,2017-04-15 14:05:00,2017,https://www.vice.com/en_us/article/d7bvjw/chris-stapletons-new-song-broken-halos-hints-at-something-great,402
+HL_0662,Vice,2019-03-13 18:25:00,2019,https://www.vice.com/en_us/article/j574m3/the-simpsons-showrunner-thinks-michael-jacksons-episode-aided-his-alleged-crimes,452
+HL_0663,Reuters,2019-07-01 00:00:00,2019,https://www.reuters.com/article/asia-banks-digital/asian-banks-face-threat-from-profit-plunge-digital-rivals-mckinsey-idUSL4N24002Q,356
+HL_0664,Reuters,2016-05-26 00:00:00,2016,https://www.reuters.com/article/us-usa-election-trump-wiley/trump-fires-his-national-political-director-campaign-sources-idUSKCN0YH039,340
+HL_0665,Vice News,2018-02-21 00:00:00,2018,https://news.vice.com/en_us/article/gy8wjb/americans-just-broke-the-tsas-gun-smuggling-record,417
+HL_0666,Reuters,2019-07-04 00:00:00,2019,https://www.reuters.com/article/china-stocks-close/china-stocks-end-lower-as-consumer-shares-drag-idUSZZN2RMB00,364
+HL_0667,Hyperallergic,2017-01-05 00:00:00,2017,https://hyperallergic.com/349256/egyptian-surrealism-and-the-quest-to-define-modern-art-in-egypt/,303
+HL_0668,Reuters,2018-06-14 00:00:00,2018,https://www.reuters.com/article/us-usa-trump-apprentice-lawsuit/trump-fails-to-halt-apprentice-contestants-defamation-lawsuit-idUSKCN1II2DB,335
+HL_0669,Reuters,2018-08-10 00:00:00,2018,https://www.reuters.com/article/us-turkey-currency-usa-trade/turkey-implores-trump-to-return-to-table-on-tariffs-idUSKBN1KV22V,449
+HL_0670,Vice,2016-01-06 16:00:00,2016,https://www.vice.com/en_us/article/jpg8eb/waiting-to-socialize-in-vr-try-a-telepresence-bot,476
+HL_0671,Hyperallergic,2018-12-05 00:00:00,2018,https://hyperallergic.com/474403/tulsa-artist-fellowship-miami-2018/,420
+HL_0672,Business Insider,2017-06-07 16:00:00,2017,https://www.businessinsider.com/the-mummy-review-tom-cruise-2017-6,359
+HL_0673,Vox,2016-04-27 02:32:00,2016,https://www.vox.com/2016/4/26/11514044/primary-results-pennsylvania-maryland-connecticut,367
+HL_0674,Vice,2017-04-29 12:50:00,2017,https://www.vice.com/en_us/article/59mgqq/a-futurist-consultant-explains-how-she-developed-terrifying-tech-in-the-circle,477
+HL_0675,Vox,2016-09-07 10:46:17,2016,https://www.vox.com/2016/9/7/12826828/recode-daily-apple-iphone-event-questions,323
+HL_0676,Vice,2018-09-07 14:13:00,2018,https://www.vice.com/en_us/article/pa8edb/wind-and-solar-farms-could-make-parts-of-the-sahara-green-with-vegetation,453
+HL_0677,Vice,2016-03-27 14:00:00,2016,https://www.vice.com/en_us/article/jpk48p/the-smell-of-booze-alone-is-enough-to-make-you-tipsy,376
+HL_0678,Reuters,2018-06-09 00:00:00,2018,https://www.reuters.com/article/us-horseracing-belmont/justify-claims-triple-crown-with-belmont-stakes-win-idUSKCN1J510B,450
+HL_0679,Reuters,2019-04-12 00:00:00,2019,https://www.reuters.com/article/us-walt-disney-espn/disney-sees-espn-reaching-up-to-12-million-subscribers-by-2024-idUSKCN1RO071,377
+HL_0680,Vox,2016-11-17 17:36:27,2016,https://www.vox.com/2016/11/17/13662868/recode-daily-twitter-bans-alt-right-accounts,452
+HL_0681,Reuters,2018-06-14 00:00:00,2018,https://www.reuters.com/article/us-facebook-privacy-senate/senate-panel-to-call-key-cambridge-analytica-figure-to-testify-idUSKBN1JA266,444
+HL_0682,Reuters,2019-05-22 00:00:00,2019,https://www.reuters.com/article/us-usa-currency-tubman/u-s-treasury-backs-away-from-plan-for-harriet-tubman-on-20-bill-next-year-idUSKCN1SS2ZK,401
+HL_0683,Reuters,2018-11-21 00:00:00,2018,https://www.reuters.com/article/us-britain-eu-parliament-factbox/factbox-what-is-uk-pm-mays-working-majority-without-the-dup-answer-3-votes-idUSKCN1NQ1R5,337
+HL_0684,Vox,2016-06-01 22:30:03,2016,https://www.vox.com/2016/6/1/11820682/lyft-grab-antiuber-alliance-crossbooking-southeastasia-us-uber,444
+HL_0685,Reuters,2019-06-10 00:00:00,2019,https://www.reuters.com/article/global-forex/forex-dollar-gains-as-mexico-tariffs-averted-boosting-risk-sentiment-idUSL2N23H12P,375
+HL_0686,Reuters,2016-02-02 00:00:00,2016,https://www.reuters.com/article/us-usa-obama-congress/obama-republican-leaders-seek-elusive-common-ground-in-white-house-meeting-idUSKCN0VB1RR,417
+HL_0687,Vice,2018-08-15 21:05:00,2018,https://www.vice.com/en_us/article/xwkkvz/bitch-im-a-cow-moo-doja-cat-taurus,493
+HL_0688,Vice News,2018-01-15 00:00:00,2018,https://news.vice.com/en_us/article/wjpb8w/south-africa-hauls-in-diplomat-to-explain-trumps-shithole-racism,418
+HL_0689,Reuters,2019-06-26 00:00:00,2019,https://www.reuters.com/article/britain-stocks/update-2-ftse-100-retreats-after-fed-stance-global-trade-picture-unclear-idUSL4N23X1ZU,407
+HL_0690,Business Insider,2016-01-08 18:43:28,2016,https://www.businessinsider.com/r-tech-executives-to-huddle-with-government-on-jihadi-internet-use-2016-1,456
+HL_0691,Reuters,2018-10-11 00:00:00,2018,https://www.reuters.com/article/us-usa-trump-kanye-reaction-factbox/kanye-wests-meeting-with-trump-provokes-scorn-sadness-support-idUSKCN1ML2SX,457
+HL_0692,Reuters,2018-12-01 00:00:00,2018,https://www.reuters.com/article/us-marriott-intnl-cyber/marriotts-starwood-hack-hits-up-to-500-million-customers-idUSKCN1NZ1D0,396
+HL_0693,Reuters,2018-09-20 00:00:00,2018,https://www.reuters.com/article/us-myanmar-journalists-un/u-n-chief-urges-myanmar-government-to-free-reuters-journalists-idUSKCN1M02OG,443
+HL_0694,TMZ,2019-05-20 00:00:00,2019,https://www.tmz.com/2019/05/20/kodak-black-florida-shooting-gun-purchase-fingerprints-prosecutors/,362
+HL_0695,Vox,2016-10-06 07:01:03,2016,https://www.vox.com/2016/10/6/13167596/linkedin-open-candidates-new-product,315
+HL_0696,Reuters,2018-04-10 00:00:00,2018,https://www.reuters.com/article/us-fiat-chrysler-emissions/fiat-chrysler-u-s-justice-department-in-diesel-emissions-settlement-talks-idUSKBN1HH3KR,428
+HL_0697,Vice,2018-10-08 17:09:00,2018,https://www.vice.com/en_us/article/gyem83/these-a-star-is-born-memes-will-distract-you-from-our-hellworld-vgtrn,464
+HL_0698,Reuters,2018-12-24 00:00:00,2018,https://www.reuters.com/article/us-afghanistan-attack/gunmen-kill-at-least-28-in-raid-on-afghan-government-building-idUSKCN1ON0LM,453
+HL_0699,Hyperallergic,2018-06-06 00:00:00,2018,https://hyperallergic.com/445857/the-morgan-library-museum-presents-the-first-survey-of-wayne-thiebauds-drawings/,310
+HL_0700,Vox,2017-10-30 15:40:02,2017,https://www.vox.com/2017/10/30/16570662/senate-republicans-mueller-trump,321
+HL_0701,Reuters,2017-10-10 00:00:00,2017,https://www.reuters.com/article/us-walmart-outlook/wal-mart-sees-40-percent-online-sales-growth-next-year-shares-rise-idUSKBN1CF1E7,499
+HL_0702,Reuters,2019-06-27 00:00:00,2019,https://www.reuters.com/article/us-soccer-worldcup-nor-eng/best-in-the-world-bronze-has-england-dreaming-of-gold-idUSKCN1TS3AO,491
+HL_0703,Vice,2016-11-18 14:37:00,2016,https://www.vice.com/en_us/article/3daya5/whatcd-admin-were-sad-to-say-the-site-is-not-coming-back,472
+HL_0704,Vox,2017-06-15 13:00:04,2017,https://www.vox.com/2017/6/15/15804164/twitter-design-change-profile-photo-ios-replies,329
+HL_0705,Vice,2017-09-11 17:52:00,2017,https://www.vice.com/en_us/article/433k59/melissa-mccarthys-sean-spicer-impression-just-won-her-an-emmy-vgtrn,413
+HL_0706,Reuters,2019-06-19 00:00:00,2019,https://www.reuters.com/article/usa-stocks/us-stocks-stocks-approach-record-as-fed-soothes-wall-streets-fears-idUSL2N23Q1FX,494
+HL_0707,TMZ,2018-06-08 00:00:00,2018,https://www.tmz.com/2018/06/08/anthony-bourdain-asia-argento-relationship-split-close/,302
+HL_0708,Reuters,2018-03-14 00:00:00,2018,https://www.reuters.com/article/us-britain-russia-lavrov/russias-lavrov-says-no-progress-made-in-stand-off-with-britain-idUSKCN1GQ194,311
+HL_0709,Vox,2016-03-03 15:44:00,2016,https://www.vox.com/2015/2/11/8016017/ny-times-hitler,460
+HL_0710,Vox,2016-12-17 15:00:01,2016,https://www.vox.com/culture/2016/12/17/13978502/little-women-streaming-christmas-louisa-may-alcott-winona-ryder-kirsten-dunst-christian-bale,445
+HL_0711,Reuters,2019-06-10 00:00:00,2019,https://www.reuters.com/article/att-advertising/atts-xandr-launches-ad-buying-platform-for-premium-content-idUSL2N23E0ST,359
+HL_0712,Reuters,2019-06-24 00:00:00,2019,https://www.reuters.com/article/indonesia-forests-youth/thunberg-proved-we-are-not-alone-say-young-indonesian-tree-planters-idUSL8N23V097,490
+HL_0713,TMZ,2019-05-21 00:00:00,2019,https://www.tmz.com/2019/05/21/conor-mcgregor-floyd-mayweather-rematch/,326
+HL_0714,Vox,2017-06-14 18:53:11,2017,https://www.vox.com/2017/6/14/15801054/james-t-hodgkinson-police-alexandria-shooter,392
+HL_0715,Reuters,2019-07-09 00:00:00,2019,https://www.reuters.com/article/thailand-sugar/thai-sugar-output-seen-down-7-y-y-price-lowest-in-decade-idUSL4N2491XI,409
+HL_0716,Vice,2017-08-15 21:10:00,2017,https://www.vice.com/en_us/article/xwwdm3/chuck-e-cheeses-creepy-robot-band-is-breaking-up-vgtrn,429
+HL_0717,Reuters,2018-02-01 00:00:00,2018,https://www.reuters.com/article/us-guess-stocks/guess-shares-slump-after-model-kate-upton-tweets-about-exec-idUSKBN1FL6BK,317
+HL_0718,Hyperallergic,2016-05-23 00:00:00,2016,https://hyperallergic.com/293787/listening-to-archived-sounds-amid-the-stacks-at-the-new-york-public-library/,463
+HL_0719,Reuters,2019-06-13 00:00:00,2019,https://www.reuters.com/article/usa-vaping/update-1-fda-proposes-shorter-deadline-for-e-cigarette-applications-idUSL4N23K3F7,434
+HL_0720,Vice,2017-03-23 18:53:00,2017,https://www.vice.com/en_us/article/xyk34z/bernie-wrightson-comic-book-legend-remembering-king-del-toro,493
+HL_0721,Vox,2017-09-22 16:15:02,2017,https://www.vox.com/policy-and-politics/2017/9/22/16350320/graham-cassidy-uninsured-brookings-usc-cbo,350
+HL_0722,Reuters,2019-06-12 00:00:00,2019,https://www.reuters.com/article/usa-bonds/treasuries-us-yield-curve-steeper-as-soft-inflation-spurs-rate-cut-bets-idUSL2N23J0X1,436
+HL_0723,Reuters,2019-06-18 00:00:00,2019,https://www.reuters.com/article/global-forex/forex-dollar-heads-towards-3-month-lows-before-fed-meeting-draghi-eyed-idUSL4N23P1OG,330
+HL_0724,Vice News,2017-05-10 00:00:00,2017,https://news.vice.com/en_us/article/kzg59z/trump-fbi-russia-investigation,490
+HL_0725,Vox,2018-11-07 18:33:49,2018,https://www.vox.com/2018/11/6/18049882/kansas-election-results-sharice-davids-native-american,340
+HL_0726,Vice,2017-05-17 22:21:00,2017,https://www.vice.com/en_us/article/bmwbkm/mike-lurie-gloriously-gooey-video,335
+HL_0727,Vice News,2017-12-05 00:00:00,2017,https://news.vice.com/en_us/article/ywnndm/inside-the-clean-up-of-chernobyl-the-worlds-worst-nuclear-disaster,398
+HL_0728,Reuters,2019-06-24 00:00:00,2019,https://www.reuters.com/article/us-russia-oil-exports-czech/czechs-detect-new-russian-oil-contamination-slovakia-finds-no-problem-idUSKCN1TP1XH,304
+HL_0729,Vox,2018-01-31 22:10:02,2018,https://www.vox.com/policy-and-politics/2018/1/31/16956972/rod-rosenstein-trump-team-russia,424
+HL_0730,Vice,2017-11-25 17:00:00,2017,https://www.vice.com/en_us/article/kbvnn9/ditch-your-brunch-plans-and-cook-this-epic-dim-sum-feast,384
+HL_0731,Vox,2017-06-30 17:53:08,2017,https://www.vox.com/2017/6/30/15901002/watch-video-toyota-human-support-robot-disability,330
+HL_0732,Reuters,2017-11-18 00:00:00,2017,https://www.reuters.com/article/us-nxp-m-a-qualcomm-antitrust/exclusive-qualcomm-set-to-win-conditional-japanese-antitrust-okay-for-nxp-deal-source-idUSKBN1DI0PQ,388
+HL_0733,Reuters,2019-07-05 00:00:00,2019,https://www.reuters.com/article/cricket-worldcup-final/cricket-world-cup-final-will-be-on-free-to-air-tv-if-england-qualify-sky-idUSL4N2462G7,335
+HL_0734,Vice News,2017-08-21 00:00:00,2017,https://news.vice.com/en_us/article/vbzxxd/some-of-snapchats-investors-seem-unfazed-by-sluggish-growth,489
+HL_0735,Reuters,2017-11-14 00:00:00,2017,https://www.reuters.com/article/us-saudi-lebanon-france/lebanons-hariri-must-return-home-from-saudi-to-prove-he-is-free-foreign-minister-idUSKBN1DE29I,441
+HL_0736,Vox,2017-05-10 16:52:19,2017,https://www.vox.com/policy-and-politics/2017/5/10/15611942/trump-russian-officials-meeting,331
+HL_0737,Business Insider,2018-06-11 14:11:27,2018,https://www.businessinsider.com/ihop-name-change-ihob-disappointing-some-say-2018-6,347
+HL_0738,Business Insider,2019-02-07 07:40:55,2019,https://www.businessinsider.com/the-10-most-important-things-in-the-world-right-now-february-7-2019-2,358
+HL_0739,Vice,2016-04-19 17:35:00,2016,https://www.vice.com/en_us/article/dp5n8k/snoop-dogg-tells-vancouvers-downtown-eastside-to-clean-this-shit-up-calls-out-border-guards-vgtrn,372
+HL_0740,Hyperallergic,2017-01-18 00:00:00,2017,https://hyperallergic.com/352477/a-running-list-of-nationwide-art-spaces-closing-for-the-j20-art-strike/,428
+HL_0741,Vice News,2016-01-11 00:00:00,2016,https://news.vice.com/en_us/article/qv5eam/mexico-says-chapo-wont-be-extradited-for-at-least-a-year-and-probably-more,482
+HL_0742,Vox,2019-05-06 13:52:32,2019,https://www.vox.com/2019/5/6/18531067/spider-man-far-from-home-new-trailer-endgame-spoilers,432
+HL_0743,Vox,2017-04-06 13:10:01,2017,https://www.vox.com/policy-and-politics/2017/4/6/15197498/gop-whip-obamacare-aca-repeal,349
+HL_0744,Vox,2017-05-06 17:02:48,2017,https://www.vox.com/2017/5/6/15567868/macron-hack-french-presidential-campaign,321
+HL_0745,Vice,2016-09-01 15:00:00,2016,https://www.vice.com/en_us/article/wnbzpy/new-arrests-have-been-made-in-the-european-horsemeat-scandal,388
+HL_0746,Reuters,2019-06-06 00:00:00,2019,https://www.reuters.com/article/us-california-ladybugs/california-ladybug-swarm-dozens-of-miles-wide-shows-up-on-radar-idUSKCN1T72Y8,434
+HL_0747,Business Insider,2019-01-25 18:06:58,2019,https://www.businessinsider.com/eric-mckay-gave-his-lifetime-supply-of-lidl-peanut-butter-to-furloughed-workers-2019-1,447
+HL_0748,Vice,2018-07-31 21:11:00,2018,https://www.vice.com/en_us/article/qvmzzw/man-brings-large-leather-couch-on-subway-vgtrn,447
+HL_0749,Vox,2016-10-04 10:00:03,2016,https://www.vox.com/2016/10/4/13158384/kaine-pence-vice-presidential-debate-live-watch-stream,381
+HL_0750,Reuters,2018-07-14 00:00:00,2018,https://www.reuters.com/article/us-soccer-worldcup-bel-eng-delph/for-the-rest-of-our-lives-well-kick-ourselves-englands-delph-idUSKBN1K40V9,354
+HL_0751,TMZ,2019-04-04 00:00:00,2019,https://www.tmz.com/2019/04/04/jeff-bezos-divorce-official-wife-mackenzie/,346
+HL_0752,Reuters,2018-12-19 00:00:00,2018,https://www.reuters.com/article/us-usa-immigration-carlson/some-advertisers-drop-tucker-carlson-after-immigration-remarks-fox-idUSKBN1OI09M,486
+HL_0753,Vox,2016-03-25 17:13:17,2016,https://www.vox.com/2016/3/25/11587272/apple-seeks-delay-in-nyc-iphone-case-until-fbi-tests-new-unlocking,334
+HL_0754,Vox,2018-06-20 22:10:01,2018,https://www.vox.com/2018/6/20/17485374/european-union-donald-trump-tarrifs-import-taxes,372
+HL_0755,Vice,2019-01-24 14:00:00,2019,https://www.vice.com/en_us/article/59xpmk/get-ready-to-binge-this-true-crime-podcast-about-a-vigilante-private-eye,416
+HL_0756,Reuters,2019-07-03 00:00:00,2019,https://www.reuters.com/article/global-markets/global-markets-global-stock-markets-bonds-rally-in-expectation-of-rate-cuts-idUSL2N2440IV,449
+HL_0757,Vice,2018-11-28 17:11:00,2018,https://www.vice.com/en_us/article/a3m7kk/handmaids-tale-sequel-margaret-atwood-the-testaments-book-release-date-vgtrn,387
+HL_0758,Vox,2017-09-06 21:30:17,2017,https://www.vox.com/2017/9/6/16263954/uber-employees-morale-scandals-positive-values,329
+HL_0759,Reuters,2019-06-25 00:00:00,2019,https://www.reuters.com/article/afghanistan-taliban-media/taliban-condemned-for-threats-to-media-in-afghanistan-idUSL4N23W263,358
+HL_0760,Hyperallergic,2017-03-03 00:00:00,2017,https://hyperallergic.com/362523/native-women-share-stories-and-songs-at-the-whitney-museum/,317
+HL_0761,Vice News,2016-11-21 00:00:00,2016,https://news.vice.com/en_us/article/paz77z/watch-richard-spencer-rally-the-alt-right-america-is-white-peoples-creation,499
+HL_0762,Reuters,2019-06-25 00:00:00,2019,https://www.reuters.com/article/canada-stocks/canada-stocks-tsx-futures-down-as-oil-prices-dip-idUSL4N23W2JS,424
+HL_0763,Reuters,2018-12-01 00:00:00,2018,https://www.reuters.com/article/us-g20-argentina-saudi-russia/saudi-crown-prince-meets-russias-president-putin-discusses-oil-market-rebalancing-idUSKCN1O03RQ,343
+HL_0764,Business Insider,2018-06-25 21:07:11,2018,https://www.businessinsider.com/1943-copper-penny-2018-6,359
+HL_0765,Reuters,2017-12-15 00:00:00,2017,https://www.reuters.com/article/us-southchinasea-china-australia/china-tells-australia-off-over-south-china-sea-stance-idUSKBN1E905P,378
+HL_0766,Vice,2017-09-01 17:12:00,2017,https://www.vice.com/en_us/article/paa4yv/a-12-year-old-reportedly-killed-herself-after-being-shamed-for-getting-her-period,439
+HL_0767,Vice,2017-04-24 17:00:00,2017,https://www.vice.com/en_us/article/gv7wbw/get-ready-for-the-club-with-dmv-rapper-rico-nastys-glo-bottles,363
+HL_0768,Hyperallergic,2019-05-31 00:00:00,2019,https://hyperallergic.com/502772/cablestreet-premiere-huawei-field-of-vision/,493
+HL_0769,Vox,2016-02-11 17:27:00,2016,https://www.vox.com/2016/2/11/10966454/congressional-black-caucus-hillary-clinton,315
+HL_0770,Reuters,2019-04-05 00:00:00,2019,https://www.reuters.com/article/us-usa-illinois-missing-child/ohio-ex-convict-charged-after-claiming-to-be-long-lost-illinois-boy-idUSKCN1RH1PT,482
+HL_0771,Vice,2016-06-29 19:00:00,2016,https://www.vice.com/en_us/article/53qkeq/matcha-ice-cream-is-being-used-to-entice-japanese-teens-to-vote,381
+HL_0772,Reuters,2019-01-04 00:00:00,2019,https://www.reuters.com/article/us-india-temple/third-woman-breaches-ban-at-indian-hindu-temple-amid-protests-idUSKCN1OY0OJ,428
+HL_0773,Vice,2017-11-14 15:19:00,2017,https://www.vice.com/en_us/article/evb8an/two-women-allege-that-brand-news-jesse-lacey-solicited-them-as-minors,451
+HL_0774,Hyperallergic,2018-01-11 00:00:00,2018,https://hyperallergic.com/421271/jay-muhlin-vox-populi-scent-of-flowers/,438
+HL_0775,Reuters,2019-06-17 00:00:00,2019,https://www.reuters.com/article/us-golf-usopen-koepka/runner-up-koepka-says-not-winning-u-s-open-doesnt-sting-idUSKCN1TI09X,383
+HL_0776,Reuters,2018-08-24 00:00:00,2018,https://www.reuters.com/article/us-indonesia-blasphemy/moaning-about-mosque-loudspeaker-not-blasphemy-says-indonesian-muslim-group-idUSKCN1L915B,399
+HL_0777,Vox,2018-05-22 10:00:02,2018,https://www.vox.com/2018/5/22/17377234/starbucks-mobile-payments-users-apple-pay-google,310
+HL_0778,Reuters,2019-06-06 00:00:00,2019,https://www.reuters.com/article/global-markets/global-markets-us-yield-curve-flattens-after-ecb-move-stocks-inch-up-idUSL2N23D17D,455
+HL_0779,Vice,2017-02-11 16:00:00,2017,https://www.vice.com/en_us/article/aeadzp/fast-food-could-be-the-reason-your-breath-stinks,422
+HL_0780,Reuters,2019-06-06 00:00:00,2019,https://www.reuters.com/article/us-usa-rareearths-lynas-corp/lynas-touts-its-independence-from-china-in-push-for-rare-earths-growth-idUSKCN1T7255,314
+HL_0781,Business Insider,2016-08-15 08:12:05,2016,https://www.businessinsider.com/netflix-reacts-to-amazon-jeremy-clarkson-bid-2016-8,325
+HL_0782,Hyperallergic,2016-09-30 00:00:00,2016,https://hyperallergic.com/326708/italian-anti-mafia-police-recover-two-stolen-van-goghs-including-rare-seascape/,461
+HL_0783,Reuters,2019-07-01 00:00:00,2019,https://www.reuters.com/article/us-massachusetts-crime-rwanda/rwandan-man-gets-eight-years-in-u-s-prison-for-lying-about-genocide-role-idUSKCN1TW3P2,344
+HL_0784,Vice,2018-03-09 18:34:00,2018,https://www.vice.com/en_us/article/kzpdw9/seattles-kexp-is-celebrating-sub-pop-by-playing-their-releases-in-order,323
+HL_0785,Reuters,2019-06-27 00:00:00,2019,https://www.reuters.com/article/us-people-kevinspacey/actor-kevin-spaceys-alleged-sex-assault-victim-sues-over-lascivious-conduct-idUSKCN1TS2HH,396
+HL_0786,Hyperallergic,2017-07-12 00:00:00,2017,https://hyperallergic.com/386126/rift-fault-marion-belanger-photographs/,488
+HL_0787,Vox,2017-08-17 16:21:15,2017,https://www.vox.com/2017/8/17/16159334/trump-advisory-council-twitter-facebook-spotify-charlottesville-espn-apple-tv-eclipse,371
+HL_0788,Reuters,2019-03-15 00:00:00,2019,https://www.reuters.com/article/us-apple-qualcomm/u-s-judge-rules-qualcomm-owes-apple-nearly-1-billion-rebate-payment-idUSKCN1QV3EV,465
+HL_0789,Business Insider,2018-06-15 18:15:00,2018,https://www.businessinsider.com/trump-25-million-mexicans-japan-shinzo-abe-immigration-2018-6,422
+HL_0790,TMZ,2019-07-06 00:00:00,2019,https://www.tmz.com/2019/07/06/baby-archie-meghan-markle-prince-harry-christening/,339
+HL_0791,Reuters,2019-06-13 00:00:00,2019,https://www.reuters.com/article/us-usa-economy-inflation/us-import-prices-post-largest-drop-in-five-months-idUSKCN1TE1T5,405
+HL_0792,Reuters,2018-11-14 00:00:00,2018,https://www.reuters.com/article/us-britain-eu-scotland/scots-jarred-by-brexit-terms-on-northern-ireland-fishing-idUSKCN1NJ1IR,427
+HL_0793,Reuters,2019-06-07 00:00:00,2019,https://www.reuters.com/article/canada-economy/wrapup-1-canada-jobless-rate-hits-all-time-low-c-jumps-to-7-week-high-idUSL2N23E0D0,381
+HL_0794,Vice,2016-03-01 11:03:00,2016,https://www.vice.com/en_us/article/z4q8jx/a-bad-corgi-misbehaves-in-video-art-game-serpentine-gallery,381
+HL_0795,Reuters,2018-07-30 00:00:00,2018,https://www.reuters.com/article/us-harley-davidson-strategy/with-nimbler-bikes-harley-sharpens-asia-focus-to-revive-growth-idUSKBN1KK1BJ,496
+HL_0796,TMZ,2019-03-25 00:00:00,2019,https://www.tmz.com/2019/03/25/nate-diaz-khabib-nurmagomedov-conor-mcgregor/,334
+HL_0797,Vice,2017-08-25 20:12:00,2017,https://www.vice.com/en_us/article/kzzpdm/why-is-far-right-news-outlet-breitbart-tweeting-taylor-swift-lyrics,321
+HL_0798,Vice,2019-01-10 15:59:00,2019,https://www.vice.com/en_us/article/d3bmnz/woke-old-sportscaster-sounds-off-on-lack-of-black-nfl-coaches,410
+HL_0799,Vox,2017-09-10 13:24:02,2017,https://www.vox.com/science-and-health/2017/9/9/16280766/hurricane-irma-2017-tampa-florida-gulf,428
+HL_0800,Vice,2017-06-30 17:42:00,2017,https://www.vice.com/en_us/article/evdd84/10-rich-families-are-paying-their-dollar30000-preschool-tuition-in-bitcoin,419
+HL_0801,Reuters,2019-07-02 00:00:00,2019,https://www.reuters.com/article/venezuela-oil-exports/venezuelas-june-oil-exports-recover-to-over-1-mln-bpd-data-idUSL2N2421AR,383
+HL_0802,Vice News,2016-12-22 00:00:00,2016,https://news.vice.com/en_us/article/vbz53j/whitesville-west-virginia,417
+HL_0803,Business Insider,2019-03-19 13:55:21,2019,https://www.businessinsider.com/vladimir-putin-law-illegal-insult-him-government-2019-3,421
+HL_0804,Reuters,2019-02-05 00:00:00,2019,https://www.reuters.com/article/us-usa-epa-wheeler/senate-environment-panel-okays-trumps-pick-to-lead-epa-idUSKCN1PU1SP,408
+HL_0805,Reuters,2019-02-16 00:00:00,2019,https://www.reuters.com/article/us-germany-security-china/china-rebuffs-germanys-call-for-u-s-missile-deal-with-russia-idUSKCN1Q50NZ,480
+HL_0806,Vox,2017-09-01 22:05:07,2017,https://www.vox.com/2017/9/1/16243452/juicero-shutting-down-expensive-juicer-for-sale-doug-evans,453
+HL_0807,Reuters,2019-01-23 00:00:00,2019,https://www.reuters.com/article/us-britain-eu-ireland/irish-government-under-pressure-at-home-over-no-deal-brexit-border-plans-idUSKCN1PH1MA,460
+HL_0808,Business Insider,2018-10-31 14:33:50,2018,https://www.businessinsider.com/priyanka-chopra-nick-jonas-made-the-first-move-2018-10,395
+HL_0809,Vice,2016-12-20 17:10:00,2016,https://www.vice.com/en_us/article/z4aan3/alex-morgan-signing-overseas-is-troubling-for-nwsl,485
+HL_0810,Reuters,2018-03-22 00:00:00,2018,https://www.reuters.com/article/us-usa-trade-china/trump-administration-eyes-tariffs-on-50-billion-in-chinese-goods-idUSKBN1GY2DM,486
+HL_0811,Reuters,2018-07-21 00:00:00,2018,https://www.reuters.com/article/us-usa-russia-coats/u-s-intelligence-chief-coats-says-no-disrespect-intended-toward-trump-over-russia-summit-news-idUSKBN1KB0UL,416
+HL_0812,Reuters,2019-06-18 00:00:00,2019,https://www.reuters.com/article/australia-stocks-midday/australian-shares-rise-after-rba-points-to-more-cuts-nz-steady-idUSL4N23P0H3,347
+HL_0813,Reuters,2019-07-05 00:00:00,2019,https://www.reuters.com/article/california-quake/more-quakes-could-hit-california-as-residents-mop-up-idUSL2N246032,468
+HL_0814,TMZ,2018-11-01 00:00:00,2018,https://www.tmz.com/2018/11/01/kim-kardashian-west-r-word-halloween-party/,343
+HL_0815,Vox,2018-02-01 20:20:02,2018,https://www.vox.com/culture/2018/2/1/16960798/justin-timberlake-super-bowl-football,437
+HL_0816,Reuters,2018-11-28 00:00:00,2018,https://www.reuters.com/article/us-usa-missiles/man-sues-hawaii-blaming-false-missile-alert-for-heart-attack-idUSKCN1NX26M,414
+HL_0817,Reuters,2018-11-17 00:00:00,2018,https://www.reuters.com/article/us-china-usa-military/as-china-u-s-friction-rises-their-armies-hold-joint-disaster-drills-idUSKCN1NM0B6,441
+HL_0818,Reuters,2018-12-24 00:00:00,2018,https://www.reuters.com/article/us-usa-fed-futures/rate-futures-market-says-fed-is-all-but-done-with-hikes-idUSKCN1ON13U,411
+HL_0819,Vice News,2018-01-08 00:00:00,2018,https://news.vice.com/en_us/article/zmqy95/trump-is-really-trying-to-get-out-of-meeting-with-mueller,446
+HL_0820,Vice,2016-02-23 20:55:00,2016,https://www.vice.com/en_us/article/xy4kvw/star-wars-disneyland-theme-park,369
+HL_0821,Vox,2017-09-11 20:10:01,2017,https://www.vox.com/culture/2017/9/11/16290336/patty-jenkins-wonder-woman-2,361
+HL_0822,Business Insider,2016-11-09 15:04:00,2016,https://www.businessinsider.com/goldman-sachs-partners-what-it-means-2016-11,378
+HL_0823,TMZ,2018-10-23 00:00:00,2018,https://www.tmz.com/2018/10/23/conor-mcgregor-khabib-ufc-229/,455
+HL_0824,Vice,2016-07-11 10:24:00,2016,https://www.vice.com/en_us/article/aek75e/hacker-finds-bug-to-edit-or-delete-any-medium-post,367
+HL_0825,Reuters,2019-07-03 00:00:00,2019,https://www.reuters.com/article/eu-trade-mercosur-brazil/update-1-brazil-to-act-on-deforestation-if-concerns-confirmed-minister-says-idUSL2N2441A3,458
+HL_0826,Reuters,2019-06-24 00:00:00,2019,https://www.reuters.com/article/us-altran-m-a-capgemini/consulting-firm-capgemini-to-buy-altran-for-36-billion-euros-idUSKCN1TP2A5,361
+HL_0827,Vice,2017-03-10 19:59:00,2017,https://www.vice.com/en_us/article/xykaz3/florida-will-pay-you-to-kill-giant-pythons,339
+HL_0828,Reuters,2018-05-08 00:00:00,2018,https://www.reuters.com/article/us-iran-nuclear-jordan-germany/jordans-foreign-minister-sees-arms-race-if-iran-nuclear-deal-ends-idUSKBN1I91FC,492
+HL_0829,Reuters,2019-06-19 00:00:00,2019,https://www.reuters.com/article/climate-change-emissions/emissions-need-to-be-halved-to-avoid-3c-warming-scientists-idUSL8N23P5CA,473
+HL_0830,Reuters,2018-06-15 00:00:00,2018,https://www.reuters.com/article/us-usa-trade-cargill/u-s-china-trade-fight-will-lead-to-serious-consequences-cargill-idUSKBN1JB2VJ,315
+HL_0831,Reuters,2019-06-16 00:00:00,2019,https://www.reuters.com/article/soccer-copa-pry-qat/soccer-low-turnouts-suggest-copa-america-struggling-to-excite-fans-idUSL8N23N0T2,446
+HL_0832,Vice,2016-02-18 18:39:00,2016,https://www.vice.com/en_us/article/vvwjwj/the-ohl-has-taken-the-flint-firebirds-away-from-ownership,371
+HL_0833,Vox,2018-09-06 18:10:17,2018,https://www.vox.com/2018/9/5/17823804/nike-kaepernick-nfl-commercial-boycott,455
+HL_0834,Reuters,2017-03-07 00:00:00,2017,https://www.reuters.com/article/us-usa-justice-civilrights/u-s-attorney-general-vows-to-examine-eric-garner-case-rights-groups-idUSKBN16E2YS,338
+HL_0835,Vice News,2016-11-11 00:00:00,2016,https://news.vice.com/en_us/article/8xv493/gerrymandering-american-democracy,431
+HL_0836,Reuters,2019-06-12 00:00:00,2019,https://www.reuters.com/article/us-spain-politics-ciudadanos/insiders-uneasy-as-spains-ciudadanos-expands-deal-with-far-right-idUSKCN1TD235,434
+HL_0837,Reuters,2019-06-24 00:00:00,2019,https://www.reuters.com/article/global-precious/precious-gold-climbs-towards-6-yr-peak-on-dovish-central-banks-iran-tensions-idUSL4N23V2DX,457
+HL_0838,Vox,2017-12-15 21:00:02,2017,https://www.vox.com/policy-and-politics/2017/12/15/16782346/birth-control-mandate-federal-court-injunction,310
+HL_0839,Vice News,2018-10-09 00:00:00,2018,https://news.vice.com/en_us/article/wj97wx/report-trump-just-accepted-nikki-haleys-resignation-as-un-ambassador,398
+HL_0840,Vox,2016-02-25 16:50:03,2016,https://www.vox.com/policy-and-politics/2016/2/25/11112692/donald-trump-debate-how-he-wins,373
+HL_0841,Reuters,2019-06-02 00:00:00,2019,https://www.reuters.com/article/us-europe-pope/pope-pleas-for-european-unity-says-ideologies-threaten-its-existence-idUSKCN1T30QT,438
+HL_0842,Vox,2017-06-19 21:59:25,2017,https://www.vox.com/latest-news/2017/6/19/15833780/otto-warmbier-north-korea-death-america-torture-injuries,438
+HL_0843,Reuters,2019-06-19 00:00:00,2019,https://www.reuters.com/article/usa-trade-hearing/update-3-us-trade-rep-says-he-can-resolve-democrats-concerns-on-north-america-pact-quickly-idUSL2N23Q0H3,398
+HL_0844,Reuters,2018-03-01 00:00:00,2018,https://www.reuters.com/article/us-usa-gun-kroger/kroger-joins-walmart-dicks-raises-minimum-age-for-gun-buyers-to-21-idUSKCN1GD5E5,408
+HL_0845,Vice,2016-03-21 16:24:00,2016,https://www.vice.com/en_us/article/rb8k7q/vodun-possession-album,365
+HL_0846,Reuters,2019-06-27 00:00:00,2019,https://www.reuters.com/article/transat-at-ma-air-canada/update-3-transat-accepts-air-canadas-buyout-offer-deal-needs-shareholder-approval-idUSL4N23Y3FR,402
+HL_0847,Reuters,2019-06-11 00:00:00,2019,https://www.reuters.com/article/us-britain-eu-election/new-uk-pm-will-not-change-brexit-deal-eus-juncker-idUSKCN1TC142,341
+HL_0848,Reuters,2018-09-29 00:00:00,2018,https://www.reuters.com/article/us-texas-lgbt/texas-governor-says-bathroom-bill-no-longer-on-his-agenda-idUSKCN1M901Y,411
+HL_0849,Reuters,2019-07-03 00:00:00,2019,https://www.reuters.com/article/motor-esports-gamer/motor-racing-montoya-to-judge-second-series-of-worlds-fastest-gamer-idUSL4N2442AR,374
+HL_0850,Vox,2016-11-15 15:20:01,2016,https://www.vox.com/policy-and-politics/2016/11/15/13631694/trump-kids-security-clearance,415
+HL_0851,Vice,2017-03-06 20:49:00,2017,https://www.vice.com/en_us/article/78nn54/for-some-reason-mariners-get-leonys-martin-a-mariachi-band-for-birthday,312
+HL_0852,Reuters,2019-07-02 00:00:00,2019,https://www.reuters.com/article/turkey-eurobonds-issue/update-1-turkey-pounces-on-rally-to-come-back-to-bond-markets-idUSL8N2432PU,383
+HL_0853,Reuters,2019-07-02 00:00:00,2019,https://www.reuters.com/article/ethiopia-airplane-pilot-training/un-aviation-agency-to-review-global-pilot-training-in-shadow-of-737-max-crashes-idUSL2N23Z1R1,435
+HL_0854,Vice,2017-10-27 15:15:00,2017,https://www.vice.com/en_us/article/evbz9w/french-montanas-new-documentary-shows-the-making-of-unforgettable,317
+HL_0855,Vox,2017-08-02 05:00:02,2017,https://www.vox.com/2017/8/2/16069642/verizon-att-tmobile-sprint-mobile-customers-slow-speeds-unlimited-data-plan,410
+HL_0856,Reuters,2019-06-28 00:00:00,2019,https://www.reuters.com/article/softbank-toyota-monet-automakers/update-1-five-japanese-automakers-sign-on-to-softbank-toyota-self-drive-venture-idUSL4N23Z0R4,322
+HL_0857,Vice,2017-10-24 19:30:00,2017,https://www.vice.com/en_us/article/j5j83b/you-wont-be-alone-if-you-scream-helplessly-at-the-sky-on-november-8-vgtrn,389
+HL_0858,Business Insider,2016-05-24 02:33:00,2016,https://www.businessinsider.com/trump-is-putting-as-little-effort-as-possible-into-hispanic-outreach-2016-5,463
+HL_0859,Vox,2017-03-01 21:40:01,2017,https://www.vox.com/videos/2017/3/1/14780034/black-belt-great-migration-mapped,405
+HL_0860,Reuters,2018-01-30 00:00:00,2018,https://www.reuters.com/article/us-spain-politics-catalonia/catalonia-postpones-vote-for-new-president-in-stand-off-with-madrid-idUSKBN1FJ141,436
+HL_0861,Vox,2019-01-24 21:00:00,2019,https://www.vox.com/health-care/2019/1/24/18195686/vox-zuckerberg-hospital-emergency-room-bill,456
+HL_0862,Reuters,2018-03-16 00:00:00,2018,https://www.reuters.com/article/us-britain-russia-putin/britain-says-likely-that-russias-putin-made-decision-for-nerve-agent-attack-idUSKCN1GS1HW,345
+HL_0863,Reuters,2019-06-26 00:00:00,2019,https://www.reuters.com/article/us-ivorycoast-cocoa-childlabour/cocoa-growing-ivory-coast-draws-up-new-plan-to-stop-child-labor-idUSKCN1TR2UL,418
+HL_0864,Vice,2019-04-01 15:57:00,2019,https://www.vice.com/en_us/article/wjmm4w/new-york-is-getting-congestion-pricing-whether-its-ready-or-not,464
+HL_0865,Reuters,2019-05-22 00:00:00,2019,https://www.reuters.com/article/us-usa-trump-counterintelligence/house-panel-justice-dept-end-standoff-over-mueller-documents-idUSKCN1SS1M2,305
+HL_0866,Vox,2016-09-09 14:50:03,2016,https://www.vox.com/2016/9/9/12861480/george-takei-star-trek-50th-anniversary-stephen-colbert,322
+HL_0867,Reuters,2019-07-05 00:00:00,2019,https://www.reuters.com/article/us-tennis-wimbledon-gauff-coach/gauffs-first-coach-backs-american-to-become-worlds-best-idUSKCN1U00WY,472
+HL_0868,Reuters,2018-04-21 00:00:00,2018,https://www.reuters.com/article/us-usa-china-zte/u-s-regulator-permits-chinas-zte-to-submit-more-evidence-idUSKBN1HS0JB,428
+HL_0869,Vox,2016-08-25 16:30:02,2016,https://www.vox.com/2016/8/25/12640340/mark-mcclusky-sports-illustrated-wired,438
+HL_0870,Business Insider,2018-07-12 16:49:05,2018,https://www.businessinsider.com/trump-says-russian-president-putin-is-not-his-enemy-2018-7,452
+HL_0871,TMZ,2019-03-13 00:00:00,2019,https://www.tmz.com/2019/03/13/lori-loughlin-surrenders-feds-college-admissions-bribery-scam/,332
+HL_0872,Reuters,2019-03-21 00:00:00,2019,https://www.reuters.com/article/us-usa-trump-messages/house-democrats-pressure-white-house-on-kushners-use-of-whatsapp-idUSKCN1R2212,435
+HL_0873,Vice,2016-04-15 17:40:00,2016,https://www.vice.com/en_us/article/mgzwaq/nba-jersey-ads-and-mlbs-papa-slams-nothing-is-sacred-anymore,496
+HL_0874,Vice,2016-08-26 11:00:00,2016,https://www.vice.com/en_us/article/3da5dj/sony-ps-now-pc-version,400
+HL_0875,Vice,2018-08-28 18:08:00,2018,https://www.vice.com/en_us/article/xwkj7q/air-pollution-can-make-us-dumber-study-finds,435
+HL_0876,Vox,2016-01-25 14:00:02,2016,https://www.vox.com/2016/1/25/10815750/lose-weight-easy-restaurants,413
+HL_0877,Business Insider,2018-09-26 15:49:37,2018,https://www.businessinsider.com/gary-cohn-stole-documents-off-trump-desk-hr-mcmaster-confirms-woodward-book-2018-9,480
+HL_0878,Business Insider,2017-09-23 13:31:00,2017,https://www.businessinsider.com/tesla-superchargers-food-coffee-convenience-stores-2017-9,359
+HL_0879,Reuters,2019-06-06 00:00:00,2019,https://www.reuters.com/article/at-home-group-results/at-home-group-shares-drop-46-as-trump-tariffs-to-take-toll-on-earnings-idUSL4N23D3B1,342
+HL_0880,Reuters,2019-06-30 00:00:00,2019,https://www.reuters.com/article/us-albania-election/albanian-mayoral-vote-boycotted-by-opposition-unfolds-peacefully-idUSKCN1TV0D9,419
+HL_0881,Vice,2016-12-21 20:32:00,2016,https://www.vice.com/en_us/article/mg74bb/earth-core-jet-stream,494
+HL_0882,Reuters,2018-08-31 00:00:00,2018,https://www.reuters.com/article/us-new-mexico-crime/fbi-arrests-new-mexico-compound-members-on-new-charges-idUSKCN1LG2Y2,374
+HL_0883,Reuters,2019-06-28 00:00:00,2019,https://www.reuters.com/article/us-usa-court-pension/supreme-court-to-hear-us-bancorp-pension-plan-dispute-idUSKCN1TT1YT,414
+HL_0884,Business Insider,2018-06-13 21:18:56,2018,https://www.businessinsider.com/250-houthis-killed-coalition-warship-possibly-sunk-in-yemen-assault-2018-6,349
+HL_0885,Reuters,2018-01-08 00:00:00,2018,https://www.reuters.com/article/us-china-shipping-accident-oil-condensat/factbox-condensate-a-convenient-yet-explosive-fossil-fuel-idUSKBN1EX0N8,403
+HL_0886,Reuters,2019-06-26 00:00:00,2019,https://www.reuters.com/article/india-data-localisation/indias-rbi-says-foreign-firms-can-process-abroad-but-must-store-data-in-india-idUSL4N23X32U,387
+HL_0887,Reuters,2019-06-25 00:00:00,2019,https://www.reuters.com/article/us-europe-weather/parched-tourists-seek-gelato-and-shade-in-sweltering-paris-and-rome-idUSKCN1TQ26V,464
+HL_0888,Vice,2016-08-11 16:00:00,2016,https://www.vice.com/en_us/article/nz4gxg/visualizing-sounds-neon-lights-disco-ball-architecture,356
+HL_0889,Reuters,2019-06-21 00:00:00,2019,https://www.reuters.com/article/us-mideast-iran-airlines-response-factbo/factbox-international-airlines-response-to-faa-on-iran-airspace-idUSKCN1TM1A7,452
+HL_0890,Vox,2018-10-08 17:30:02,2018,https://www.vox.com/culture/2018/10/8/17951112/box-office-venom-star-is-born,398
+HL_0891,Reuters,2019-06-10 00:00:00,2019,https://www.reuters.com/article/rusal-debt/russias-rusal-prepares-for-panda-bond-project-finance-for-new-smelter-idUSL8N23G0KT,408
+HL_0892,Business Insider,2017-06-14 21:45:50,2017,https://www.businessinsider.com/roger-williams-tears-emotional-shooting-congressmen-baseball-2017-6,345
+HL_0893,Vice,2018-01-12 17:00:00,2018,https://www.vice.com/en_us/article/a3nygj/man-rams-stolen-army-tank-into-convenience-store-to-get-bottle-of-wine,347
+HL_0894,Vice,2016-10-17 13:00:00,2016,https://www.vice.com/en_us/article/wnx78n/wikileaks-claims-state-actor-has-cut-off-assanges-internet,328
+HL_0895,Reuters,2018-05-09 00:00:00,2018,https://www.reuters.com/article/us-iran-nuclear-france/france-says-iran-deal-not-dead-macron-to-contact-rouhani-idUSKBN1IA0PO,414
+HL_0896,Reuters,2018-08-04 00:00:00,2018,https://www.reuters.com/article/us-myanmar-journalists-pompeo/pompeo-urges-release-of-reuters-reporters-in-meeting-with-myanmar-minister-idUSKBN1KP03R,468
+HL_0897,Vice,2016-09-28 15:50:00,2016,https://www.vice.com/en_us/article/yp57x5/animated-lizzie-mcguire-enamel-pin,486
+HL_0898,Vox,2017-10-04 16:05:45,2017,https://www.vox.com/world/2017/10/4/16420938/tillerson-trump-leaving-quit-moron,456
+HL_0899,Vox,2018-07-18 20:50:01,2018,https://www.vox.com/2018/7/18/17587784/trump-purge-veterans-affairs-employees,409
+HL_0900,Vice,2018-07-12 18:43:00,2018,https://www.vice.com/en_us/article/gy3b7w/thieves-rob-apple-store-video-27000-fresno-vgtrn,318
+HL_0901,Vice,2016-09-08 12:50:00,2016,https://www.vice.com/en_us/article/53w8jx/18000-paper-silhouettes-rainbow-satellite-tokyo,421
+HL_0902,Vice,2017-02-10 23:00:00,2017,https://www.vice.com/en_us/article/gvkbbx/30-year-fortune-cookie-fortune-writer-steps-down-citing-writers-block,410
+HL_0903,Vox,2017-03-28 20:10:01,2017,https://www.vox.com/policy-and-politics/2017/3/28/15094444/sean-spicer-april-ryan-trump,469
+HL_0904,Reuters,2019-06-26 00:00:00,2019,https://www.reuters.com/article/usa-stocks/us-stocks-wall-street-set-to-open-higher-on-trade-hopes-idUSL4N23X2W1,494
+HL_0905,Business Insider,2016-09-07 03:53:00,2016,https://www.businessinsider.com/r-ohio-coroner-links-elephant-tranquilizer-to-series-of-overdose-deaths-2016-9,398
+HL_0906,Vox,2017-06-01 04:40:38,2017,https://www.vox.com/2017/6/1/15694146/laurene-powell-jobs-kamala-harris-california-senator-donald-trump-dreamers-code-2017,435
+HL_0907,Vox,2017-11-05 03:32:03,2017,https://www.vox.com/2017/11/4/16608032/saudi-arabia-alwaleed-arrests-tech,338
+HL_0908,Hyperallergic,2017-12-21 00:00:00,2017,https://hyperallergic.com/418328/nyu-deusto-guggenheim-bilbao-certificate-in-visual-arts-management-2018/,353
+HL_0909,Business Insider,2019-05-31 16:47:10,2019,https://www.businessinsider.com/charlamagne-tha-god-elizabeth-warren-original-rachel-dolezal-2019-5,486
+HL_0910,Reuters,2019-06-19 00:00:00,2019,https://www.reuters.com/article/us-swiss-eu/swiss-need-more-time-to-clinch-eu-treaty-foreign-minister-idUSKCN1TK0EM,421
+HL_0911,Vox,2016-10-11 19:29:13,2016,https://www.vox.com/2016/10/11/13247066/trump-tax-plan-response,465
+HL_0912,Reuters,2019-06-06 00:00:00,2019,https://www.reuters.com/article/looker-ma-alphabet/update-4-google-to-buy-analytics-software-firm-looker-for-26-bln-idUSL4N23D35L,444
+HL_0913,Vice,2017-10-31 10:58:00,2017,https://www.vice.com/en_us/article/zmzmq9/we-asked-a-blowjob-wedding-photographer-literally-why,473
+HL_0914,Vox,2019-02-08 18:09:00,2019,https://www.vox.com/2019/2/7/18212377/velvet-buzzsaw-review-netflix-gyllenhaal,360
+HL_0915,TMZ,2018-12-05 00:00:00,2018,https://www.tmz.com/2018/12/05/rapper-2-milly-sues-epic-games-fortnite-stole-milly-rock-dance/,372
+HL_0916,Reuters,2017-10-22 00:00:00,2017,https://www.reuters.com/article/us-tesla-china-factory/tesla-reaffirms-effort-to-build-cars-in-china-mum-on-deal-report-idUSKBN1CR0ME,420
+HL_0917,Business Insider,2016-10-28 18:18:59,2016,https://www.businessinsider.com/james-comey-clinton-email-fbi-2016-10,317
+HL_0918,Reuters,2019-06-27 00:00:00,2019,https://www.reuters.com/article/us-mideast-iran-usa-nato/us-tells-nato-it-wants-to-avoid-war-with-iran-diplomats-idUSKCN1TS1TG,366
+HL_0919,Reuters,2019-06-10 00:00:00,2019,https://www.reuters.com/article/us-usa-trade-china/china-stays-silent-on-g20-xi-trump-meeting-but-says-door-open-for-talks-idUSKCN1TB0X0,412
+HL_0920,Reuters,2019-06-15 00:00:00,2019,https://www.reuters.com/article/us-slovakia-politics-president/anti-graft-crusader-sworn-in-as-slovakias-first-female-president-idUSKCN1TG0AX,359
+HL_0921,Reuters,2019-06-19 00:00:00,2019,https://www.reuters.com/article/brazil-economy-rates/update-2-brazil-central-bank-holds-rates-warns-of-reform-risks-idUSL2N23Q1OG,446
+HL_0922,Vox,2017-04-05 10:41:57,2017,https://www.vox.com/2017/4/5/15184258/nextdoor-nirav-tolia-uber-travis-kalanick-management-advice-recode-podcast,427
+HL_0923,Hyperallergic,2016-10-12 00:00:00,2016,https://hyperallergic.com/328567/national-archive-gifs-tell-us-history-motion/,338
+HL_0924,Vox,2016-08-31 17:51:03,2016,https://www.vox.com/2016/8/31/12719214/flipagram-acquisition-sale-attempt,317
+HL_0925,Reuters,2019-06-25 00:00:00,2019,https://www.reuters.com/article/italy-broadband-options/telecom-italia-studies-fiber-only-option-for-broadband-merger-sources-idUSS8N1SI00T,350
+HL_0926,Vice,2016-11-03 15:00:00,2016,https://www.vice.com/en_us/article/mgkbbx/your-love-of-energy-drinks-could-give-you-hepatitis,414
+HL_0927,Business Insider,2017-02-28 11:59:00,2017,https://www.businessinsider.com/10-things-in-tech-you-need-to-know-feb-28-2017-2,387
+HL_0928,Vox,2016-02-26 08:30:15,2016,https://www.vox.com/2016/2/26/11588254/is-pinterest-really-a-social-network-for-women,374
+HL_0929,Reuters,2018-11-09 00:00:00,2018,https://www.reuters.com/article/us-film-ruth-bader-ginsburg/justice-ginsburg-up-and-working-after-breaking-ribs-nephew-says-idUSKCN1NE0XO,407
+HL_0930,Reuters,2019-07-02 00:00:00,2019,https://www.reuters.com/article/usa-abortion-texas/us-town-opposing-abortion-now-scene-of-pro-choice-billboards-idUSL2N24319U,387
+HL_0931,Reuters,2018-07-13 00:00:00,2018,https://www.reuters.com/article/us-twitter-followers/top-twitter-users-lose-2-percent-of-followers-on-average-as-policy-changes-idUSKBN1K300X,308
+HL_0932,Reuters,2019-06-14 00:00:00,2019,https://www.reuters.com/article/lme-booze/london-metal-exchange-slaps-alcohol-ban-on-open-outcry-traders-idUSL8N23L4M1,300
+HL_0933,Vice,2016-04-30 13:05:00,2016,https://www.vice.com/en_us/article/53n793/new-ted-cruz-conspiracy-theory-dad-is-connected-to-jfks-assassination,433
+HL_0934,Reuters,2018-03-15 00:00:00,2018,https://www.reuters.com/article/us-deutsche-post-usa/deutsche-posts-dhl-expands-u-s-delivery-service-in-swipe-at-fedex-ups-idUSKCN1GR367,449
+HL_0935,Reuters,2019-07-01 00:00:00,2019,https://www.reuters.com/article/us-latecoere-m-a/latecoere-to-examine-searchlights-414-mln-bid-offer-idUSKCN1TW1M8,381
+HL_0936,Vox,2017-07-28 12:00:04,2017,https://www.vox.com/policy-and-politics/2017/7/28/16050276/real-unemployment-rate,318
+HL_0937,Reuters,2019-07-04 00:00:00,2019,https://www.reuters.com/article/safrica-african-bank/south-africas-central-bank-aims-to-sell-african-bank-stake-in-year-or-two-idUSL8N2452L1,330
+HL_0938,Hyperallergic,2017-01-17 00:00:00,2017,https://hyperallergic.com/351243/six-to-celebrate-hart-island/,496
+HL_0939,Vox,2019-04-18 15:50:00,2019,https://www.vox.com/policy-and-politics/2019/4/18/18484911/chris-wallace-william-barr-mueller-report-trump,460
+HL_0940,Reuters,2017-12-11 00:00:00,2017,https://www.reuters.com/article/us-usa-trump-israel-turki/senior-saudi-prince-condemns-trumps-opportunistic-jerusalem-move-idUSKBN1E51JV,360
+HL_0941,Vice,2017-04-30 18:55:00,2017,https://www.vice.com/en_us/article/wnvwd5/the-last-record-born-in-flamez,423
+HL_0942,Vox,2016-09-01 19:32:14,2016,https://www.vox.com/2016/9/1/12757530/trump-pena-nieto-tweet,345
+HL_0943,Reuters,2018-06-18 00:00:00,2018,https://www.reuters.com/article/us-usa-stocks/wall-street-ends-modestly-lower-but-energy-shares-rise-idUSKBN1JE169,462
+HL_0944,Vice,2018-08-15 15:18:00,2018,https://www.vice.com/en_us/article/ywkkd7/locals-pissed-about-paris-public-urinals-uritrottoirs-vgtrn,418
+HL_0945,TMZ,2019-05-21 00:00:00,2019,https://www.tmz.com/2019/05/21/nessa-blasts-teen-mom-over-anti-kaepernick-comments/,383
+HL_0946,Reuters,2018-06-10 00:00:00,2018,https://www.reuters.com/article/us-northkorea-usa-singapore-deportation/singapore-deports-south-korean-media-staff-as-trump-kim-summit-security-tightens-idUSKBN1J60CO,304
+HL_0947,Vice,2016-05-04 14:13:00,2016,https://www.vice.com/en_us/article/wnxjmb/fort-mcmurray-is-on-fire-and-it-looks-like-the-end-of-the-world,401
+HL_0948,Reuters,2019-07-01 00:00:00,2019,https://www.reuters.com/article/india-actress/indian-actress-draws-fire-for-quitting-over-islamic-faith-idUSL4N2422GV,381
+HL_0949,Reuters,2018-03-16 00:00:00,2018,https://www.reuters.com/article/us-usa-congress-slaughter/louise-slaughter-longtime-progressive-new-york-congresswoman-dies-at-88-idUSKCN1GS1Z3,357
+HL_0950,Reuters,2018-03-26 00:00:00,2018,https://www.reuters.com/article/us-yemen-security-france-poll/poll-shows-most-french-oppose-arms-sales-to-saudi-led-yemen-coalition-idUSKBN1H202M,344
+HL_0951,Reuters,2019-06-23 00:00:00,2019,https://www.reuters.com/article/baseball-mlb-phi-mia/yamamoto-wins-again-as-marlins-finish-sweep-of-phillies-idUSMTZXEF6NKJAV7J,330
+HL_0952,Reuters,2019-03-18 00:00:00,2019,https://www.reuters.com/article/us-usa-trump-russia-congress/house-panel-expects-thousands-of-documents-in-trump-probe-idUSKCN1QZ2PI,414
+HL_0953,Vox,2016-11-29 00:22:54,2016,https://www.vox.com/2016/11/28/13767216/faa-bans-drones-standing-rock-dakota-access-pipeline-video,457
+HL_0954,Hyperallergic,2017-12-19 00:00:00,2017,https://hyperallergic.com/416545/virginia-heffernan-writes-about-the-seductive-wonders-of-the-analog-arcade/,327
+HL_0955,Vice News,2017-11-06 00:00:00,2017,https://news.vice.com/en_us/article/ywn5vw/trump-tried-to-peddle-u-s-weapons-at-a-tokyo-press-conference,476
+HL_0956,Vox,2017-05-16 22:10:41,2017,https://www.vox.com/2017/5/16/15649718/nyt-comey-russia-trump,303
+HL_0957,Vice,2016-08-08 21:26:00,2016,https://www.vice.com/en_us/article/mgzww4/mr-4000-ichiros-career-translates-to-hall-of-fame-in-any-league,455
+HL_0958,Vox,2018-04-04 18:32:02,2018,https://www.vox.com/2018/4/4/17199354/facebook-stop-sharing-data-outside-app,302
+HL_0959,Reuters,2019-06-17 00:00:00,2019,https://www.reuters.com/article/india-doctors-strike/update-1-indian-doctors-call-off-strike-after-safety-assurances-idUSL4N23O3EK,402
+HL_0960,Reuters,2018-12-03 00:00:00,2018,https://www.reuters.com/article/us-space-station-launch/russia-launches-first-manned-voyage-to-iss-since-rocket-accident-idUSKBN1O2158,314
+HL_0961,Vox,2017-03-16 15:50:01,2017,https://www.vox.com/policy-and-politics/2017/3/16/14945516/freedom-caucus-budget-committee-vote,365
+HL_0962,Vice,2016-10-21 12:00:00,2016,https://www.vice.com/en_us/article/3da48b/israeli-phone-hackers-say-they-can-rip-data-from-pokemon-go,407
+HL_0963,Reuters,2019-07-09 00:00:00,2019,https://www.reuters.com/article/newzealand-autos/new-zealand-proposes-discounts-for-cleaner-cars-slaps-new-fee-on-gas-guzzlers-idUSL4N24A0C0,409
+HL_0964,Reuters,2019-07-04 00:00:00,2019,https://www.reuters.com/article/baseball-mlb-tex-laa/angels-trout-homers-twice-as-rangers-lose-4th-straight-idUSMTZXEF743L4WSZ,398
+HL_0965,Reuters,2018-12-07 00:00:00,2018,https://www.reuters.com/article/us-britain-scotland/uks-labour-not-ruling-out-another-scottish-independence-vote-idUSKBN1O6180,330
+HL_0966,Hyperallergic,2017-05-23 00:00:00,2017,https://hyperallergic.com/381009/trumps-2018-budget-proposes-ending-national-endowments-for-arts-and-humanities/,482
+HL_0967,Reuters,2019-06-14 00:00:00,2019,https://www.reuters.com/article/us-film-thedeaddontdie-environment/the-dead-dont-die-stars-on-the-environment-idUSKCN1TF1H5,398
+HL_0968,Reuters,2016-11-29 00:00:00,2016,https://www.reuters.com/article/us-health-bill-house/wide-ranging-u-s-health-bill-expected-to-sail-through-house-vote-idUSKBN13O00V,424
+HL_0969,Reuters,2018-08-28 00:00:00,2018,https://www.reuters.com/article/us-north-carolina-districts-court/u-s-court-says-north-carolina-gerrymander-is-illegal-seeks-new-congressional-map-idUSKCN1LD026,425
+HL_0970,Vice,2016-05-25 15:01:00,2016,https://www.vice.com/en_us/article/78n8xq/mickey-gall-says-hell-probably-fight-cm-punk-this-summerbut-does-anyone-still-care,466
+HL_0971,Vox,2017-04-03 18:03:10,2017,https://www.vox.com/2017/4/3/15164136/senate-democrats-gorsuch-filibuster,322
+HL_0972,Reuters,2019-06-29 00:00:00,2019,https://www.reuters.com/article/us-tennis-wimbledon-barty/tough-draw-ive-not-looked-at-it-says-barty-idUSKCN1TU0SC,430
+HL_0973,Vice,2019-05-06 16:23:00,2019,https://www.vice.com/en_us/article/7xg8md/the-best-memes-from-game-of-thrones-season-8-episode-4,381
+HL_0974,Reuters,2017-12-05 00:00:00,2017,https://www.reuters.com/article/us-olympics-2018-russia-reactions/russia-reacts-with-caution-shock-to-pyeongchang-olympics-ban-idUSKBN1DZ342,443
+HL_0975,Hyperallergic,2019-03-05 00:00:00,2019,https://hyperallergic.com/487029/2019-world-press-photo-contest/,320
+HL_0976,Vice,2017-07-03 11:30:00,2017,https://www.vice.com/en_us/article/vvyamb/pelvis-exercise-shorts-iphone-game,354
+HL_0977,Reuters,2019-06-18 00:00:00,2019,https://www.reuters.com/article/usa-solar-outlook/us-solar-installation-outlook-brightens-on-falling-costs-report-idUSL2N23O153,405
+HL_0978,Reuters,2019-05-07 00:00:00,2019,https://www.reuters.com/article/us-usa-trump-immigration/trump-briefs-republican-senators-on-emerging-u-s-immigration-plan-idUSKCN1SD2O0,419
+HL_0979,Reuters,2019-07-02 00:00:00,2019,https://www.reuters.com/article/france-environment-amazon-protests/update-1-protesters-target-amazon-in-france-calling-for-action-on-climate-change-idUSL8N2434HI,493
+HL_0980,Vox,2018-03-06 00:03:51,2018,https://www.vox.com/today-explained/2018/3/5/17081902/term-limit-president-xi-jinping-today-explained-podcast,305
+HL_0981,Vox,2016-08-26 19:50:32,2016,https://www.vox.com/2016/8/26/12661772/google-x-airbnb-executive-self-driving-cars-market,300
+HL_0982,Reuters,2018-07-28 00:00:00,2018,https://www.reuters.com/article/us-indonesia-quake/powerful-quake-kills-14-on-indonesian-tourist-island-lombok-idUSKBN1KI0NZ,499
+HL_0983,Reuters,2018-06-11 00:00:00,2018,https://www.reuters.com/article/us-mozambique-attack/u-s-embassy-warns-citizens-to-consider-leaving-district-in-north-mozambique-idUSKBN1J71YD,395
+HL_0984,Business Insider,2016-04-12 13:45:55,2016,https://www.businessinsider.com/gene-editing-biotech-intellia-files-for-120-million-ipo-2016-4,440
+HL_0985,Reuters,2019-04-13 00:00:00,2019,https://www.reuters.com/article/us-imf-worldbank-mnuchin/mnuchin-says-hopes-u-s-china-trade-talks-nearing-final-round-idUSKCN1RP0OC,454
+HL_0986,Vox,2018-02-26 23:50:03,2018,https://www.vox.com/today-explained/2018/2/26/17055834/daca-today-explained-podcast-immigration,381
+HL_0987,Business Insider,2016-03-28 16:48:00,2016,https://www.businessinsider.com/squishy-soft-robots-robosoft-challenge-2016-3,309
+HL_0988,Vice,2017-11-30 15:00:00,2017,https://www.vice.com/en_us/article/pazex8/icy-debris-blobs-are-creeping-closer-to-alaskas-only-road-to-the-arctic,455
+HL_0989,Vice,2017-05-30 18:15:00,2017,https://www.vice.com/en_us/article/8x4wdk/two-men-arrested-for-forcing-alligator-to-chug-beer,383
+HL_0990,Reuters,2019-06-10 00:00:00,2019,https://www.reuters.com/article/us-soccer-worldcup-aus-ita/matildas-admit-work-to-be-done-to-keep-world-cup-dream-alive-idUSKCN1TB0HH,332
+HL_0991,Vox,2017-01-11 11:00:01,2017,https://www.vox.com/2017/1/11/14232710/watch-donald-trump-president-press-conference-online-stream,340
+HL_0992,Reuters,2019-06-06 00:00:00,2019,https://www.reuters.com/article/baseball-mlb-mil-mia/red-hot-marlins-slam-brewers-for-2nd-straight-game-idUSMTZXEF66NPQ2IZ,393
+HL_0993,Vox,2019-02-28 19:10:16,2019,https://www.vox.com/2019/2/28/18244755/forced-arbitration-employees-google-walkout-activists-congress,374
+HL_0994,Reuters,2019-06-24 00:00:00,2019,https://www.reuters.com/article/global-forex/forex-dollar-slips-on-us-rate-cut-bets-bitcoin-on-fire-idUSL2N23V119,478
+HL_0995,Reuters,2019-02-15 00:00:00,2019,https://www.reuters.com/article/us-india-kashmir-dead/attacked-paramilitary-force-is-a-poor-cousin-to-indias-army-former-officers-idUSKCN1Q41Y0,424
+HL_0996,Vice,2017-06-20 23:00:00,2017,https://www.vice.com/en_us/article/9k5j8a/watch-panicked-cougars-flee-the-sound-of-human-voices,445
+HL_0997,Reuters,2019-06-14 00:00:00,2019,https://www.reuters.com/article/global-precious/precious-gold-hits-1-wk-high-on-fed-rate-cut-expectations-middle-east-tensions-in-focus-idUSL4N23L0A2,356
+HL_0998,Reuters,2018-08-27 00:00:00,2018,https://www.reuters.com/article/us-volkswagen-emissions-monitor/u-s-monitor-seeks-more-transparency-from-vw-over-emissions-idUSKCN1LC0RW,419
+HL_0999,Reuters,2019-06-28 00:00:00,2019,https://www.reuters.com/article/us-pfizer-dmd/sarepta-surges-after-pfizer-gene-therapy-data-raises-safety-concerns-idUSKCN1TT23H,401
+HL_1000,Reuters,2017-10-23 00:00:00,2017,https://www.reuters.com/article/us-people-harveyweinstein/new-york-opens-sexual-harassment-probe-of-weinstein-co-source-idUSKBN1CS2RD,346

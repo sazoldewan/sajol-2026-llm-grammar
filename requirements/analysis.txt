@@ -1,0 +1,32 @@
+# Local environment used for corpus construction, feature extraction, and
+# statistical analysis (headline/ACL download scripts, extract_features*.py,
+# stat_analysis*.py, generate_h3_comparison.py).
+#
+# Captured from the local machine at release-preparation time. This machine
+# has no project-scoped virtualenv — it's a shared, system-wide Python 3.11
+# install (Homebrew) with no record of what was installed when the thesis
+# pipeline first ran, so these pins are not a guaranteed match to that
+# original run either.
+#
+# That said, these specific versions were spot-checked, not just assumed:
+# re-running extract_features_headlines.py's Stanza pipeline on three sample
+# headlines in this exact environment reproduced the stored
+# features_headlines.csv values exactly, and re-running
+# generate_h3_comparison.py reproduced byte-identical CSV output against the
+# original results. So this file is a reasonable environment to reproduce
+# the analysis stage in, even though it isn't provably identical to whatever
+# was installed at the time of the original run. See docs/LIMITATIONS.md.
+#
+# Python 3.11.7
+
+pandas==3.0.2
+numpy==2.1.2
+scipy==1.17.1
+matplotlib==3.11.1
+seaborn==0.13.2
+stanza==1.14.0
+datasets==4.8.5
+huggingface_hub==1.12.0
+
+# Stanza's English pipeline models are downloaded separately at first run:
+#   stanza.download('en')

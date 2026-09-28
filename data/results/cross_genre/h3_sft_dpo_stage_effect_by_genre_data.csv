@@ -1,0 +1,7 @@
+genre,family,comparison,mean_abs_d
+News Headlines,Mistral,sft vs dpo,0.011957880607887989
+News Headlines,Llama,sft vs dpo,0.028799632061873564
+News Headlines,OLMo2,sft vs dpo,0.05568648852457275
+ACL Introductions,Mistral,sft vs dpo,0.048469438698477085
+ACL Introductions,Llama,sft vs dpo,0.28614171610355493
+ACL Introductions,OLMo2,sft vs dpo,0.36914856953142394
