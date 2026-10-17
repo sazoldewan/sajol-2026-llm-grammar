@@ -212,12 +212,12 @@ python scripts/statistics/generate_h3_comparison.py   # run after both of the ab
 Produces the full contents of `data/results/{headlines,acl,cross_genre}/`
 (already included from the original run).
 
-**Verification of the statistics scripts.** Removing EFA/PCA from the two
-`stat_analysis_*.py` scripts was checked by running both the original
-(pre-removal) scripts and the release versions on `data/features/` in the same
-clean Linux environment (Python 3.11, versions as in
-`requirements/analysis.txt`):
-all 12 CSV outputs were byte-identical, so the removal changed no result.
+**Verification of the statistics scripts.** The two `stat_analysis_*.py`
+scripts in this release were prepared from the original analysis scripts by
+removing exploratory code that is not part of the thesis. Both the original
+and the release versions were run on `data/features/` in the same clean Linux
+environment (Python 3.11, versions as in `requirements/analysis.txt`): all 12
+CSV outputs were byte-identical, so this clean-up changed no result.
 Compared with the stored results in `data/results/`, a re-run in that clean
 environment reproduces all headline results and all Cohen's *d* values to
 floating-point precision (relative differences below 1e-13). For the ACL

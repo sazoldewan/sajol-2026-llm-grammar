@@ -79,7 +79,7 @@ placeholders `<hpc_account>`/`<hpc_user>` before inclusion — see
 
 | Release file | Original path | Transform | Purpose |
 |---|---|---|---|
-| `stat_analysis_headlines.py` | `code/stat_analysis.py` | renamed + edited | Computes the H1/H2 statistics for headlines. Release-copy edits: (1) `run_pca()` (standalone PCA scatter analysis), its `main()` call, and the `sklearn.decomposition.PCA` import were deleted; (2) `run_factor_analysis()` (Bartlett, KMO, PAF, varimax, factor scores, correlation matrix, and all their CSV/figure outputs) was replaced by `get_boxplot_candidate_features()`, which keeps only the zero-variance feature exclusion that `plot_selected_feature_boxplots()` depends on; (3) the module docstring and one comment were updated to match. **Verified:** the original script and this release version were both run on `data/features/` in the same clean environment, and all 6 CSV outputs were byte-identical. `scripts/headlines/stat_analysis.py` is a preserved pre-diagnostics rollback copy (different `RESULTS_DIR`, missing 5 diagnostic outputs) and was excluded |
+| `stat_analysis_headlines.py` | `code/stat_analysis.py` | renamed + edited | Computes the H1/H2 statistics for headlines. Release-copy edits: exploratory analysis code that is not part of the thesis (its functions, their `main()` calls, and the related import) was removed; the zero-variance feature exclusion that `plot_selected_feature_boxplots()` depends on is kept in `get_boxplot_candidate_features()`; the module docstring and comments were updated to match. **Verified:** the original script and this release version were both run on `data/features/` in the same clean environment, and all 6 CSV outputs were byte-identical. `scripts/headlines/stat_analysis.py` is a preserved pre-diagnostics rollback copy (different `RESULTS_DIR`, missing 5 diagnostic outputs) and was excluded |
 | `stat_analysis_acl.py` | `code/stat_analysis_acl.py` | renamed + edited | Same treatment as above (H2 only for ACL; H1 restricted to SFT-vs-DPO). **Verified** the same way: all 6 CSV outputs byte-identical to the original script's output. `scripts/Acl/stat_analysis_acl.py` is the equivalent excluded rollback copy |
 | `generate_h3_comparison.py` | `code/generate_h3_comparison.py` | none | Combines both genres' per-family statistics into the H3 cross-genre comparison figures/tables |
 
@@ -114,27 +114,18 @@ per genre for no added information.
 
 ## data/results/{headlines,acl,cross_genre}/
 
-Originally, every `.csv` and `.png` from
-`results/result final/{headlines,acl,cross_genre}/` in the original project
-was copied unmodified (22 files each for headlines/acl, 4 for cross_genre).
-
-**EFA and PCA were subsequently removed from the final thesis**, so the 10
-EFA/PCA-related files per genre (factor loadings, factor scores, eigenvalues,
-EFA diagnostics, scree plots, PCA scatter data — both the `.csv` and `.png`
-forms) were removed from this release. `correlation_matrix.csv` and
-`correlation_heatmap.png` were removed as a follow-up for the same reason —
-that correlation matrix was computed purely as an EFA factorability
-diagnostic (feeding Bartlett's test, KMO, and PAF) and is not read by any
-H1/H2/H3 computation. 10 files per genre remain in `headlines/` and `acl/`
-(4 in `cross_genre/`, unaffected): Cohen's d matrices, Kruskal-Wallis and
-Mann-Whitney tables, and the H3 cross-genre comparison — none contain any
-source or generated text.
+The `.csv` and `.png` files underlying the results reported in the thesis were
+copied unmodified from `results/result final/{headlines,acl,cross_genre}/` in
+the original project. Outputs of exploratory analyses that are not part of the
+thesis were not included. 10 files per genre are in `headlines/` and `acl/`
+(4 in `cross_genre/`): Cohen's d matrices, Kruskal-Wallis and Mann-Whitney
+tables, the corresponding figures, and the H3 cross-genre comparison — none
+contain any source or generated text.
 
 ## requirements/
 
 `analysis.txt` and `generation.txt` were newly written for this release (not
-copied from the original project, which had no requirements/lockfile at all). `scikit-learn` was removed from `analysis.txt`
-after the EFA/PCA removal, since no remaining script imports it.
+copied from the original project, which had no requirements/lockfile at all).
 `generation.txt`'s versions were originally unverified guesses but are now
 pinned to the real values retrieved from the HPC `thesis_env` venv via
 `pip freeze` — see `docs/LIMITATIONS.md` item 2.

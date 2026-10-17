@@ -22,14 +22,12 @@ h3_genre_comparison.png is NOT produced here — it requires both genres'
 statistics together and will come from a separate combined script once
 ACL's stat_analysis run exists.
 
-RELEASE-COPY NOTE: Exploratory factor analysis (EFA) and PCA are not part of
-the final thesis and have been removed from this release copy, including
-their outputs (pca_scatter.png, factor loadings/scores, eigenvalues, scree plots,
-correlation matrix). The only part of the former run_factor_analysis() that
-another analysis depends on — the zero-variance feature exclusion used by
-plot_selected_feature_boxplots() — is kept in get_boxplot_candidate_features().
-All remaining CSV outputs were verified to be byte-identical to those of the
-original (pre-removal) script run in the same environment; see docs/MANIFEST.md.
+RELEASE-COPY NOTE: Exploratory analysis code that is not part of the final
+thesis has been removed from this release copy, together with its outputs.
+The zero-variance feature exclusion used by plot_selected_feature_boxplots()
+is kept in get_boxplot_candidate_features(). All remaining CSV outputs were
+verified to be byte-identical to those of the original script run in the
+same environment; see docs/MANIFEST.md.
 
 Input:   /Users/dewansajol/Study/Uni Bamberg/Thesis/data/features_headlines.csv
 Outputs: /Users/dewansajol/Study/Uni Bamberg/Thesis/results/
@@ -135,22 +133,16 @@ def load_data():
 
 
 # ── 1. Feature list for selected_feature_boxplots.png ─────────────────────────
-# RELEASE-COPY NOTE: this used to be run_factor_analysis(), which also ran the
-# full EFA pipeline (Bartlett's test, KMO, Principal Axis Factoring, varimax
-# rotation, factor scores, and their CSV/figure outputs) plus a standalone PCA
-# scatter analysis. EFA and PCA are not part of the final thesis, so all of
-# that has been removed from this release copy. The only part of the original
-# function that anything else in this script depends on is the zero-variance
-# feature exclusion below: plot_selected_feature_boxplots() uses the resulting
-# fa_feat_cols list to restrict its top-8-by-|Cohen's d| feature selection.
-# That dependency is preserved here; everything else was deleted.
+# Excludes zero-variance features. plot_selected_feature_boxplots() uses the
+# resulting boxplot_feat_cols list to restrict its top-8-by-|Cohen's d|
+# feature selection.
 
 def get_boxplot_candidate_features(df, feat_cols):
     print("\n── Feature list (zero-variance exclusion) ─────────────────────")
 
-    fa_df = df[['group', 'prompt_id'] + feat_cols].dropna()
-    X_raw = fa_df[feat_cols].values
-    print(f"  Complete cases: {len(fa_df):,} / {len(df):,}")
+    cand_df = df[['group', 'prompt_id'] + feat_cols].dropna()
+    X_raw = cand_df[feat_cols].values
+    print(f"  Complete cases: {len(cand_df):,} / {len(df):,}")
 
     # Drop any zero-variance features. Constant columns are degenerate for
     # any variance-based feature ranking. Features are detected dynamically
@@ -161,9 +153,9 @@ def get_boxplot_candidate_features(df, feat_cols):
     excl = [feat_cols[i] for i in range(len(feat_cols)) if not valid_mask[i]]
     if n_excluded:
         print(f"  Excluding {n_excluded} zero-variance feature(s): {excl}")
-    fa_feat_cols = [feat_cols[i] for i in range(len(feat_cols)) if valid_mask[i]]
+    boxplot_feat_cols = [feat_cols[i] for i in range(len(feat_cols)) if valid_mask[i]]
 
-    return fa_feat_cols
+    return boxplot_feat_cols
 
 
 # ── 2. Cohen's d (H2: each checkpoint vs human) ───────────────────────────────
@@ -226,12 +218,12 @@ def run_cohens_d(df, feat_cols):
 
 # ── 2b. Selected-feature boxplots ─────────────────────────────────────────────
 
-def plot_selected_feature_boxplots(df, d_matrix, fa_feat_cols):
+def plot_selected_feature_boxplots(df, d_matrix, boxplot_feat_cols):
     print("\n── Selected feature boxplots ─────────────────────────────────")
 
     # Restrict candidates to the final analyzed feature list (post-exclusions,
     # i.e. after the zero-variance exclusion in get_boxplot_candidate_features()).
-    candidate_feats = [f for f in d_matrix.index if f in fa_feat_cols]
+    candidate_feats = [f for f in d_matrix.index if f in boxplot_feat_cols]
     mean_abs_d = d_matrix.loc[candidate_feats].abs().mean(axis=1).sort_values(ascending=False)
     selected = mean_abs_d.head(8).index.tolist()
     print(f"  Selected 8 features (mean |Cohen's d| vs human): {selected}")
@@ -442,9 +434,9 @@ def main():
     print(f"Results → {RESULTS_DIR}\n")
 
     df, feat_cols = load_data()
-    fa_feat_cols = get_boxplot_candidate_features(df, feat_cols)
+    boxplot_feat_cols = get_boxplot_candidate_features(df, feat_cols)
     d_matrix = run_cohens_d(df, feat_cols)
-    plot_selected_feature_boxplots(df, d_matrix, fa_feat_cols)
+    plot_selected_feature_boxplots(df, d_matrix, boxplot_feat_cols)
     plot_avg_abs_d_by_checkpoint(d_matrix)
     run_h1_stage_effects_heatmap(df, feat_cols)
     run_statistics(df, feat_cols)
