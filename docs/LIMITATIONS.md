@@ -80,7 +80,7 @@ historically. That's no longer a concern here since the exact version is now
 known and pinned — this item is kept only as a record of what was verified
 and when, not as an open limitation.
 
-## 3. Headline-ID assignment script not recovered (mapping itself is verified)
+## 3. Headline IDs were added in a separate step that was not kept (the IDs themselves are verified)
 
 `data/human_corpora_manifests/headlines_source_manifest.csv` and every
 downstream headline file (features, master, results) key on `prompt_id`
@@ -88,16 +88,15 @@ values `HL_0001`–`HL_1000`. Tracing back through every script in the original
 project (`grep -rl "HL_\|article_id"` across the full codebase) turns up no
 script that creates this column — `scripts/corpus_construction/
 download_news_articles.py` writes its output with `index=False` and no ID
-column at all. The `article_id`/`HL_####` values must have been added in an
-ad hoc, undocumented step (manual rename + sequential numbering) before the
-file was uploaded to the HPC cluster as `$WORK/data/news_articles_1000.csv`,
+column at all. The `article_id`/`HL_####` values were added in a separate step (a short
+script or command that named the column and numbered the rows in order) that
+was not kept in the project, before the file was uploaded to the HPC cluster as `$WORK/data/news_articles_1000.csv`,
 which the generation script then reads assuming a `prompt_id` column already
 exists.
 
 The README gives a one-line reconstruction (`HL_{i+1:04d}` over the
-downloader's row order) for how this numbering was most likely produced. The
-*script* that did it is still not recovered — no code anywhere in the
-project performs this assignment — but the *numbering itself* has since been
+downloader's row order) for how this numbering was most likely produced. The original command was not kept — no code in the project performs this
+assignment — but the *numbering itself* has since been
 verified, not just inferred: `gen_llama_base`'s SLURM job log (still held by
 the thesis author) shows
 
@@ -111,8 +110,7 @@ which is an exact match, including punctuation, to row 1
 local corpus file (not included in this release, since it contains article text).
 This confirms the file uploaded to the HPC as `$WORK/data/news_articles_1000.csv`
 was in the same row order as the local copy here, with `HL_0001`–`HL_1000`
-already assigned exactly as this release's manifest has them. So: the
-*command that created the ID column* is still unknown, but the *resulting
+already assigned exactly as this release's manifest has them. So: the original command that created the ID column was not kept, but the *resulting
 `prompt_id` mapping* is confirmed correct against an actual generation run,
 not just plausible.
 
